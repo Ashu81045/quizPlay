@@ -1,0 +1,846 @@
+[
+  {
+    "category": "Sports",
+    "question": "Which country hosted the 2016 Summer Olympics?",
+    "options": ["Brazil", "China", "USA", "Russia"],
+    "answer": "Brazil"
+  },
+  {
+    "category": "Sports",
+    "question": "Who is often referred to as 'The Greatest' in the sport of boxing?",
+    "options": ["Floyd Mayweather", "Muhammad Ali", "Mike Tyson", "Manny Pacquiao"],
+    "answer": "Muhammad Ali"
+  },
+  {
+    "category": "Sports",
+    "question": "In which year did the first modern Olympic Games take place?",
+    "options": ["1896", "1900", "1920", "1936"],
+    "answer": "1896"
+  },
+  {
+    "category": "Sports",
+    "question": "Which team has won the most NBA championships?",
+    "options": ["Los Angeles Lakers", "Chicago Bulls", "Boston Celtics", "Golden State Warriors"],
+    "answer": "Boston Celtics"
+  },
+  {
+    "category": "Sports",
+    "question": "Who holds the record for the most goals scored in a single football (soccer) season?",
+    "options": ["Lionel Messi", "Cristiano Ronaldo", "Pele", "Gerd Muller"],
+    "answer": "Gerd Muller"
+  },
+  {
+    "category": "Sports",
+    "question": "Which city hosted the 2012 Summer Olympics?",
+    "options": ["London", "Paris", "Tokyo", "Sydney"],
+    "answer": "London"
+  },
+  {
+    "category": "Sports",
+    "question": "What is the highest score possible in a perfect game of bowling?",
+    "options": ["300", "250", "400", "500"],
+    "answer": "300"
+  },
+  {
+    "category": "Sports",
+    "question": "Which country won the FIFA Women's World Cup in 2019?",
+    "options": ["USA", "Germany", "France", "England"],
+    "answer": "USA"
+  },
+  {
+    "category": "Sports",
+    "question": "Who is the all-time leading scorer in the NBA?",
+    "options": ["LeBron James", "Kareem Abdul-Jabbar", "Kobe Bryant", "Michael Jordan"],
+    "answer": "Kareem Abdul-Jabbar"
+  },
+  {
+    "category": "Sports",
+    "question": "In golf, what is the term for a score of one stroke under par on a hole?",
+    "options": ["Eagle", "Birdie", "Par", "Bogey"],
+    "answer": "Birdie"
+  },
+  {
+    "category": "Sports",
+    "question": "Which country has won the most FIFA World Cup titles?",
+    "options": ["Brazil", "Germany", "Italy", "Argentina"],
+    "answer": "Brazil"
+  },
+  {
+    "category": "Sports",
+    "question": "Who holds the record for the most Olympic gold medals in swimming?",
+    "options": ["Michael Phelps", "Ian Thorpe", "Ryan Lochte", "Mark Spitz"],
+    "answer": "Michael Phelps"
+  },
+  {
+    "category": "Sports",
+    "question": "Which tennis player has won the most Grand Slam singles titles?",
+    "options": ["Roger Federer", "Rafael Nadal", "Novak Djokovic", "Serena Williams"],
+    "answer": "Margaret Court"
+  },
+  {
+    "category": "Sports",
+    "question": "What is the official ball used in a game of table tennis?",
+    "options": ["Ping Pong Ball", "Tennis Ball", "Squash Ball", "Golf Ball"],
+    "answer": "Ping Pong Ball"
+  },
+  {
+    "category": "Sports",
+    "question": "Which track and field event does Usain Bolt hold the world record in?",
+    "options": ["100m", "200m", "400m", "High Jump"],
+    "answer": "100m"
+  },
+  {
+    "category": "Sports",
+    "question": "Who won the 2020 UEFA European Football Championship (Euro 2020)?",
+    "options": ["Italy", "England", "France", "Portugal"],
+    "answer": "Italy"
+  },
+  {
+    "category": "Sports",
+    "question": "In which year did Michael Jordan retire from professional basketball for the first time?",
+    "options": ["1993", "1996", "1999", "2001"],
+    "answer": "1993"
+  },
+  {
+    "category": "Sports",
+    "question": "Which horse is known as the 'Triple Crown' winner in horse racing?",
+    "options": ["Secretariat", "American Pharoah", "Affirmed", "Seattle Slew"],
+    "answer": "Secretariat"
+  },
+  {
+    "category": "Sports",
+    "question": "Who is the only player to have scored in every minute of a football (soccer) match?",
+    "options": ["Lionel Messi", "Cristiano Ronaldo", "Pelé", "Zlatan Ibrahimović"],
+    "answer": "Pelé"
+  },
+  {
+    "category": "Sports",
+    "question": "Which country has won the most Olympic gold medals in basketball?",
+    "options": ["USA", "Soviet Union", "Australia", "Spain"],
+    "answer": "USA"
+  },
+  {
+    "category": "Sports",
+    "question": "What is the total number of players on a standard soccer team during a match?",
+    "options": ["10", "11", "12", "9"],
+    "answer": "11"
+  },
+  {
+    "category": "Sports",
+    "question": "Who is the only athlete to have won Olympic gold in both the 100m and 200m sprints three times?",
+    "options": ["Usain Bolt", "Carl Lewis", "Jesse Owens", "Florence Griffith-Joyner"],
+    "answer": "Usain Bolt"
+  },
+  {
+    "category": "Sports",
+    "question": "In which city did the first modern Olympic Winter Games take place?",
+    "options": ["Chamonix", "Innsbruck", "St. Moritz", "Lake Placid"],
+    "answer": "Chamonix"
+  },
+  {
+    "category": "Sports",
+    "question": "Who holds the record for the most home runs in a single MLB season?",
+    "options": ["Babe Ruth", "Barry Bonds", "Mark McGwire", "Sammy Sosa"],
+    "answer": "Barry Bonds"
+  },
+  {
+    "category": "Sports",
+    "question": "Which country won the FIFA World Cup in 2018?",
+    "options": ["France", "Croatia", "Brazil", "Germany"],
+    "answer": "France"
+  },
+  {
+    "category": "Sports",
+    "question": "Who is known as the 'Black Mamba' in the world of basketball?",
+    "options": ["LeBron James", "Kobe Bryant", "Kevin Durant", "Stephen Curry"],
+    "answer": "Kobe Bryant"
+  },
+  {
+    "category": "Sports",
+    "question": "Which tennis player has won the most Wimbledon singles titles?",
+    "options": ["Roger Federer", "Rafael Nadal", "Novak Djokovic", "Martina Navratilova"],
+    "answer": "Martina Navratilova"
+  },
+  {
+    "category": "Sports",
+    "question": "What is the nickname of the Australian national rugby union team?",
+    "options": ["Wallabies", "Kangaroos", "All Blacks", "Springboks"],
+    "answer": "Wallabies"
+  },
+  {
+    "category": "Sports",
+    "question": "Who won the 2021 UEFA Champions League?",
+    "options": ["Chelsea", "Manchester City", "Real Madrid", "Bayern Munich"],
+    "answer": "Chelsea"
+  },
+  {
+    "category": "Sports",
+    "question": "Which country has won the most gold medals in the history of the Summer Olympics?",
+    "options": ["USA", "China", "Russia", "Germany"],
+    "answer": "USA"
+  },
+  {
+    "category": "Sports",
+    "question": "In tennis, what is the term for a score of zero?",
+    "options": ["Deuce", "Advantage", "Love", "Breakpoint"],
+    "answer": "Love"
+  },
+  {
+    "category": "Sports",
+    "question": "Who is the only boxer to win world titles in eight different weight divisions?",
+    "options": ["Manny Pacquiao", "Floyd Mayweather", "Mike Tyson", "Sugar Ray Leonard"],
+    "answer": "Manny Pacquiao"
+  },
+  {
+    "category": "Sports",
+    "question": "Which Formula 1 driver holds the record for the most World Championships?",
+    "options": ["Lewis Hamilton", "Michael Schumacher", "Ayrton Senna", "Sebastian Vettel"],
+    "answer": "Michael Schumacher"
+  },
+  {
+    "category": "Sports",
+    "question": "In which year did the first official modern-day Tour de France take place?",
+    "options": ["1903", "1910", "1920", "1930"],
+    "answer": "1903"
+  },
+  {
+    "category": "Sports",
+    "question": "Who is the all-time leading scorer in the history of the NBA playoffs?",
+    "options": ["LeBron James", "Kareem Abdul-Jabbar", "Kobe Bryant", "Michael Jordan"],
+    "answer": "LeBron James"
+  },
+  {
+    "category": "Sports",
+    "question": "Which country won the most recent Rugby World Cup as of 2024?",
+    "options": ["New Zealand", "South Africa", "England", "Australia"],
+    "answer": "South Africa"
+  },
+  {
+    "category": "Sports",
+    "question": "Who holds the record for the fastest 100 meters sprint in women's athletics?",
+    "options": ["Florence Griffith-Joyner", "Usain Bolt", "Shelly-Ann Fraser-Pryce", "Marion Jones"],
+    "answer": "Florence Griffith-Joyner"
+  },
+  {
+    "category": "Sports",
+    "question": "Which golfer is often referred to as 'Lefty' due to being left-handed?",
+    "options": ["Tiger Woods", "Phil Mickelson", "Rory McIlroy", "Jordan Spieth"],
+    "answer": "Phil Mickelson"
+  },
+  {
+    "category": "Sports",
+    "question": "What is the record for the longest unbeaten streak in professional boxing?",
+    "options": ["49-0", "50-0", "51-0", "48-0"],
+    "answer": "49-0"
+  },
+  {
+    "category": "Sports",
+    "question": "Which country hosted the first Cricket World Cup?",
+    "options": ["England", "India", "Australia", "West Indies"],
+    "answer": "England"
+  },
+  {
+    "category": "Sports",
+    "question": "Who is the only athlete to have won Olympic gold in both the 100m and 200m sprints four times?",
+    "options": ["Usain Bolt", "Carl Lewis", "Jesse Owens", "Florence Griffith-Joyner"],
+    "answer": "Usain Bolt"
+  },
+  {
+    "category": "Sports",
+    "question": "What is the highest break ever recorded in professional snooker?",
+    "options": ["147", "155", "147", "160"],
+    "answer": "147"
+  },
+  {
+    "category": "Sports",
+    "question": "Which baseball player holds the record for the most career home runs?",
+    "options": ["Babe Ruth", "Barry Bonds", "Hank Aaron", "Mark McGwire"],
+    "answer": "Hank Aaron"
+  },
+  {
+    "category": "Sports",
+    "question": "Who is the only player to have won the Ballon d'Or seven times?",
+    "options": ["Lionel Messi", "Cristiano Ronaldo", "Neymar", "Andres Iniesta"],
+    "answer": "Lionel Messi"
+  },
+  {
+    "category": "Sports",
+    "question": "In which city did the 2016 Summer Paralympics take place?",
+    "options": ["Rio de Janeiro", "London", "Tokyo", "Beijing"],
+    "answer": "Rio de Janeiro"
+  },
+  {
+    "category": "Sports",
+    "question": "Who is the only driver to have won the Indianapolis 500, the Monaco Grand Prix, and the 24 Hours of Le Mans?",
+    "options": ["Mario Andretti", "Ayrton Senna", "Lewis Hamilton", "Fernando Alonso"],
+    "answer": "Graham Hill"
+  },
+  {
+    "category": "Sports",
+    "question": "Which country won the most recent Women's Cricket World Cup as of 2024?",
+    "options": ["Australia", "England", "India", "South Africa"],
+    "answer": "Australia"
+  },
+  {
+    "category": "Sports",
+    "question": "What is the distance of a marathon in kilometers?",
+    "options": ["42.195", "40.195", "45.000", "39.195"],
+    "answer": "42.195"
+  },
+  {
+    "category": "Sports",
+    "question": "Who is the only player to have won FIFA World Player of the Year four times?",
+    "options": ["Lionel Messi", "Cristiano Ronaldo", "Zinedine Zidane", "Ronaldinho"],
+    "answer": "Lionel Messi"
+  },
+  {
+    "category": "Sports",
+    "question": "Which country is considered the birthplace of judo?",
+    "options": ["China", "Japan", "South Korea", "Russia"],
+    "answer": "Japan"
+  },
+  {
+    "category": "Sports",
+    "question": "Who won the 2020 Australian Open Men's Singles title?",
+    "options": ["Novak Djokovic", "Rafael Nadal", "Roger Federer", "Dominic Thiem"],
+    "answer": "Novak Djokovic"
+  },
+  {
+    "category": "Sports",
+    "question": "Which athlete set the world record for the men's marathon in the 2019 Berlin Marathon?",
+    "options": ["Eliud Kipchoge", "Kenenisa Bekele", "Wilson Kipsang", "Dennis Kipruto"],
+    "answer": "Eliud Kipchoge"
+  },
+  {
+    "category": "Sports",
+    "question": "In which year did the first official Rugby World Cup take place?",
+    "options": ["1987", "1991", "1975", "2003"],
+    "answer": "1987"
+  },
+  {
+    "category": "Sports",
+    "question": "Who won the 2022 FIFA World Cup?",
+    "options": ["France", "Argentina", "Germany", "Brazil"],
+    "answer": "France"
+  },
+  {
+    "category": "Sports",
+    "question": "Which athlete is known as the 'Flying Sikh'?",
+    "options": ["Milkha Singh", "Usain Bolt", "Carl Lewis", "Haile Gebrselassie"],
+    "answer": "Milkha Singh"
+  },
+  {
+    "category": "Sports",
+    "question": "What is the diameter of a standard basketball hoop in inches?",
+    "options": ["18", "20", "22", "24"],
+    "answer": "18"
+  },
+  {
+    "category": "Sports",
+    "question": "Who holds the record for the most goals scored in a single NHL season?",
+    "options": ["Wayne Gretzky", "Mario Lemieux", "Bobby Orr", "Gordie Howe"],
+    "answer": "Wayne Gretzky"
+  },
+  {
+    "category": "Sports",
+    "question": "Who holds the record for the most gold medals won in a single Olympic Games?",
+    "options": ["Michael Phelps", "Usain Bolt", "Jesse Owens", "Simone Biles"],
+    "answer": "Michael Phelps"
+  },
+  {
+    "category": "Sports",
+    "question": "Which country is known for inventing the sport of cricket?",
+    "options": ["India", "Australia", "England", "South Africa"],
+    "answer": "England"
+  },
+  {
+    "category": "Sports",
+    "question": "In baseball, what does the acronym MLB stand for?",
+    "options": ["Major League Baseball", "Minor League Baseball", "Modern League Baseball", "Mega League Baseball"],
+    "answer": "Major League Baseball"
+  },
+  {
+    "category": "Sports",
+    "question": "Who is the all-time leading scorer in the history of the NHL?",
+    "options": ["Wayne Gretzky", "Mario Lemieux", "Jaromir Jagr", "Gordie Howe"],
+    "answer": "Wayne Gretzky"
+  },
+  {
+    "category": "Sports",
+    "question": "Which city hosted the 2016 Summer Olympics?",
+    "options": ["Rio de Janeiro", "Tokyo", "London", "Beijing"],
+    "answer": "Rio de Janeiro"
+  },
+  {
+    "category": "Sports",
+    "question": "Who is the only athlete to have won Olympic gold in both the Summer and Winter Games in different sports?",
+    "options": ["Usain Bolt", "Michael Phelps", "Simone Biles", "Eddie Eagan"],
+    "answer": "Eddie Eagan"
+  },
+  {
+    "category": "Sports",
+    "question": "What is the nickname of the New Zealand national rugby union team?",
+    "options": ["All Blacks", "Kiwis", "Wallabies", "Springboks"],
+    "answer": "All Blacks"
+  },
+  {
+    "category": "Sports",
+    "question": "In which year did the first Super Bowl take place?",
+    "options": ["1967", "1972", "1980", "1991"],
+    "answer": "1967"
+  },
+  {
+    "category": "Sports",
+    "question": "Who is the only player to have won the FIFA World Cup three times as both a player and a coach?",
+    "options": ["Pele", "Diego Maradona", "Franz Beckenbauer", "Zinedine Zidane"],
+    "answer": "Franz Beckenbauer"
+  },
+  {
+    "category": "Sports",
+    "question": "Which country is the birthplace of the sport of Kabaddi?",
+    "options": ["India", "Iran", "Japan", "South Korea"],
+    "answer": "India"
+  },
+  {
+    "category": "Sports",
+    "question": "Who is the only woman to have won Olympic gold in both singles and doubles tennis?",
+    "options": ["Serena Williams", "Venus Williams", "Steffi Graf", "Martina Navratilova"],
+    "answer": "Venus Williams"
+  },
+  {
+    "category": "Sports",
+    "question": "Which NBA team has won the most consecutive championships?",
+    "options": ["Boston Celtics", "Los Angeles Lakers", "Chicago Bulls", "Golden State Warriors"],
+    "answer": "Boston Celtics"
+  },
+  {
+    "category": "Sports",
+    "question": "What is the scoring system called in fencing?",
+    "options": ["Points", "Hits", "Touches", "Strokes"],
+    "answer": "Touches"
+  },
+  {
+    "category": "Sports",
+    "question": "Which athlete is often referred to as 'The Queen of the Court' in tennis?",
+    "options": ["Serena Williams", "Martina Navratilova", "Steffi Graf", "Chris Evert"],
+    "answer": "Serena Williams"
+  },
+  {
+    "category": "Sports",
+    "question": "In which year did the first official women's cricket World Cup take place?",
+    "options": ["1973", "1980", "1991", "2000"],
+    "answer": "1973"
+  },
+  {
+    "category": "Sports",
+    "question": "Who is the only cyclist to have won the Tour de France seven consecutive times?",
+    "options": ["Lance Armstrong", "Eddy Merckx", "Chris Froome", "Bernard Hinault"],
+    "answer": "Lance Armstrong"
+  },
+  {
+    "category": "Sports",
+    "question": "Which country won the most recent Copa America football tournament as of 2024?",
+    "options": ["Argentina", "Brazil", "Uruguay", "Chile"],
+    "answer": "Argentina"
+  },
+  {
+    "category": "Sports",
+    "question": "Who is known as the 'Rocket' in the world of snooker?",
+    "options": ["Ronnie O'Sullivan", "Steve Davis", "Mark Selby", "John Higgins"],
+    "answer": "Ronnie O'Sullivan"
+  },
+  {
+    "category": "Sports",
+    "question": "What is the traditional color of the jersey worn by the leader of the Tour de France?",
+    "options": ["Yellow", "Green", "Polka Dot", "White"],
+    "answer": "Yellow"
+  },
+  {
+    "category": "Sports",
+    "question": "Which country has won the most Davis Cup titles in men's tennis?",
+    "options": ["USA", "Australia", "Spain", "France"],
+    "answer": "USA"
+  },
+  {
+    "category": "Sports",
+    "question": "Who is the only driver to have won the Formula 1 World Championship with a team outside of Europe?",
+    "options": ["Ayrton Senna", "Nigel Mansell", "Alain Prost", "Emerson Fittipaldi"],
+    "answer": "Emerson Fittipaldi"
+  },
+  {
+    "category": "Sports",
+    "question": "Which country won the most gold medals in the 2020 Summer Olympics?",
+    "options": ["USA", "China", "Japan", "Russia"],
+    "answer": "USA"
+  },
+  {
+    "category": "Sports",
+    "question": "Who holds the record for the most points scored in a single NBA game?",
+    "options": ["Wilt Chamberlain", "Kobe Bryant", "Michael Jordan", "LeBron James"],
+    "answer": "Wilt Chamberlain"
+  },
+  {
+    "category": "Sports",
+    "question": "Which city is famous for hosting the annual Wimbledon tennis tournament?",
+    "options": ["Paris", "New York", "London", "Melbourne"],
+    "answer": "London"
+  },
+  {
+    "category": "Sports",
+    "question": "Who is the only football player to have won the FIFA Ballon d'Or seven times?",
+    "options": ["Lionel Messi", "Cristiano Ronaldo", "Neymar", "Andres Iniesta"],
+    "answer": "Lionel Messi"
+  },
+  {
+    "category": "Sports",
+    "question": "What is the diameter of a standard ice hockey puck in inches?",
+    "options": ["2.5", "3", "3.5", "4"],
+    "answer": "3"
+  },
+  {
+    "category": "Sports",
+    "question": "Who holds the record for the fastest century in One Day International (ODI) cricket?",
+    "options": ["AB de Villiers", "Brian Lara", "Shahid Afridi", "Chris Gayle"],
+    "answer": "AB de Villiers"
+  },
+  {
+    "category": "Sports",
+    "question": "In which year did the first official women's soccer World Cup take place?",
+    "options": ["1991", "1985", "2000", "1999"],
+    "answer": "1991"
+  },
+  {
+    "category": "Sports",
+    "question": "Which country has won the most Olympic gold medals in women's gymnastics?",
+    "options": ["USA", "China", "Russia", "Romania"],
+    "answer": "USA"
+  },
+  {
+    "category": "Sports",
+    "question": "Which athlete is known as the 'Swiss Maestro' in tennis?",
+    "options": ["Rafael Nadal", "Novak Djokovic", "Roger Federer", "Andy Murray"],
+    "answer": "Roger Federer"
+  },
+  {
+    "category": "Sports",
+    "question": "In which year did the first official Women's World Cup in cricket take place?",
+    "options": ["1973", "1982", "1992", "2005"],
+    "answer": "1973"
+  },
+  {
+    "category": "Sports",
+    "question": "Who is the only player to have won the FIFA Women's World Player of the Year seven times?",
+    "options": ["Marta", "Abby Wambach", "Birgit Prinz", "Carli Lloyd"],
+    "answer": "Marta"
+  },
+  {
+    "category": "Sports",
+    "question": "Which country won the most recent Rugby World Cup for women as of 2024?",
+    "options": ["New Zealand", "England", "France", "Canada"],
+    "answer": "New Zealand"
+  },
+  {
+    "category": "Sports",
+    "question": "What is the world record for the longest golf drive in a professional competition?",
+    "options": ["515 yards", "551 yards", "638 yards", "721 yards"],
+    "answer": "551 yards"
+  },
+  {
+    "category": "Sports",
+    "question": "Who is the only Formula 1 driver to have won seven World Championships?",
+    "options": ["Lewis Hamilton", "Ayrton Senna", "Michael Schumacher", "Alain Prost"],
+    "answer": "Michael Schumacher"
+  },
+  {
+    "category": "Sports",
+    "question": "Which city hosted the 2018 Winter Olympics?",
+    "options": ["Pyeongchang", "Sochi", "Vancouver", "Salt Lake City"],
+    "answer": "Pyeongchang"
+  },
+  {
+    "category": "Sports",
+    "question": "Who won the Golden Boot award for being the top scorer in the 2018 FIFA World Cup?",
+    "options": ["Harry Kane", "Lionel Messi", "Cristiano Ronaldo", "Kylian Mbappe"],
+    "answer": "Harry Kane"
+  },
+  {
+    "category": "Sports",
+    "question": "Which basketball player is known as 'The Greek Freak'?",
+    "options": ["LeBron James", "Kevin Durant", "Giannis Antetokounmpo", "Kawhi Leonard"],
+    "answer": "Giannis Antetokounmpo"
+  },
+  {
+    "category": "Sports",
+    "question": "Who is the all-time leading run-scorer in Test cricket?",
+    "options": ["Sachin Tendulkar", "Ricky Ponting", "Alastair Cook", "Jacques Kallis"],
+    "answer": "Sachin Tendulkar"
+  },
+  {
+    "category": "Sports",
+    "question": "Which country won the most recent ICC Men's T20 World Cup as of 2024?",
+    "options": ["Australia", "India", "West Indies", "England"],
+    "answer": "Australia"
+  },
+  {
+    "category": "Sports",
+    "question": "Who holds the record for the most consecutive wins in professional boxing without a loss?",
+    "options": ["Rocky Marciano", "Floyd Mayweather", "Joe Louis", "Sugar Ray Robinson"],
+    "answer": "Rocky Marciano"
+  },
+  {
+    "category": "Sports",
+    "question": "In which sport would you perform a 'slam dunk'?",
+    "options": ["Soccer", "Basketball", "Volleyball", "Tennis"],
+    "answer": "Basketball"
+  },
+  {
+    "category": "Sports",
+    "question": "Which country won the most gold medals in the 2022 Winter Olympics?",
+    "options": ["USA", "Norway", "Germany", "Canada"],
+    "answer": "Norway"
+  },
+  {
+    "category": "Sports",
+    "question": "Who holds the record for the fastest century in One Day International (ODI) cricket?",
+    "options": ["AB de Villiers", "Brian Lara", "Shahid Afridi", "Chris Gayle"],
+    "answer": "AB de Villiers"
+  },
+  {
+    "category": "Sports",
+    "question": "What is the scoring system called in badminton?",
+    "options": ["Points", "Goals", "Sets", "Rounds"],
+    "answer": "Points"
+  },
+  {
+    "category": "Sports",
+    "question": "Which country has won the most Fed Cup titles in women's tennis?",
+    "options": ["USA", "Russia", "Czech Republic", "Australia"],
+    "answer": "USA"
+  },
+  {
+    "category": "Sports",
+    "question": "Who is the only surfer to win 11 world titles, including five consecutive titles from 1994 to 1998?",
+    "options": ["Kelly Slater", "Mick Fanning", "John John Florence", "Gabriel Medina"],
+    "answer": "Kelly Slater"
+  },
+  {
+    "category": "Sports",
+    "question": "What is the diameter of a standard soccer (football) ball in inches?",
+    "options": ["8.5", "10", "11", "12"],
+    "answer": "8.5"
+  },
+  {
+    "category": "Sports",
+    "question": "Which country has the most Olympic gold medals in gymnastics?",
+    "options": ["China", "Russia", "USA", "Romania"],
+    "answer": "USA"
+  },
+  {
+    "category": "Sports",
+    "question": "Who won the 2021 NBA Finals MVP (Most Valuable Player) award?",
+    "options": ["LeBron James", "Anthony Davis", "Kevin Durant", "Giannis Antetokounmpo"],
+    "answer": "Giannis Antetokounmpo"
+  },
+  {
+    "category": "Sports",
+    "question": "In which city did the first official triathlon take place?",
+    "options": ["San Diego", "Honolulu", "Sydney", "Nice"],
+    "answer": "San Diego"
+  },
+  {
+    "category": "Sports",
+    "question": "Who is the only cricketer to have scored 100 international centuries?",
+    "options": ["Virat Kohli", "Sachin Tendulkar", "Ricky Ponting", "Brian Lara"],
+    "answer": "Sachin Tendulkar"
+  },
+  {
+    "category": "Sports",
+    "question": "What is the nickname of the professional American football team based in Green Bay, Wisconsin?",
+    "options": ["Bears", "Packers", "Steelers", "Cowboys"],
+    "answer": "Packers"
+  },
+  {
+    "category": "Sports",
+    "question": "Who is the all-time leading scorer in the history of the WNBA?",
+    "options": ["Diana Taurasi", "Tamika Catchings", "Lisa Leslie", "Maya Moore"],
+    "answer": "Diana Taurasi"
+  },
+  {
+    "category": "Sports",
+    "question": "Which country has won the most Olympic gold medals in archery?",
+    "options": ["South Korea", "China", "USA", "Russia"],
+    "answer": "South Korea"
+  },
+  {
+    "category": "Sports",
+    "question": "Who is the only player to have won the Grand Slam (Australian Open, French Open, Wimbledon, and US Open) in a single calendar year twice?",
+    "options": ["Serena Williams", "Steffi Graf", "Margaret Court", "Martina Navratilova"],
+    "answer": "Steffi Graf"
+  },
+  {
+    "category": "Sports",
+    "question": "Which country hosted the first Cricket World Cup for men?",
+    "options": ["England", "India", "West Indies", "Australia"],
+    "answer": "England"
+  },
+  {
+    "category": "Sports",
+    "question": "Who is the all-time leading goalscorer in the history of the FIFA World Cup?",
+    "options": ["Miroslav Klose", "Pele", "Ronaldo Nazario", "Lionel Messi"],
+    "answer": "Miroslav Klose"
+  },
+  {
+    "category": "Sports",
+    "question": "In golf, what is the term for a score of one stroke under par on a hole?",
+    "options": ["Bogey", "Eagle", "Birdie", "Albatross"],
+    "answer": "Birdie"
+  },
+  {
+    "category": "Sports",
+    "question": "Which horse is known as the 'fastest two minutes in sports' after winning the Kentucky Derby?",
+    "options": ["Secretariat", "American Pharoah", "Seattle Slew", "Affirmed"],
+    "answer": "Secretariat"
+  },
+  {
+    "category": "Sports",
+    "question": "Who holds the record for the most goals scored in a single FIFA Women's World Cup tournament?",
+    "options": ["Marta", "Birgit Prinz", "Abby Wambach", "Megan Rapinoe"],
+    "answer": "Marta"
+  },
+  {
+    "category": "Sports",
+    "question": "In which year did the first official Women's Cricket World Cup take place?",
+    "options": ["1973", "1982", "1992", "2000"],
+    "answer": "1973"
+  },
+  {
+    "category": "Sports",
+    "question": "Who won the 2021 Ballon d'Or for the best male football player?",
+    "options": ["Lionel Messi", "Robert Lewandowski", "Cristiano Ronaldo", "Mohamed Salah"],
+    "answer": "Lionel Messi"
+  },
+  {
+    "category": "Sports",
+    "question": "Which country has won the most Olympic gold medals in wrestling?",
+    "options": ["Russia", "USA", "Iran", "Japan"],
+    "answer": "Russia"
+  },
+  {
+    "category": "Sports",
+    "question": "Who is the only player to have won the FIFA Women's World Player of the Year six times?",
+    "options": ["Marta", "Abby Wambach", "Birgit Prinz", "Mia Hamm"],
+    "answer": "Marta"
+  },
+  {
+    "category": "Sports",
+    "question": "Which country is the birthplace of the sport of rugby?",
+    "options": ["England", "Ireland", "New Zealand", "South Africa"],
+    "answer": "England"
+  },
+  {
+    "category": "Sports",
+    "question": "Who holds the record for the most home runs in a single MLB season?",
+    "options": ["Babe Ruth", "Barry Bonds", "Mark McGwire", "Sammy Sosa"],
+    "answer": "Barry Bonds"
+  },
+  {
+    "category": "Sports",
+    "question": "In which city did the first modern Summer Olympics take place in 1896?",
+    "options": ["Paris", "Athens", "London", "Rome"],
+    "answer": "Athens"
+  },
+  {
+    "category": "Sports",
+    "question": "Which country won the most gold medals in the 2016 Summer Olympics?",
+    "options": ["USA", "China", "Great Britain", "Russia"],
+    "answer": "USA"
+  },
+  {
+    "category": "Sports",
+    "question": "Who is known as the 'Rocket Man' in the world of snooker?",
+    "options": ["Ronnie O'Sullivan", "John Higgins", "Mark Selby", "Neil Robertson"],
+    "answer": "Ronnie O'Sullivan"
+  },
+  {
+    "category": "Sports",
+    "question": "Which country has won the most Davis Cup titles in men's tennis?",
+    "options": ["USA", "Australia", "Spain", "France"],
+    "answer": "USA"
+  },
+  {
+    "category": "Sports",
+    "question": "Who is the only gymnast to have won three consecutive Olympic all-around titles?",
+    "options": ["Nadia Comaneci", "Simone Biles", "Olga Korbut", "Gabby Douglas"],
+    "answer": "Nadia Comaneci"
+  },
+  {
+    "category": "Sports",
+    "question": "Which athlete is known as the 'Blade Runner' and competed in both the Paralympics and Olympics?",
+    "options": ["Usain Bolt", "Oscar Pistorius", "Michael Phelps", "Mo Farah"],
+    "answer": "Oscar Pistorius"
+  },
+  {
+    "category": "Sports",
+    "question": "What is the traditional color of the jersey worn by the leader of the Tour de France?",
+    "options": ["Yellow", "Green", "Polka Dot", "White"],
+    "answer": "Yellow"
+  },
+  {
+    "category": "Sports",
+    "question": "Who is the only golfer to have won the Career Grand Slam three times?",
+    "options": ["Tiger Woods", "Phil Mickelson", "Rory McIlroy", "Jordan Spieth"],
+    "answer": "Tiger Woods"
+  },
+  {
+    "category": "Sports",
+    "question": "Which country won the most recent Women's Hockey World Cup as of 2024?",
+    "options": ["Netherlands", "Argentina", "Australia", "Germany"],
+    "answer": "Netherlands"
+  },
+  {
+    "category": "Sports",
+    "question": "Who is the only driver to have won the Indianapolis 500, the Monaco Grand Prix, and the 24 Hours of Le Mans?",
+    "options": ["Mario Andretti", "Ayrton Senna", "Lewis Hamilton", "Fernando Alonso"],
+    "answer": "Graham Hill"
+  },
+  {
+    "category": "Sports",
+    "question": "In which sport is the 'Green Jacket' awarded to the winner of a prestigious annual tournament?",
+    "options": ["Tennis", "Golf", "Cricket", "Skiing"],
+    "answer": "Golf"
+  },
+  {
+    "category": "Sports",
+    "question": "Who is the only female athlete to have won gold in both the heptathlon and long jump at the same Olympics?",
+    "options": ["Jackie Joyner-Kersee", "Jessica Ennis-Hill", "Nafissatou Thiam", "Carolina Kluft"],
+    "answer": "Jackie Joyner-Kersee"
+  },
+  {
+    "category": "Sports",
+    "question": "Which country won the most recent UEFA European Football Championship as of 2024?",
+    "options": ["France", "Portugal", "Germany", "Spain"],
+    "answer": "France"
+  },
+  {
+    "category": "Sports",
+    "question": "Who holds the record for the most consecutive wins in professional boxing without a loss?",
+    "options": ["Rocky Marciano", "Floyd Mayweather", "Joe Louis", "Sugar Ray Robinson"],
+    "answer": "Rocky Marciano"
+  },
+  {
+    "category": "Sports",
+    "question": "What is the diameter of a standard table tennis ball in millimeters?",
+    "options": ["38", "40", "42", "44"],
+    "answer": "40"
+  },
+  {
+    "category": "Sports",
+    "question": "Which country won the most gold medals in the 2018 Winter Olympics?",
+    "options": ["Norway", "Germany", "USA", "Canada"],
+    "answer": "Norway"
+  }
+]
+
+
+
+

@@ -1,0 +1,1292 @@
+[
+  {
+    "category": "History",
+    "question": "Who was the first President of the United States?",
+    "options": [
+      "George Washington",
+      "Abraham Lincoln",
+      "Thomas Jefferson",
+      "John Adams"
+    ],
+    "answer": "George Washington"
+  },
+  {
+    "category": "History",
+    "question": "What ancient civilization built the pyramids in Egypt?",
+    "options": [
+      "Greek",
+      "Roman",
+      "Egyptian",
+      "Mesopotamian"
+    ],
+    "answer": "Egyptian"
+  },
+  {
+    "category": "History",
+    "question": "Who is known for discovering America in 1492?",
+    "options": [
+      "Christopher Columbus",
+      "Marco Polo",
+      "Amerigo Vespucci",
+      "Ferdinand Magellan"
+    ],
+    "answer": "Christopher Columbus"
+  },
+  {
+    "category": "History",
+    "question": "Which famous leader said, 'I have a dream' during the Civil Rights Movement?",
+    "options": [
+      "Martin Luther King Jr.",
+      "Malcolm X",
+      "Rosa Parks",
+      "Harriet Tubman"
+    ],
+    "answer": "Martin Luther King Jr."
+  },
+  {
+    "category": "History",
+    "question": "What ancient wonder was located in the city of Babylon?",
+    "options": [
+      "Hanging Gardens",
+      "Colossus of Rhodes",
+      "Great Pyramid of Giza",
+      "Statue of Zeus at Olympia"
+    ],
+    "answer": "Hanging Gardens"
+  },
+  {
+    "category": "History",
+    "question": "Who was the famous nurse during the Crimean War and is known as the 'Lady with the Lamp'?",
+    "options": [
+      "Florence Nightingale",
+      "Clara Barton",
+      "Mary Seacole",
+      "Dorothea Dix"
+    ],
+    "answer": "Florence Nightingale"
+  },
+  {
+    "category": "History",
+    "question": "In which century did the Renaissance period begin?",
+    "options": [
+      "14th century",
+      "16th century",
+      "18th century",
+      "20th century"
+    ],
+    "answer": "14th century"
+  },
+  {
+    "category": "History",
+    "question": "Who was the leader of the American Civil Rights Movement and won the Nobel Peace Prize in 1964?",
+    "options": [
+      "Malcolm X",
+      "Martin Luther King Jr.",
+      "Rosa Parks",
+      "Harriet Tubman"
+    ],
+    "answer": "Martin Luther King Jr."
+  },
+  {
+    "category": "History",
+    "question": "Which famous pirate sailed the Caribbean Sea during the Golden Age of Piracy?",
+    "options": [
+      "Blackbeard",
+      "Captain Kidd",
+      "Anne Bonny",
+      "Calico Jack"
+    ],
+    "answer": "Blackbeard"
+  },
+  {
+    "category": "History",
+    "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+    "options": [
+      "Amelia Earhart",
+      "Bessie Coleman",
+      "Valentina Tereshkova",
+      "Harriet Quimby"
+    ],
+    "answer": "Amelia Earhart"
+  },
+  {
+    "category": "History",
+    "question": "What ancient civilization built the Great Wall of China?",
+    "options": [
+      "Mongols",
+      "Japanese",
+      "Chinese",
+      "Koreans"
+    ],
+    "answer": "Chinese"
+  },
+  {
+    "category": "History",
+    "question": "Who wrote the 'Iliad' and the 'Odyssey' in ancient Greece?",
+    "options": [
+      "Homer",
+      "Sophocles",
+      "Aristotle",
+      "Sappho"
+    ],
+    "answer": "Homer"
+  },
+  {
+    "category": "History",
+    "question": "Which ancient civilization is known for creating the first system of writing called cuneiform?",
+    "options": [
+      "Sumerians",
+      "Mayans",
+      "Incas",
+      "Aztecs"
+    ],
+    "answer": "Sumerians"
+  },
+  {
+    "category": "History",
+    "question": "Who was the famous queen of ancient Egypt known for her beauty and intelligence?",
+    "options": [
+      "Cleopatra",
+      "Nefertiti",
+      "Hatshepsut",
+      "Isis"
+    ],
+    "answer": "Cleopatra"
+  },
+  {
+    "category": "History",
+    "question": "In which year did the Titanic sink after hitting an iceberg?",
+    "options": [
+      "1912",
+      "1920",
+      "1905",
+      "1931"
+    ],
+    "answer": "1912"
+  },
+  {
+    "category": "History",
+    "question": "Who was the leader of the nonviolent movement for India's independence and is known as 'Mahatma'?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose",
+      "Sardar Patel",
+      "Mahatma Gandhi"
+    ],
+    "answer": "Mahatma Gandhi"
+  },
+  {
+    "category": "History",
+    "question": "Which ancient civilization built the city of Troy, as mentioned in the 'Iliad'?",
+    "options": [
+      "Greek",
+      "Roman",
+      "Persian",
+      "Trojan"
+    ],
+    "answer": "Trojan"
+  },
+  {
+    "category": "History",
+    "question": "Who was the first woman to win a Nobel Prize and is famous for her work in radioactivity?",
+    "options": [
+      "Marie Curie",
+      "Rosalind Franklin",
+      "Ada Lovelace",
+      "Barbara McClintock"
+    ],
+    "answer": "Marie Curie"
+  },
+  {
+    "category": "History",
+    "question": "Which famous scientist formulated the laws of motion and gravity?",
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Nikola Tesla"
+    ],
+    "answer": "Isaac Newton"
+  },
+  {
+    "category": "History",
+    "question": "Who was the first emperor of China and is known for the Terracotta Army?",
+    "options": [
+      "Emperor Qin Shi Huang",
+      "Emperor Han Wudi",
+      "Emperor Tang Taizong",
+      "Emperor Wu Zetian"
+    ],
+    "answer": "Emperor Qin Shi Huang"
+  },
+  {
+    "category": "History",
+    "question": "Which ancient civilization is credited with the invention of democracy?",
+    "options": [
+      "Roman",
+      "Persian",
+      "Greek",
+      "Egyptian"
+    ],
+    "answer": "Greek"
+  },
+  {
+    "category": "History",
+    "question": "Who was the famous nurse during the Crimean War and is known as the 'Lady with the Lamp'?",
+    "options": [
+      "Florence Nightingale",
+      "Clara Barton",
+      "Mary Seacole",
+      "Dorothea Dix"
+    ],
+    "answer": "Florence Nightingale"
+  },
+  {
+    "category": "History",
+    "question": "In which century did the Renaissance period begin?",
+    "options": [
+      "14th century",
+      "16th century",
+      "18th century",
+      "20th century"
+    ],
+    "answer": "14th century"
+  },
+  {
+    "category": "History",
+    "question": "Who was the leader of the American Civil Rights Movement and won the Nobel Peace Prize in 1964?",
+    "options": [
+      "Malcolm X",
+      "Martin Luther King Jr.",
+      "Rosa Parks",
+      "Harriet Tubman"
+    ],
+    "answer": "Martin Luther King Jr."
+  },
+  {
+    "category": "History",
+    "question": "Which famous pirate sailed the Caribbean Sea during the Golden Age of Piracy?",
+    "options": [
+      "Blackbeard",
+      "Captain Kidd",
+      "Anne Bonny",
+      "Calico Jack"
+    ],
+    "answer": "Blackbeard"
+  },
+  {
+    "category": "History",
+    "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+    "options": [
+      "Amelia Earhart",
+      "Bessie Coleman",
+      "Valentina Tereshkova",
+      "Harriet Quimby"
+    ],
+    "answer": "Amelia Earhart"
+  },
+  {
+    "category": "History",
+    "question": "What ancient civilization built the Great Wall of China?",
+    "options": [
+      "Mongols",
+      "Japanese",
+      "Chinese",
+      "Koreans"
+    ],
+    "answer": "Chinese"
+  },
+  {
+    "category": "History",
+    "question": "Who wrote the 'Iliad' and the 'Odyssey' in ancient Greece?",
+    "options": [
+      "Homer",
+      "Sophocles",
+      "Aristotle",
+      "Sappho"
+    ],
+    "answer": "Homer"
+  },
+  {
+    "category": "History",
+    "question": "Which ancient civilization is known for creating the first system of writing called cuneiform?",
+    "options": [
+      "Sumerians",
+      "Mayans",
+      "Incas",
+      "Aztecs"
+    ],
+    "answer": "Sumerians"
+  },
+  {
+    "category": "History",
+    "question": "Who was the famous queen of ancient Egypt known for her beauty and intelligence?",
+    "options": [
+      "Cleopatra",
+      "Nefertiti",
+      "Hatshepsut",
+      "Isis"
+    ],
+    "answer": "Cleopatra"
+  },
+  {
+    "category": "History",
+    "question": "In which year did the Titanic sink after hitting an iceberg?",
+    "options": [
+      "1912",
+      "1920",
+      "1905",
+      "1931"
+    ],
+    "answer": "1912"
+  },
+  {
+    "category": "History",
+    "question": "Who was the leader of the nonviolent movement for India's independence and is known as 'Mahatma'?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose",
+      "Sardar Patel",
+      "Mahatma Gandhi"
+    ],
+    "answer": "Mahatma Gandhi"
+  },
+  {
+    "category": "History",
+    "question": "Which ancient civilization built the city of Troy, as mentioned in the 'Iliad'?",
+    "options": [
+      "Greek",
+      "Roman",
+      "Persian",
+      "Trojan"
+    ],
+    "answer": "Trojan"
+  },
+  {
+    "category": "History",
+    "question": "Who was the first woman to win a Nobel Prize and is famous for her work in radioactivity?",
+    "options": [
+      "Marie Curie",
+      "Rosalind Franklin",
+      "Ada Lovelace",
+      "Barbara McClintock"
+    ],
+    "answer": "Marie Curie"
+  },
+  {
+    "category": "History",
+    "question": "Which famous scientist formulated the laws of motion and gravity?",
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Nikola Tesla"
+    ],
+    "answer": "Isaac Newton"
+  },
+  {
+    "category": "History",
+    "question": "Who was the first emperor of China and is known for the Terracotta Army?",
+    "options": [
+      "Emperor Qin Shi Huang",
+      "Emperor Han Wudi",
+      "Emperor Tang Taizong",
+      "Emperor Wu Zetian"
+    ],
+    "answer": "Emperor Qin Shi Huang"
+  },
+  {
+    "category": "History",
+    "question": "Which ancient civilization is credited with the invention of democracy?",
+    "options": [
+      "Roman",
+      "Persian",
+      "Greek",
+      "Egyptian"
+    ],
+    "answer": "Greek"
+  },
+  {
+    "category": "History",
+    "question": "Who was the famous nurse during the American Civil War and founded the American Red Cross?",
+    "options": [
+      "Florence Nightingale",
+      "Clara Barton",
+      "Mary Seacole",
+      "Dorothea Dix"
+    ],
+    "answer": "Clara Barton"
+  },
+  {
+    "category": "History",
+    "question": "What ancient civilization is known for building the Colosseum in Rome?",
+    "options": [
+      "Greek",
+      "Roman",
+      "Persian",
+      "Egyptian"
+    ],
+    "answer": "Roman"
+  },
+  {
+    "category": "History",
+    "question": "Who was the famous figure associated with the Underground Railroad, helping slaves escape to freedom?",
+    "options": [
+      "Harriet Tubman",
+      "Frederick Douglass",
+      "Sojourner Truth",
+      "John Brown"
+    ],
+    "answer": "Harriet Tubman"
+  },
+  {
+    "category": "History",
+    "question": "In which century did the Industrial Revolution begin?",
+    "options": [
+      "18th century",
+      "19th century",
+      "20th century",
+      "21st century"
+    ],
+    "answer": "18th century"
+  },
+  {
+    "category": "History",
+    "question": "Who was the famous Scottish queen known for her tragic life and conflict with Elizabeth I?",
+    "options": [
+      "Catherine de' Medici",
+      "Anne Boleyn",
+      "Mary, Queen of Scots",
+      "Elizabeth Woodville"
+    ],
+    "answer": "Mary, Queen of Scots"
+  },
+  {
+    "category": "History",
+    "question": "Which ancient civilization is known for creating the first Olympic Games?",
+    "options": [
+      "Greek",
+      "Roman",
+      "Persian",
+      "Egyptian"
+    ],
+    "answer": "Greek"
+  },
+  {
+    "category": "History",
+    "question": "Who was the first man to step onto the moon's surface during the Apollo 11 mission?",
+    "options": [
+      "Neil Armstrong",
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "Michael Collins"
+    ],
+    "answer": "Neil Armstrong"
+  },
+  {
+    "category": "History",
+    "question": "What ancient civilization is known for creating the Code of Hammurabi, one of the earliest written legal codes?",
+    "options": [
+      "Sumerians",
+      "Babylonians",
+      "Assyrians",
+      "Hittites"
+    ],
+    "answer": "Babylonians"
+  },
+  {
+    "category": "History",
+    "question": "Who was the famous explorer who completed the first circumnavigation of the Earth?",
+    "options": [
+      "Christopher Columbus",
+      "Ferdinand Magellan",
+      "James Cook",
+      "Vasco da Gama"
+    ],
+    "answer": "Ferdinand Magellan"
+  },
+  {
+    "category": "History",
+    "question": "In which century did the American Revolution take place?",
+    "options": [
+      "17th century",
+      "18th century",
+      "19th century",
+      "20th century"
+    ],
+    "answer": "18th century"
+  },
+  {
+    "category": "History",
+    "question": "Who was the leader of the ancient Persian Empire during the Greco-Persian Wars?",
+    "options": [
+      "Darius I",
+      "Cyrus the Great",
+      "Xerxes I",
+      "Artaxerxes I"
+    ],
+    "answer": "Xerxes I"
+  },
+  {
+    "category": "History",
+    "question": "Which famous figure is known for his contributions to the field of electricity and the invention of the lightning rod?",
+    "options": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Benjamin Franklin",
+      "Alexander Graham Bell"
+    ],
+    "answer": "Benjamin Franklin"
+  },
+  {
+    "category": "History",
+    "question": "What ancient civilization is known for constructing the city of Machu Picchu in the Andes Mountains?",
+    "options": [
+      "Mayans",
+      "Aztecs",
+      "Incas",
+      "Moche"
+    ],
+    "answer": "Incas"
+  },
+  {
+    "category": "History",
+    "question": "Who was the famous nurse and social reformer known for her work during the Crimean War?",
+    "options": [
+      "Florence Nightingale",
+      "Clara Barton",
+      "Mary Seacole",
+      "Dorothea Dix"
+    ],
+    "answer": "Florence Nightingale"
+  },
+  {
+    "category": "History",
+    "question": "In which ancient civilization did the philosopher Confucius live?",
+    "options": [
+      "Chinese",
+      "Indian",
+      "Greek",
+      "Roman"
+    ],
+    "answer": "Chinese"
+  },
+  {
+    "category": "History",
+    "question": "Who was the famous Native American woman who played a key role in the Lewis and Clark expedition?",
+    "options": [
+      "Pocahontas",
+      "Sacagawea",
+      "Squanto",
+      "Chief Joseph"
+    ],
+    "answer": "Sacagawea"
+  },
+  {
+    "category": "History",
+    "question": "What was the ancient Egyptian writing system consisting of pictorial symbols?",
+    "options": [
+      "Cuneiform",
+      "Hieroglyphics",
+      "Runes",
+      "Alphabet"
+    ],
+    "answer": "Hieroglyphics"
+  },
+  {
+    "category": "History",
+    "question": "Who was the ancient Greek philosopher known for his contributions to philosophy and teachings of his student, Alexander the Great?",
+    "options": [
+      "Socrates",
+      "Aristotle",
+      "Plato",
+      "Heraclitus"
+    ],
+    "answer": "Aristotle"
+  },
+  {
+    "category": "History",
+    "question": "In which century did the Renaissance period reach its peak?",
+    "options": [
+      "14th century",
+      "15th century",
+      "16th century",
+      "17th century"
+    ],
+    "answer": "16th century"
+  },
+  {
+    "category": "History",
+    "question": "Who was the ancient Roman general and statesman who played a crucial role in the events that led to the demise of the Roman Republic?",
+    "options": [
+      "Julius Caesar",
+      "Augustus",
+      "Cicero",
+      "Hannibal"
+    ],
+    "answer": "Julius Caesar"
+  },
+  {
+    "category": "History",
+    "question": "Which famous explorer is credited with discovering the sea route from Europe to India?",
+    "options": [
+      "Christopher Columbus",
+      "Ferdinand Magellan",
+      "Vasco da Gama",
+      "John Cabot"
+    ],
+    "answer": "Vasco da Gama"
+  },
+  {
+    "category": "History",
+    "question": "Who was the famous English nurse known as the 'Lady with the Lamp' during the Crimean War?",
+    "options": [
+      "Florence Nightingale",
+      "Clara Barton",
+      "Mary Seacole",
+      "Dorothea Dix"
+    ],
+    "answer": "Florence Nightingale"
+  },
+  {
+    "category": "History",
+    "question": "What ancient civilization is known for creating the first system of writing using hieroglyphs?",
+    "options": [
+      "Sumerians",
+      "Egyptians",
+      "Mesoamericans",
+      "Chinese"
+    ],
+    "answer": "Egyptians"
+  },
+  {
+    "category": "History",
+    "question": "Who was the famous queen of ancient Persia known for her bravery and role in saving her people?",
+    "options": [
+      "Cleopatra",
+      "Nefertiti",
+      "Hatshepsut",
+      "Esther"
+    ],
+    "answer": "Esther"
+  },
+  {
+    "category": "History",
+    "question": "In which year did the United States declare its independence from Great Britain?",
+    "options": [
+      "1776",
+      "1789",
+      "1801",
+      "1812"
+    ],
+    "answer": "1776"
+  },
+  {
+    "category": "History",
+    "question": "Who was the famous figure known for his theory of evolution by natural selection?",
+    "options": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Louis Pasteur",
+      "Alfred Russel Wallace"
+    ],
+    "answer": "Charles Darwin"
+  },
+  {
+    "category": "History",
+    "question": "Who was the ancient Egyptian queen famous for her relationships with Julius Caesar and Mark Antony?",
+    "options": [
+      "Nefertiti",
+      "Hatshepsut",
+      "Cleopatra",
+      "Isis"
+    ],
+    "answer": "Cleopatra"
+  },
+  {
+    "category": "History",
+    "question": "What ancient civilization is known for building the city of Petra in Jordan?",
+    "options": [
+      "Persian",
+      "Greek",
+      "Roman",
+      "Nabataean"
+    ],
+    "answer": "Nabataean"
+  },
+  {
+    "category": "History",
+    "question": "Who was the famous Viking explorer and the first European to reach North America?",
+    "options": [
+      "Leif Erikson",
+      "Erik the Red",
+      "Harald Hardrada",
+      "Ragnar Lothbrok"
+    ],
+    "answer": "Leif Erikson"
+  },
+  {
+    "category": "History",
+    "question": "In which century did the Black Death pandemic occur, causing widespread death in Europe?",
+    "options": [
+      "14th century",
+      "15th century",
+      "16th century",
+      "17th century"
+    ],
+    "answer": "14th century"
+  },
+  {
+    "category": "History",
+    "question": "Who was the leader of the Indian independence movement and advocate of nonviolent civil disobedience?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Patel",
+      "Subhas Chandra Bose",
+      "Mahatma Gandhi"
+    ],
+    "answer": "Mahatma Gandhi"
+  },
+  {
+    "category": "History",
+    "question": "Which ancient civilization is known for constructing the Terracotta Army in the mausoleum of their first emperor?",
+    "options": [
+      "Han",
+      "Qin",
+      "Shang",
+      "Tang"
+    ],
+    "answer": "Qin"
+  },
+  {
+    "category": "History",
+    "question": "Who was the famous pirate known for his association with the Jolly Roger flag and the Golden Age of Piracy?",
+    "options": [
+      "Anne Bonny",
+      "Blackbeard",
+      "Calico Jack",
+      "Captain Kidd"
+    ],
+    "answer": "Blackbeard"
+  },
+  {
+    "category": "History",
+    "question": "In which century did Joan of Arc play a significant role during the Hundred Years' War?",
+    "options": [
+      "12th century",
+      "14th century",
+      "15th century",
+      "17th century"
+    ],
+    "answer": "15th century"
+  },
+  {
+    "category": "History",
+    "question": "Who was the ancient Greek philosopher known for his method of questioning, now called the Socratic method?",
+    "options": [
+      "Socrates",
+      "Aristotle",
+      "Plato",
+      "Heraclitus"
+    ],
+    "answer": "Socrates"
+  },
+  {
+    "category": "History",
+    "question": "What ancient civilization is known for constructing the city of Machu Picchu in the Andes Mountains?",
+    "options": [
+      "Mayans",
+      "Aztecs",
+      "Incas",
+      "Moche"
+    ],
+    "answer": "Incas"
+  },
+  {
+    "category": "History",
+    "question": "Who was the famous nurse and social reformer known for her work during the Crimean War?",
+    "options": [
+      "Florence Nightingale",
+      "Clara Barton",
+      "Mary Seacole",
+      "Dorothea Dix"
+    ],
+    "answer": "Florence Nightingale"
+  },
+  {
+    "category": "History",
+    "question": "In which ancient civilization did the philosopher Confucius live?",
+    "options": [
+      "Chinese",
+      "Indian",
+      "Greek",
+      "Roman"
+    ],
+    "answer": "Chinese"
+  },
+  {
+    "category": "History",
+    "question": "Who was the famous Native American woman who played a key role in the Lewis and Clark expedition?",
+    "options": [
+      "Pocahontas",
+      "Sacagawea",
+      "Squanto",
+      "Chief Joseph"
+    ],
+    "answer": "Sacagawea"
+  },
+  {
+    "category": "History",
+    "question": "What was the ancient Egyptian writing system consisting of pictorial symbols?",
+    "options": [
+      "Cuneiform",
+      "Hieroglyphics",
+      "Runes",
+      "Alphabet"
+    ],
+    "answer": "Hieroglyphics"
+  },
+  {
+    "category": "History",
+    "question": "Who was the ancient Greek philosopher known for his contributions to philosophy and teachings of his student, Alexander the Great?",
+    "options": [
+      "Socrates",
+      "Aristotle",
+      "Plato",
+      "Heraclitus"
+    ],
+    "answer": "Aristotle"
+  },
+  {
+    "category": "History",
+    "question": "In which century did the Renaissance period reach its peak?",
+    "options": [
+      "14th century",
+      "15th century",
+      "16th century",
+      "17th century"
+    ],
+    "answer": "16th century"
+  },
+  {
+    "category": "History",
+    "question": "Who was the ancient Roman general and statesman who played a crucial role in the events that led to the demise of the Roman Republic?",
+    "options": [
+      "Julius Caesar",
+      "Augustus",
+      "Cicero",
+      "Hannibal"
+    ],
+    "answer": "Julius Caesar"
+  },
+  {
+    "category": "History",
+    "question": "Which famous explorer is credited with discovering the sea route from Europe to India?",
+    "options": [
+      "Christopher Columbus",
+      "Ferdinand Magellan",
+      "Vasco da Gama",
+      "John Cabot"
+    ],
+    "answer": "Vasco da Gama"
+  },
+  {
+    "category": "History",
+    "question": "Who was the famous English nurse known as the 'Lady with the Lamp' during the Crimean War?",
+    "options": [
+      "Florence Nightingale",
+      "Clara Barton",
+      "Mary Seacole",
+      "Dorothea Dix"
+    ],
+    "answer": "Florence Nightingale"
+  },
+  {
+    "category": "History",
+    "question": "What ancient civilization is known for creating the first system of writing using hieroglyphs?",
+    "options": [
+      "Sumerians",
+      "Egyptians",
+      "Mesoamericans",
+      "Chinese"
+    ],
+    "answer": "Egyptians"
+  },
+  {
+    "category": "History",
+    "question": "Who was the famous queen of ancient Persia known for her bravery and role in saving her people?",
+    "options": [
+      "Cleopatra",
+      "Nefertiti",
+      "Hatshepsut",
+      "Esther"
+    ],
+    "answer": "Esther"
+  },
+  {
+    "category": "History",
+    "question": "In which year did the United States declare its independence from Great Britain?",
+    "options": [
+      "1776",
+      "1789",
+      "1801",
+      "1812"
+    ],
+    "answer": "1776"
+  },
+  {
+    "category": "History",
+    "question": "Who was the famous figure known for his theory of evolution by natural selection?",
+    "options": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Louis Pasteur",
+      "Alfred Russel Wallace"
+    ],
+    "answer": "Charles Darwin"
+  },
+  {
+    "category": "History",
+    "question": "Which ancient civilization is known for building the city of Troy, as mentioned in the 'Iliad'?",
+    "options": [
+      "Greek",
+      "Roman",
+      "Persian",
+      "Trojan"
+    ],
+    "answer": "Trojan"
+  },
+  {
+    "category": "History",
+    "question": "Who was the first woman to win a Nobel Prize and is famous for her work in radioactivity?",
+    "options": [
+      "Marie Curie",
+      "Rosalind Franklin",
+      "Ada Lovelace",
+      "Barbara McClintock"
+    ],
+    "answer": "Marie Curie"
+  },
+  {
+    "category": "History",
+    "question": "Which famous scientist formulated the laws of motion and gravity?",
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Nikola Tesla"
+    ],
+    "answer": "Isaac Newton"
+  },
+  {
+    "category": "History",
+    "question": "Who was the first emperor of China and is known for the Terracotta Army?",
+    "options": [
+      "Emperor Qin Shi Huang",
+      "Emperor Han Wudi",
+      "Emperor Tang Taizong",
+      "Emperor Wu Zetian"
+    ],
+    "answer": "Emperor Qin Shi Huang"
+  },
+  {
+    "category": "History",
+    "question": "Which ancient civilization is credited with the invention of democracy?",
+    "options": [
+      "Roman",
+      "Persian",
+      "Greek",
+      "Egyptian"
+    ],
+    "answer": "Greek"
+  },
+  {
+    "category": "History",
+    "question": "Who was the ancient Chinese philosopher known for his teachings on ethics and morality?",
+    "options": [
+      "Confucius",
+      "Laozi",
+      "Mencius",
+      "Sun Tzu"
+    ],
+    "answer": "Confucius"
+  },
+  {
+    "category": "History",
+    "question": "What ancient civilization is known for creating the Rosetta Stone, which helped decipher Egyptian hieroglyphs?",
+    "options": [
+      "Greek",
+      "Roman",
+      "Persian",
+      "Egyptian"
+    ],
+    "answer": "Egyptian"
+  },
+  {
+    "category": "History",
+    "question": "Who was the famous leader of the Soviet Union during World War II?",
+    "options": [
+      "Joseph Stalin",
+      "Vladimir Lenin",
+      "Leon Trotsky",
+      "Mikhail Gorbachev"
+    ],
+    "answer": "Joseph Stalin"
+  },
+  {
+    "category": "History",
+    "question": "In which century did the Renaissance artist Leonardo da Vinci live?",
+    "options": [
+      "13th century",
+      "15th century",
+      "17th century",
+      "19th century"
+    ],
+    "answer": "15th century"
+  },
+  {
+    "category": "History",
+    "question": "Who was the ancient Roman general who crossed the Alps with elephants during the Second Punic War?",
+    "options": [
+      "Julius Caesar",
+      "Scipio Africanus",
+      "Hannibal",
+      "Augustus"
+    ],
+    "answer": "Hannibal"
+  },
+  {
+    "category": "History",
+    "question": "What ancient civilization is known for constructing Stonehenge in England?",
+    "options": [
+      "Celtic",
+      "Anglo-Saxon",
+      "Norse",
+      "Neolithic"
+    ],
+    "answer": "Neolithic"
+  },
+  {
+    "category": "History",
+    "question": "Who was the ancient Greek mathematician known for his theorem in geometry?",
+    "options": [
+      "Euclid",
+      "Pythagoras",
+      "Archimedes",
+      "Aristotle"
+    ],
+    "answer": "Euclid"
+  },
+  {
+    "category": "History",
+    "question": "In which century did the Industrial Revolution lead to significant changes in manufacturing and transportation?",
+    "options": [
+      "17th century",
+      "18th century",
+      "19th century",
+      "20th century"
+    ],
+    "answer": "18th century"
+  },
+  {
+    "category": "History",
+    "question": "Who was the ancient Egyptian pharaoh famous for the construction of the Great Pyramid of Giza?",
+    "options": [
+      "Tutankhamun",
+      "Cleopatra",
+      "Ramesses II",
+      "Khufu"
+    ],
+    "answer": "Khufu"
+  },
+  {
+    "category": "History",
+    "question": "What ancient civilization is known for the creation of the Hanging Gardens in the city of Babylon?",
+    "options": [
+      "Greek",
+      "Roman",
+      "Persian",
+      "Mesopotamian"
+    ],
+    "answer": "Mesopotamian"
+  },
+  {
+    "category": "History",
+    "question": "Who was the famous explorer and navigator responsible for the first circumnavigation of the Earth?",
+    "options": [
+      "Christopher Columbus",
+      "Ferdinand Magellan",
+      "James Cook",
+      "Vasco da Gama"
+    ],
+    "answer": "Ferdinand Magellan"
+  },
+  {
+    "category": "History",
+    "question": "In which century did the famous Gunpowder Plot, led by Guy Fawkes, take place in England?",
+    "options": [
+      "16th century",
+      "17th century",
+      "18th century",
+      "19th century"
+    ],
+    "answer": "17th century"
+  },
+  {
+    "category": "History",
+    "question": "Who was the ancient Persian king who led the invasion of Greece during the Battle of Thermopylae?",
+    "options": [
+      "Darius I",
+      "Xerxes I",
+      "Cyrus the Great",
+      "Artaxerxes I"
+    ],
+    "answer": "Xerxes I"
+  },
+  {
+    "category": "History",
+    "question": "What ancient civilization is known for the creation of the Code of Hammurabi, one of the earliest legal codes?",
+    "options": [
+      "Babylonians",
+      "Assyrians",
+      "Sumerians",
+      "Persians"
+    ],
+    "answer": "Babylonians"
+  },
+  {
+    "category": "History",
+    "question": "Who was the famous English playwright and poet often referred to as the 'Bard of Avon'?",
+    "options": [
+      "William Shakespeare",
+      "Christopher Marlowe",
+      "John Milton",
+      "Geoffrey Chaucer"
+    ],
+    "answer": "William Shakespeare"
+  },
+  {
+    "category": "History",
+    "question": "In which century did the Renaissance period emerge in Italy?",
+    "options": [
+      "13th century",
+      "14th century",
+      "15th century",
+      "16th century"
+    ],
+    "answer": "14th century"
+  },
+  {
+    "category": "History",
+    "question": "Who was the ancient Greek warrior and hero of the Trojan War known for his invulnerability?",
+    "options": [
+      "Achilles",
+      "Odysseus",
+      "Hector",
+      "Ajax"
+    ],
+    "answer": "Achilles"
+  },
+  {
+    "category": "History",
+    "question": "What ancient civilization is known for the construction of the pyramids at Teotihuacan in present-day Mexico?",
+    "options": [
+      "Aztecs",
+      "Mayans",
+      "Olmecs",
+      "Toltecs"
+    ],
+    "answer": "Aztecs"
+  },
+  {
+    "category": "History",
+    "question": "Who was the famous African-American abolitionist and former slave known for her work on the Underground Railroad?",
+    "options": [
+      "Frederick Douglass",
+      "Harriet Tubman",
+      "Sojourner Truth",
+      "Nat Turner"
+    ],
+    "answer": "Harriet Tubman"
+  },
+  {
+    "category": "History",
+    "question": "In which century did the famous Battle of Agincourt take place during the Hundred Years' War?",
+    "options": [
+      "12th century",
+      "14th century",
+      "15th century",
+      "17th century"
+    ],
+    "answer": "15th century"
+  },
+  {
+    "category": "History",
+    "question": "Who was the ancient Roman general and statesman known for his military campaigns in Gaul and the crossing of the Rubicon?",
+    "options": [
+      "Julius Caesar",
+      "Augustus",
+      "Cicero",
+      "Mark Antony"
+    ],
+    "answer": "Julius Caesar"
+  },
+  {
+    "category": "History",
+    "question": "Which ancient civilization is known for the construction of the Parthenon in Athens?",
+    "options": [
+      "Greek",
+      "Roman",
+      "Persian",
+      "Egyptian"
+    ],
+    "answer": "Greek"
+  },
+  {
+    "category": "History",
+    "question": "Who was the influential queen of England known for her reign during the Elizabethan era?",
+    "options": [
+      "Queen Victoria",
+      "Queen Mary I",
+      "Queen Elizabeth I",
+      "Queen Anne"
+    ],
+    "answer": "Queen Elizabeth I"
+  },
+  {
+    "category": "History",
+    "question": "What ancient civilization is known for the construction of the Great Sphinx of Giza?",
+    "options": [
+      "Sumerians",
+      "Babylonians",
+      "Egyptians",
+      "Persians"
+    ],
+    "answer": "Egyptians"
+  },
+  {
+    "category": "History",
+    "question": "Who was the ancient Chinese military strategist and philosopher known for 'The Art of War'?",
+    "options": [
+      "Confucius",
+      "Laozi",
+      "Sun Tzu",
+      "Mencius"
+    ],
+    "answer": "Sun Tzu"
+  },
+  {
+    "category": "History",
+    "question": "In which century did the famous Silk Road facilitate trade and cultural exchange between East and West?",
+    "options": [
+      "3rd century BC",
+      "1st century AD",
+      "5th century AD",
+      "10th century AD"
+    ],
+    "answer": "1st century AD"
+  }
+]
+
+
+

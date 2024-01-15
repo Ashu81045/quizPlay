@@ -1,0 +1,1124 @@
+[
+  {
+    "category": "Biology",
+    "question": "What is the process by which plants make their own food using sunlight?",
+    "options": ["Photosynthesis", "Respiration", "Transpiration", "Pollination"],
+    "answer": "Photosynthesis"
+  },
+  {
+    "category": "Biology",
+    "question": "Which part of the flower produces seeds?",
+    "options": ["Petal", "Stamen", "Sepal", "Pistil"],
+    "answer": "Pistil"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the powerhouse of the cell?",
+    "options": ["Mitochondria", "Nucleus", "Endoplasmic Reticulum", "Golgi Apparatus"],
+    "answer": "Mitochondria"
+  },
+  {
+    "category": "Biology",
+    "question": "In humans, what is the function of the lungs?",
+    "options": ["Digestion", "Circulation", "Respiration", "Excretion"],
+    "answer": "Respiration"
+  },
+  {
+    "category": "Biology",
+    "question": "Which gas do plants absorb from the air during photosynthesis?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the largest organ in the human body?",
+    "options": ["Heart", "Liver", "Lungs", "Skin"],
+    "answer": "Skin"
+  },
+  {
+    "category": "Biology",
+    "question": "Which blood vessels carry oxygenated blood away from the heart?",
+    "options": ["Veins", "Arteries", "Capillaries", "Venules"],
+    "answer": "Arteries"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the main function of the kidneys in the human body?",
+    "options": ["Digestion", "Filtration", "Circulation", "Reproduction"],
+    "answer": "Filtration"
+  },
+  {
+    "category": "Biology",
+    "question": "In the food chain, what do herbivores eat?",
+    "options": ["Plants", "Other Animals", "Fungi", "Bacteria"],
+    "answer": "Plants"
+  },
+  {
+    "category": "Biology",
+    "question": "Which part of the human skeleton protects the brain?",
+    "options": ["Skull", "Spine", "Ribcage", "Pelvis"],
+    "answer": "Skull"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the process by which living organisms produce offspring of their own kind?",
+    "options": ["Respiration", "Metabolism", "Reproduction", "Growth"],
+    "answer": "Reproduction"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the smallest unit of life?",
+    "options": ["Cell", "Tissue", "Organ", "Organism"],
+    "answer": "Cell"
+  },
+  {
+    "category": "Biology",
+    "question": "Which gas do humans exhale during respiration?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the green pigment in plant cells that helps in photosynthesis?",
+    "options": ["Chlorophyll", "Melanin", "Hemoglobin", "Carotene"],
+    "answer": "Chlorophyll"
+  },
+  {
+    "category": "Biology",
+    "question": "In the water cycle, what is the process by which water returns to the atmosphere from plants?",
+    "options": ["Evaporation", "Condensation", "Transpiration", "Precipitation"],
+    "answer": "Transpiration"
+  },
+  {
+    "category": "Biology",
+    "question": "Which part of the human digestive system is responsible for absorbing nutrients?",
+    "options": ["Stomach", "Small Intestine", "Large Intestine", "Esophagus"],
+    "answer": "Small Intestine"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the name of the long, coiled tube that makes up the majority of the human digestive system?",
+    "options": ["Esophagus", "Stomach", "Small Intestine", "Large Intestine"],
+    "answer": "Small Intestine"
+  },
+  {
+    "category": "Biology",
+    "question": "Which gas is produced by plants during photosynthesis?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Oxygen"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the function of the red blood cells in the human body?",
+    "options": ["Carrying Oxygen", "Fighting Infections", "Clotting Blood", "Digesting Food"],
+    "answer": "Carrying Oxygen"
+  },
+  {
+    "category": "Biology",
+    "question": "In the animal kingdom, what is a cold-blooded animal?",
+    "options": ["Mammal", "Reptile", "Bird", "Amphibian"],
+    "answer": "Reptile"
+  },
+  {
+    "category": "Biology",
+    "question": "Which part of the human respiratory system is responsible for gas exchange?",
+    "options": ["Trachea", "Bronchi", "Alveoli", "Lungs"],
+    "answer": "Alveoli"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the main function of the nervous system in the human body?",
+    "options": ["Circulation", "Digestion", "Coordination", "Reproduction"],
+    "answer": "Coordination"
+  },
+  {
+    "category": "Biology",
+    "question": "Which of the following is a vertebrate?",
+    "options": ["Snake", "Snail", "Spider", "Slug"],
+    "answer": "Snake"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the process by which an organism develops from a fertilized egg to a mature individual?",
+    "options": ["Evolution", "Metamorphosis", "Development", "Adaptation"],
+    "answer": "Development"
+  },
+  {
+    "category": "Biology",
+    "question": "Which organ in the human body produces insulin?",
+    "options": ["Liver", "Pancreas", "Kidneys", "Heart"],
+    "answer": "Pancreas"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the main function of the skeletal system?",
+    "options": ["Movement", "Protection", "Digestion", "Circulation"],
+    "answer": "Protection"
+  },
+  {
+    "category": "Biology",
+    "question": "Which gas is responsible for the greenhouse effect on Earth?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Methane"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the main function of the human respiratory system?",
+    "options": ["Circulation", "Digestion", "Respiration", "Excretion"],
+    "answer": "Respiration"
+  },
+  {
+    "category": "Biology",
+    "question": "Which part of the plant anchors it in the soil and absorbs water?",
+    "options": ["Leaves", "Stem", "Roots", "Flower"],
+    "answer": "Roots"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the smallest bone in the human body?",
+    "options": ["Femur", "Stapes", "Radius", "Tibia"],
+    "answer": "Stapes"
+  },
+  {
+    "category": "Biology",
+    "question": "Which of the following is a warm-blooded animal?",
+    "options": ["Fish", "Snake", "Bird", "Frog"],
+    "answer": "Bird"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the function of the white blood cells in the human body?",
+    "options": ["Carrying Oxygen", "Fighting Infections", "Clotting Blood", "Digesting Food"],
+    "answer": "Fighting Infections"
+  },
+  {
+    "category": "Biology",
+    "question": "In the process of digestion, where does most nutrient absorption occur?",
+    "options": ["Stomach", "Esophagus", "Small Intestine", "Large Intestine"],
+    "answer": "Small Intestine"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the purpose of the process of mitosis in cells?",
+    "options": ["Growth and Repair", "Energy Production", "Reproduction", "Respiration"],
+    "answer": "Growth and Repair"
+  },
+  {
+    "category": "Biology",
+    "question": "Which organ in the human body produces bile for digestion?",
+    "options": ["Stomach", "Liver", "Pancreas", "Gallbladder"],
+    "answer": "Liver"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the role of the nervous system in the body?",
+    "options": ["Coordination", "Digestion", "Circulation", "Respiration"],
+    "answer": "Coordination"
+  },
+  {
+    "category": "Biology",
+    "question": "Which gas is released during the process of cellular respiration?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the function of the ribcage in the human body?",
+    "options": ["Protection of Heart", "Digestion", "Respiration", "Circulation"],
+    "answer": "Protection of Heart"
+  },
+  {
+    "category": "Biology",
+    "question": "In the animal kingdom, what is an omnivore?",
+    "options": ["Meat Eater", "Plant Eater", "Both Meat and Plant Eater", "Insect Eater"],
+    "answer": "Both Meat and Plant Eater"
+  },
+  {
+    "category": "Biology",
+    "question": "Which part of the human eye is responsible for focusing light?",
+    "options": ["Retina", "Cornea", "Lens", "Iris"],
+    "answer": "Lens"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the function of the mucus in the respiratory system?",
+    "options": ["Oxygen Exchange", "Protection from Infections", "Digestion", "Circulation"],
+    "answer": "Protection from Infections"
+  },
+  {
+    "category": "Biology",
+    "question": "Which process allows plants to lose water through tiny pores on their leaves?",
+    "options": ["Photosynthesis", "Transpiration", "Respiration", "Pollination"],
+    "answer": "Transpiration"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the purpose of the circulatory system in the human body?",
+    "options": ["Digestion", "Coordination", "Transport of Nutrients and Oxygen", "Reproduction"],
+    "answer": "Transport of Nutrients and Oxygen"
+  },
+  {
+    "category": "Biology",
+    "question": "Which gas is essential for the process of photosynthesis in plants?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the name of the process by which an organism produces offspring identical to itself?",
+    "options": ["Reproduction", "Growth", "Development", "Metamorphosis"],
+    "answer": "Reproduction"
+  },
+  {
+    "category": "Biology",
+    "question": "Which organ in the human body is responsible for filtering and removing waste from the blood?",
+    "options": ["Liver", "Pancreas", "Kidneys", "Spleen"],
+    "answer": "Kidneys"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the purpose of the chloroplasts in plant cells?",
+    "options": ["Energy Production", "Protein Synthesis", "Photosynthesis", "Cell Division"],
+    "answer": "Photosynthesis"
+  },
+  {
+    "category": "Biology",
+    "question": "Which part of the human digestive system connects the mouth to the stomach?",
+    "options": ["Esophagus", "Small Intestine", "Large Intestine", "Rectum"],
+    "answer": "Esophagus"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the function of the immune system in the human body?",
+    "options": ["Transport of Nutrients", "Protection from Infections", "Digestion", "Respiration"],
+    "answer": "Protection from Infections"
+  },
+  {
+    "category": "Biology",
+    "question": "In the animal kingdom, what is a herbivore?",
+    "options": ["Meat Eater", "Plant Eater", "Both Meat and Plant Eater", "Insect Eater"],
+    "answer": "Plant Eater"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the main function of the mitochondria in cells?",
+    "options": ["Energy Production", "Protein Synthesis", "Photosynthesis", "Cell Division"],
+    "answer": "Energy Production"
+  },
+  {
+    "category": "Biology",
+    "question": "Which part of the human brain is responsible for controlling basic life functions such as heartbeat and breathing?",
+    "options": ["Cerebellum", "Frontal Lobe", "Medulla Oblongata", "Occipital Lobe"],
+    "answer": "Medulla Oblongata"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the name of the fluid that lubricates joints in the human body?",
+    "options": ["Blood", "Lymph", "Synovial Fluid", "Cerebrospinal Fluid"],
+    "answer": "Synovial Fluid"
+  },
+  {
+    "category": "Biology",
+    "question": "Which process allows plants to take in carbon dioxide from the air?",
+    "options": ["Photosynthesis", "Transpiration", "Respiration", "Pollination"],
+    "answer": "Photosynthesis"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the function of the DNA molecule in cells?",
+    "options": ["Energy Storage", "Cell Structure", "Genetic Information Storage", "Enzyme Production"],
+    "answer": "Genetic Information Storage"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, which organ produces insulin?",
+    "options": ["Liver", "Pancreas", "Kidneys", "Spleen"],
+    "answer": "Pancreas"
+  },
+  {
+    "category": "Biology",
+    "question": "Which gas is released by plants during the process of photosynthesis?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Methane"],
+    "answer": "Oxygen"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the purpose of the circulatory system in the human body?",
+    "options": ["Transport of Nutrients", "Protection from Infections", "Digestion", "Respiration"],
+    "answer": "Transport of Nutrients"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the primary function of red blood cells in the human body?",
+    "options": ["Immune Response", "Oxygen Transport", "Digestion", "Hormone Production"],
+    "answer": "Oxygen Transport"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, where is bile produced?",
+    "options": ["Stomach", "Liver", "Pancreas", "Gallbladder"],
+    "answer": "Liver"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the main function of the ribosomes in a cell?",
+    "options": ["Energy Production", "Protein Synthesis", "Cellular Respiration", "Mitosis"],
+    "answer": "Protein Synthesis"
+  },
+  {
+    "category": "Biology",
+    "question": "In the process of photosynthesis, where does it take place in plant cells?",
+    "options": ["Mitochondria", "Nucleus", "Chloroplasts", "Endoplasmic Reticulum"],
+    "answer": "Chloroplasts"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the purpose of the enzyme amylase in the digestive system?",
+    "options": ["Protein Digestion", "Fat Digestion", "Carbohydrate Digestion", "Absorption of Nutrients"],
+    "answer": "Carbohydrate Digestion"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, which organ is responsible for detoxifying harmful substances?",
+    "options": ["Liver", "Lungs", "Kidneys", "Spleen"],
+    "answer": "Liver"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the main function of the cerebellum in the human brain?",
+    "options": ["Memory Storage", "Balance and Coordination", "Language Processing", "Emotional Regulation"],
+    "answer": "Balance and Coordination"
+  },
+  {
+    "category": "Biology",
+    "question": "Which process allows plants to absorb water from the soil?",
+    "options": ["Photosynthesis", "Transpiration", "Respiration", "Osmosis"],
+    "answer": "Osmosis"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the name of the sac that stores bile in the human digestive system?",
+    "options": ["Gallbladder", "Pancreas", "Appendix", "Bladder"],
+    "answer": "Gallbladder"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the function of the alveoli in the human respiratory system?",
+    "options": ["Oxygen Exchange", "Mucus Production", "Digestion", "Blood Filtration"],
+    "answer": "Oxygen Exchange"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, which type of muscle is under voluntary control?",
+    "options": ["Cardiac Muscle", "Smooth Muscle", "Skeletal Muscle", "Involuntary Muscle"],
+    "answer": "Skeletal Muscle"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the role of the endocrine system in the human body?",
+    "options": ["Coordination", "Digestion", "Hormone Regulation", "Circulation"],
+    "answer": "Hormone Regulation"
+  },
+  {
+    "category": "Biology",
+    "question": "Which part of the human ear is responsible for detecting sound vibrations?",
+    "options": ["Cochlea", "Eardrum", "Auditory Nerve", "Semicircular Canals"],
+    "answer": "Cochlea"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the function of the Golgi apparatus in a cell?",
+    "options": ["Energy Production", "Protein Synthesis", "Cellular Respiration", "Packaging and Transport"],
+    "answer": "Packaging and Transport"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, which part of the brain is responsible for emotions and memory?",
+    "options": ["Frontal Lobe", "Temporal Lobe", "Parietal Lobe", "Occipital Lobe"],
+    "answer": "Temporal Lobe"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the function of the cilia in the respiratory system?",
+    "options": ["Oxygen Exchange", "Mucus Production", "Digestion", "Air Filtration"],
+    "answer": "Air Filtration"
+  },
+  {
+    "category": "Biology",
+    "question": "Which organelle in a cell is responsible for breaking down waste and cellular debris?",
+    "options": ["Mitochondria", "Lysosome", "Endoplasmic Reticulum", "Vacuole"],
+    "answer": "Lysosome"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the purpose of the skeletal system in the human body?",
+    "options": ["Movement", "Protection", "Digestion", "Circulation"],
+    "answer": "Protection"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, where are red blood cells produced?",
+    "options": ["Liver", "Bone Marrow", "Spleen", "Kidneys"],
+    "answer": "Bone Marrow"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the function of the cornea in the human eye?",
+    "options": ["Focusing Light", "Color Vision", "Tear Production", "Light Sensitivity"],
+    "answer": "Focusing Light"
+  },
+  {
+    "category": "Biology",
+    "question": "In the plant life cycle, what is the name of the male reproductive organ?",
+    "options": ["Stamen", "Pistil", "Sepal", "Petiole"],
+    "answer": "Stamen"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the process by which a cell divides into two identical daughter cells?",
+    "options": ["Mitosis", "Meiosis", "Fertilization", "Apoptosis"],
+    "answer": "Mitosis"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, which organ is responsible for filtering blood and producing urine?",
+    "options": ["Liver", "Lungs", "Kidneys", "Spleen"],
+    "answer": "Kidneys"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the primary function of the mitochondria in a cell?",
+    "options": ["Energy Production", "Protein Synthesis", "Cellular Respiration", "Mitosis"],
+    "answer": "Energy Production"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, where is the pituitary gland located?",
+    "options": ["Brain", "Heart", "Kidneys", "Liver"],
+    "answer": "Brain"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the purpose of the stomata in plant leaves?",
+    "options": ["Water Absorption", "Nutrient Storage", "Gas Exchange", "Photosynthesis"],
+    "answer": "Gas Exchange"
+  },
+  {
+    "category": "Biology",
+    "question": "In the animal kingdom, what is a nocturnal animal?",
+    "options": ["Daytime Hunter", "Nighttime Hunter", "Carnivore", "Herbivore"],
+    "answer": "Nighttime Hunter"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the function of the immune system in the human body?",
+    "options": ["Transport of Nutrients", "Protection from Infections", "Digestion", "Respiration"],
+    "answer": "Protection from Infections"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, which organ is responsible for producing red and white blood cells?",
+    "options": ["Liver", "Spleen", "Bone Marrow", "Kidneys"],
+    "answer": "Bone Marrow"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the name of the process by which plants bend toward light?",
+    "options": ["Phototropism", "Hydrotropism", "Geotropism", "Thigmotropism"],
+    "answer": "Phototropism"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, where does the process of digestion begin?",
+    "options": ["Stomach", "Small Intestine", "Mouth", "Esophagus"],
+    "answer": "Mouth"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the function of the ciliary muscles in the human eye?",
+    "options": ["Color Vision", "Focusing", "Night Vision", "Peripheral Vision"],
+    "answer": "Focusing"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, what is the main function of the spleen?",
+    "options": ["Blood Filtration", "Nutrient Absorption", "Hormone Production", "Oxygen Transport"],
+    "answer": "Blood Filtration"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the name of the process by which plants release water vapor into the air?",
+    "options": ["Photosynthesis", "Transpiration", "Respiration", "Evaporation"],
+    "answer": "Transpiration"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, which organ produces bile for digestion?",
+    "options": ["Stomach", "Liver", "Pancreas", "Gallbladder"],
+    "answer": "Liver"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the function of the nephrons in the human kidneys?",
+    "options": ["Blood Filtration", "Oxygen Transport", "Hormone Production", "Digestion"],
+    "answer": "Blood Filtration"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, what is the purpose of the mucus lining in the respiratory system?",
+    "options": ["Oxygen Exchange", "Protection from Infections", "Digestion", "Air Filtration"],
+    "answer": "Protection from Infections"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the function of the chloroplasts in plant cells?",
+    "options": ["Energy Production", "Protein Synthesis", "Photosynthesis", "Cell Division"],
+    "answer": "Photosynthesis"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, where is the thymus gland located?",
+    "options": ["Brain", "Heart", "Kidneys", "Chest"],
+    "answer": "Chest"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the role of the cerebrospinal fluid in the human nervous system?",
+    "options": ["Protection of Brain", "Digestion", "Hormone Regulation", "Coordination"],
+    "answer": "Protection of Brain"
+  },
+  {
+    "category": "Biology",
+    "question": "In the plant life cycle, what is the name of the female reproductive organ?",
+    "options": ["Stamen", "Pistil", "Sepal", "Petiole"],
+    "answer": "Pistil"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the function of the red bone marrow in the human body?",
+    "options": ["Blood Cell Production", "Fat Storage", "Mineral Absorption", "Oxygen Transport"],
+    "answer": "Blood Cell Production"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, which organ is responsible for producing insulin?",
+    "options": ["Liver", "Pancreas", "Kidneys", "Spleen"],
+    "answer": "Pancreas"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the name of the process by which plants produce seeds?",
+    "options": ["Germination", "Fertilization", "Pollination", "Seed Dispersal"],
+    "answer": "Fertilization"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, which part of the brain is responsible for regulating body temperature?",
+    "options": ["Hypothalamus", "Cerebellum", "Frontal Lobe", "Medulla Oblongata"],
+    "answer": "Hypothalamus"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the function of the peristaltic movements in the digestive system?",
+    "options": ["Food Absorption", "Food Mixing", "Nutrient Transport", "Muscular Contraction"],
+    "answer": "Food Transport"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, where are sweat glands primarily found?",
+    "options": ["Skin", "Lungs", "Liver", "Stomach"],
+    "answer": "Skin"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the role of the vas deferens in the male reproductive system?",
+    "options": ["Sperm Production", "Egg Fertilization", "Hormone Secretion", "Sperm Transport"],
+    "answer": "Sperm Transport"
+  },
+  {
+    "category": "Biology",
+    "question": "In the process of photosynthesis, what is the source of carbon for plants?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Methane"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the function of the tympanic membrane in the human ear?",
+    "options": ["Balance", "Hearing", "Smell", "Taste"],
+    "answer": "Hearing"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, what is the main function of the thyroid gland?",
+    "options": ["Metabolism Regulation", "Digestion", "Hormone Production", "Blood Filtration"],
+    "answer": "Metabolism Regulation"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the function of the epiglottis in the human respiratory system?",
+    "options": ["Air Filtration", "Oxygen Exchange", "Food Passage Prevention", "Mucus Production"],
+    "answer": "Food Passage Prevention"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, where is the larynx located?",
+    "options": ["Throat", "Chest", "Abdomen", "Head"],
+    "answer": "Throat"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the purpose of the endoplasmic reticulum in a cell?",
+    "options": ["Energy Production", "Protein Synthesis", "Cellular Respiration", "Transport and Storage"],
+    "answer": "Protein Synthesis"
+  },
+  {
+    "category": "Biology",
+    "question": "In the process of cellular respiration, what is the final product produced in the mitochondria?",
+    "options": ["Carbon Dioxide", "Oxygen", "Glucose", "ATP"],
+    "answer": "ATP"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the function of the villi in the small intestine?",
+    "options": ["Nutrient Absorption", "Food Storage", "Water Filtration", "Hormone Production"],
+    "answer": "Nutrient Absorption"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, what is the primary function of the gallbladder?",
+    "options": ["Blood Filtration", "Bile Storage", "Insulin Production", "Nutrient Absorption"],
+    "answer": "Bile Storage"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the role of the myelin sheath in the nervous system?",
+    "options": ["Neuron Protection", "Nerve Signal Transmission", "Hormone Production", "Blood Filtration"],
+    "answer": "Nerve Signal Transmission"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, what is the function of the adrenal glands?",
+    "options": ["Digestion", "Stress Response", "Blood Filtration", "Insulin Production"],
+    "answer": "Stress Response"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the purpose of the amniotic fluid in the development of a fetus?",
+    "options": ["Temperature Regulation", "Protection", "Nutrient Supply", "Waste Removal"],
+    "answer": "Protection"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, what is the main function of the bladder?",
+    "options": ["Blood Filtration", "Hormone Production", "Urinary Storage", "Nutrient Absorption"],
+    "answer": "Urinary Storage"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the function of the phloem in plant vascular tissue?",
+    "options": ["Water Transport", "Food Transport", "Mineral Absorption", "Structural Support"],
+    "answer": "Food Transport"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, which organ is responsible for storing and releasing glucose?",
+    "options": ["Liver", "Pancreas", "Kidneys", "Spleen"],
+    "answer": "Liver"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the purpose of the synaptic cleft in nerve transmission?",
+    "options": ["Nutrient Absorption", "Signal Amplification", "Neurotransmitter Release", "Cellular Respiration"],
+    "answer": "Neurotransmitter Release"
+  },
+  {
+    "category": "Biology",
+    "question": "In the process of meiosis, how many daughter cells are produced from one parent cell?",
+    "options": ["One", "Two", "Four", "Eight"],
+    "answer": "Four"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the function of the thylakoid membrane in chloroplasts?",
+    "options": ["Protein Synthesis", "ATP Production", "Photosynthesis", "Nutrient Absorption"],
+    "answer": "Photosynthesis"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, what is the function of the vas deferens in the male reproductive system?",
+    "options": ["Sperm Production", "Egg Fertilization", "Hormone Secretion", "Sperm Transport"],
+    "answer": "Sperm Transport"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the process by which plants produce offspring without seeds?",
+    "options": ["Germination", "Fertilization", "Budding", "Vegetative Propagation"],
+    "answer": "Vegetative Propagation"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, what is the main function of the hypothalamus?",
+    "options": ["Temperature Regulation", "Hormone Production", "Coordination", "Emotional Regulation"],
+    "answer": "Temperature Regulation"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the function of the peroxisomes in a cell?",
+    "options": ["Energy Production", "Protein Synthesis", "Cellular Respiration", "Detoxification"],
+    "answer": "Detoxification"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, where is the thyroid gland located?",
+    "options": ["Neck", "Chest", "Abdomen", "Head"],
+    "answer": "Neck"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the role of the corona radiata in the female reproductive system?",
+    "options": ["Egg Fertilization", "Hormone Secretion", "Ovulation Induction", "Follicle Protection"],
+    "answer": "Follicle Protection"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, what is the main function of the parathyroid glands?",
+    "options": ["Blood Filtration", "Calcium Regulation", "Digestion", "Hormone Production"],
+    "answer": "Calcium Regulation"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the purpose of the sinoatrial node in the human heart?",
+    "options": ["Blood Filtration", "Heartbeat Regulation", "Oxygen Transport", "Hormone Production"],
+    "answer": "Heartbeat Regulation"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, what is the function of the Peyer's patches in the small intestine?",
+    "options": ["Nutrient Absorption", "Immune Response", "Food Mixing", "Hormone Production"],
+    "answer": "Immune Response"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the process by which plants convert sunlight into chemical energy?",
+    "options": ["Respiration", "Fermentation", "Photosynthesis", "Transpiration"],
+    "answer": "Photosynthesis"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the function of the alveoli in the human respiratory system?",
+    "options": ["Oxygen Exchange", "Mucus Production", "Digestion", "Blood Filtration"],
+    "answer": "Oxygen Exchange"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, where does the process of digestion begin?",
+    "options": ["Stomach", "Small Intestine", "Mouth", "Esophagus"],
+    "answer": "Mouth"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the function of the nucleolus in a cell?",
+    "options": ["Protein Synthesis", "Cellular Respiration", "DNA Replication", "Ribosome Production"],
+    "answer": "Ribosome Production"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, where is the pituitary gland located?",
+    "options": ["Brain", "Heart", "Kidneys", "Liver"],
+    "answer": "Brain"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the role of the epidermis in the human skin?",
+    "options": ["Temperature Regulation", "Protection", "Nutrient Absorption", "Sensory Perception"],
+    "answer": "Protection"
+  },
+  {
+    "category": "Biology",
+    "question": "In the process of cellular respiration, where does glycolysis occur?",
+    "options": ["Cytoplasm", "Nucleus", "Mitochondria", "Endoplasmic Reticulum"],
+    "answer": "Cytoplasm"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the function of the cornea in the human eye?",
+    "options": ["Focusing Light", "Color Vision", "Tear Production", "Light Sensitivity"],
+    "answer": "Focusing Light"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, what is the main function of the spleen?",
+    "options": ["Blood Filtration", "Nutrient Absorption", "Hormone Production", "Oxygen Transport"],
+    "answer": "Blood Filtration"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the purpose of the sinoatrial node in the human heart?",
+    "options": ["Blood Filtration", "Heartbeat Regulation", "Oxygen Transport", "Hormone Production"],
+    "answer": "Heartbeat Regulation"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, where is the prostate gland located?",
+    "options": ["Brain", "Chest", "Abdomen", "Pelvis"],
+    "answer": "Pelvis"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the function of the Eustachian tube in the human ear?",
+    "options": ["Hearing", "Balance", "Taste", "Smell"],
+    "answer": "Balance"
+  },
+  {
+    "category": "Biology",
+    "question": "In the process of mitosis, how many daughter cells are produced from one parent cell?",
+    "options": ["One", "Two", "Four", "Eight"],
+    "answer": "Two"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the purpose of the synovial fluid in joints?",
+    "options": ["Protection", "Lubrication", "Nutrient Supply", "Shock Absorption"],
+    "answer": "Lubrication"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, what is the main function of the thyroid gland?",
+    "options": ["Metabolism Regulation", "Digestion", "Hormone Production", "Blood Filtration"],
+    "answer": "Metabolism Regulation"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the process by which plants produce oxygen during photosynthesis?",
+    "options": ["Oxidation", "Respiration", "Photolysis", "Decomposition"],
+    "answer": "Photolysis"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, what is the function of the alveoli in the lungs?",
+    "options": ["Oxygen Exchange", "Mucus Production", "Digestion", "Blood Filtration"],
+    "answer": "Oxygen Exchange"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the function of the vestibular system in the human body?",
+    "options": ["Temperature Regulation", "Balance and Spatial Orientation", "Hormone Production", "Blood Filtration"],
+    "answer": "Balance and Spatial Orientation"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, where does the process of fertilization occur?",
+    "options": ["Uterus", "Ovary", "Fallopian Tube", "Cervix"],
+    "answer": "Fallopian Tube"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the role of the Golgi apparatus in a cell?",
+    "options": ["Energy Production", "Protein Synthesis", "Cellular Respiration", "Packaging and Transport"],
+    "answer": "Packaging and Transport"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, where is the thymus gland located?",
+    "options": ["Brain", "Heart", "Kidneys", "Chest"],
+    "answer": "Chest"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the function of the biceps and triceps muscles in the human arm?",
+    "options": ["Flexion and Extension", "Rotation", "Abduction and Adduction", "Pronation and Supination"],
+    "answer": "Flexion and Extension"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, what is the function of the adrenal glands?",
+    "options": ["Digestion", "Stress Response", "Blood Filtration", "Insulin Production"],
+    "answer": "Stress Response"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the purpose of the mucus lining in the stomach?",
+    "options": ["Nutrient Absorption", "Protection", "Digestion", "Gas Exchange"],
+    "answer": "Protection"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, where is the cerebrospinal fluid located?",
+    "options": ["Brain", "Spinal Cord", "Lungs", "Abdomen"],
+    "answer": "Brain"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the function of the hormone insulin in the human body?",
+    "options": ["Blood Clotting", "Blood Sugar Regulation", "Bone Growth", "Muscle Contraction"],
+    "answer": "Blood Sugar Regulation"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the function of the Eustachian tube in the human ear?",
+    "options": ["Hearing", "Balance", "Equalizing Pressure", "Taste"],
+    "answer": "Equalizing Pressure"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, what is the main function of the lymphatic system?",
+    "options": ["Blood Filtration", "Fluid Balance", "Digestion", "Oxygen Transport"],
+    "answer": "Fluid Balance"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the role of the amygdala in the human brain?",
+    "options": ["Memory Storage", "Emotional Responses", "Language Processing", "Motor Control"],
+    "answer": "Emotional Responses"
+  },
+  {
+    "category": "Biology",
+    "question": "In the process of cellular respiration, where does glycolysis occur?",
+    "options": ["Mitochondria", "Nucleus", "Cytoplasm", "Endoplasmic Reticulum"],
+    "answer": "Cytoplasm"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the function of the semicircular canals in the human ear?",
+    "options": ["Smell Detection", "Taste Sensation", "Balance and Spatial Orientation", "Hearing"],
+    "answer": "Balance and Spatial Orientation"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, where is the pancreas located?",
+    "options": ["Abdomen", "Chest", "Head", "Throat"],
+    "answer": "Abdomen"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the purpose of the cecum in the human digestive system?",
+    "options": ["Nutrient Absorption", "Water Reabsorption", "Fermentation", "Vitamin Synthesis"],
+    "answer": "Fermentation"
+  },
+  {
+    "category": "Biology",
+    "question": "In the plant life cycle, what is the name of the process by which pollen is transferred from one flower to another?",
+    "options": ["Germination", "Fertilization", "Pollination", "Seed Dispersal"],
+    "answer": "Pollination"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the function of the nephron in the human kidneys?",
+    "options": ["Blood Filtration", "Oxygen Transport", "Hormone Production", "Digestion"],
+    "answer": "Blood Filtration"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, where are taste buds primarily located?",
+    "options": ["Tongue", "Nose", "Eyes", "Skin"],
+    "answer": "Tongue"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the process by which cells differentiate and become specialized in structure and function?",
+    "options": ["Mitosis", "Meiosis", "Fertilization", "Cell Differentiation"],
+    "answer": "Cell Differentiation"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, where is the prostate gland located?",
+    "options": ["Brain", "Chest", "Abdomen", "Male Reproductive System"],
+    "answer": "Male Reproductive System"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the function of the trachea in the human respiratory system?",
+    "options": ["Oxygen Exchange", "Air Filtration", "Speech Production", "Food Passage"],
+    "answer": "Air Filtration"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, where is the biceps brachii muscle located?",
+    "options": ["Legs", "Arms", "Abdomen", "Chest"],
+    "answer": "Arms"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the purpose of the stamen in a flower?",
+    "options": ["Seed Production", "Pollen Transfer", "Petals Protection", "Water Absorption"],
+    "answer": "Pollen Transfer"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, what is the function of the ciliary muscles in the eye?",
+    "options": ["Color Vision", "Focusing", "Night Vision", "Peripheral Vision"],
+    "answer": "Focusing"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the role of the osteoblasts in bone development?",
+    "options": ["Bone Formation", "Bone Resorption", "Blood Filtration", "Muscle Contraction"],
+    "answer": "Bone Formation"
+  },
+  {
+    "category": "Biology",
+    "question": "In the process of mitosis, how many daughter cells are produced from one parent cell?",
+    "options": ["One", "Two", "Four", "Eight"],
+    "answer": "Two"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the function of the placenta during pregnancy?",
+    "options": ["Nutrient Absorption", "Oxygen Exchange", "Waste Removal", "Hormone Production"],
+    "answer": "Nutrient Absorption"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, what is the main function of the corpus callosum in the brain?",
+    "options": ["Memory Storage", "Communication Between Hemispheres", "Emotional Regulation", "Coordination"],
+    "answer": "Communication Between Hemispheres"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the purpose of the albedo effect in ecology?",
+    "options": ["Nutrient Cycling", "Pollination", "Climate Regulation", "Water Filtration"],
+    "answer": "Climate Regulation"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, what is the function of the alveoli in the lungs?",
+    "options": ["Oxygen Exchange", "Mucus Production", "Digestion", "Blood Filtration"],
+    "answer": "Oxygen Exchange"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the process by which plants lose water through small pores in their leaves?",
+    "options": ["Photosynthesis", "Transpiration", "Respiration", "Germination"],
+    "answer": "Transpiration"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, where is the pituitary gland located?",
+    "options": ["Brain", "Heart", "Kidneys", "Liver"],
+    "answer": "Brain"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the function of the Golgi apparatus in a cell?",
+    "options": ["Energy Production", "Protein Synthesis", "Cellular Respiration", "Processing and Packaging"],
+    "answer": "Processing and Packaging"
+  },
+  {
+    "category": "Biology",
+    "question": "In the human body, what is the role of the corpus luteum?",
+    "options": ["Blood Filtration", "Hormone Production", "Egg Fertilization", "Nutrient Absorption"],
+    "answer": "Hormone Production"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the function of the vestibular system in the human ear?",
+    "options": ["Hearing", "Balance and Spatial Orientation", "Taste Sensation", "Smell Detection"],
+    "answer": "Balance and Spatial Orientation"
+  }
+]
+
+
+
+
+
+

@@ -1,0 +1,1003 @@
+[
+  {
+    "category": "General Science",
+    "question": "What is the chemical symbol for water?",
+    "options": ["H2O", "CO2", "O2", "N2"],
+    "answer": "H2O"
+  },
+  {
+    "category": "General Science",
+    "question": "Which gas do plants absorb from the atmosphere during photosynthesis?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the smallest unit of an element that retains its chemical properties?",
+    "options": ["Molecule", "Atom", "Cell", "Compound"],
+    "answer": "Atom"
+  },
+  {
+    "category": "General Science",
+    "question": "Which planet is known as the 'Red Planet'?",
+    "options": ["Mars", "Jupiter", "Venus", "Saturn"],
+    "answer": "Mars"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the process by which plants make their own food using sunlight?",
+    "options": ["Respiration", "Digestion", "Photosynthesis", "Fermentation"],
+    "answer": "Photosynthesis"
+  },
+  {
+    "category": "General Science",
+    "question": "Which gas is responsible for the greenhouse effect on Earth?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Methane"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the powerhouse of the cell?",
+    "options": ["Nucleus", "Mitochondria", "Endoplasmic Reticulum", "Golgi Apparatus"],
+    "answer": "Mitochondria"
+  },
+  {
+    "category": "General Science",
+    "question": "In the periodic table, what is the symbol for gold?",
+    "options": ["Au", "Ag", "Fe", "Cu"],
+    "answer": "Au"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the chemical formula for common salt?",
+    "options": ["NaCl", "HCl", "KCl", "CaCl2"],
+    "answer": "NaCl"
+  },
+  {
+    "category": "General Science",
+    "question": "Which vitamin is known as the 'Sunshine Vitamin'?",
+    "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin E"],
+    "answer": "Vitamin D"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the largest organ in the human body?",
+    "options": ["Heart", "Brain", "Liver", "Skin"],
+    "answer": "Skin"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the main component of the Earth's atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+    "answer": "Nitrogen"
+  },
+  {
+    "category": "General Science",
+    "question": "Which gas is commonly known as laughing gas?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrous Oxide", "Methane"],
+    "answer": "Nitrous Oxide"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the chemical symbol for iron?",
+    "options": ["I", "Fe", "Au", "Ag"],
+    "answer": "Fe"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the process by which plants release water vapor into the atmosphere?",
+    "options": ["Photosynthesis", "Transpiration", "Respiration", "Condensation"],
+    "answer": "Transpiration"
+  },
+  {
+    "category": "General Science",
+    "question": "Which planet is known as the 'Blue Planet'?",
+    "options": ["Mars", "Earth", "Venus", "Neptune"],
+    "answer": "Earth"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the chemical formula for methane?",
+    "options": ["CH4", "CO2", "H2O", "O2"],
+    "answer": "CH4"
+  },
+  {
+    "category": "General Science",
+    "question": "Which part of the human brain is responsible for regulating basic bodily functions such as breathing and heartbeat?",
+    "options": ["Cerebrum", "Cerebellum", "Medulla Oblongata", "Thalamus"],
+    "answer": "Medulla Oblongata"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the primary function of the liver in the human body?",
+    "options": ["Digestion", "Blood Circulation", "Respiration", "Detoxification"],
+    "answer": "Detoxification"
+  },
+  {
+    "category": "General Science",
+    "question": "Which element is essential for the formation of bones and teeth?",
+    "options": ["Calcium", "Iron", "Sodium", "Potassium"],
+    "answer": "Calcium"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the main component of natural gas?",
+    "options": ["Methane", "Ethane", "Propane", "Butane"],
+    "answer": "Methane"
+  },
+  {
+    "category": "General Science",
+    "question": "Which gas do plants release during photosynthesis?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Methane"],
+    "answer": "Oxygen"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the chemical symbol for oxygen?",
+    "options": ["O", "O2", "CO2", "N2"],
+    "answer": "O2"
+  },
+  {
+    "category": "General Science",
+    "question": "In the human body, where is the smallest bone located?",
+    "options": ["Ear", "Finger", "Toe", "Nose"],
+    "answer": "Ear"
+  },
+  {
+    "category": "General Science",
+    "question": "Which part of the eye controls the amount of light that enters?",
+    "options": ["Retina", "Cornea", "Lens", "Iris"],
+    "answer": "Iris"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the chemical symbol for hydrogen?",
+    "options": ["H", "He", "O", "N"],
+    "answer": "H"
+  },
+  {
+    "category": "General Science",
+    "question": "Which gas is responsible for the 'rotten egg' smell?",
+    "options": ["Methane", "Hydrogen Sulfide", "Carbon Monoxide", "Sulfur Dioxide"],
+    "answer": "Hydrogen Sulfide"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the process by which plants convert sunlight into energy?",
+    "options": ["Photosynthesis", "Respiration", "Fermentation", "Digestion"],
+    "answer": "Photosynthesis"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the chemical symbol for carbon?",
+    "options": ["C", "Co", "Ca", "Cu"],
+    "answer": "C"
+  },
+  {
+    "category": "General Science",
+    "question": "Which gas is known as the 'silent killer' due to its colorless and odorless nature?",
+    "options": ["Methane", "Carbon Dioxide", "Carbon Monoxide", "Oxygen"],
+    "answer": "Carbon Monoxide"
+  },
+  {
+    "category": "General Science",
+    "question": "In the human body, where is the pituitary gland located?",
+    "options": ["Brain", "Kidney", "Liver", "Heart"],
+    "answer": "Brain"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the process of the Earth's rotation on its axis?",
+    "options": ["Revolution", "Rotation", "Orbit", "Tilt"],
+    "answer": "Rotation"
+  },
+  {
+    "category": "General Science",
+    "question": "Which gas is essential for respiration in humans?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Methane"],
+    "answer": "Oxygen"
+  },
+  {
+    "category": "General Science",
+    "question": "Which gas is known as the 'silent killer' because it is colorless and odorless?",
+    "options": ["Carbon Monoxide", "Oxygen", "Nitrogen", "Methane"],
+    "answer": "Carbon Monoxide"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the largest organ in the human body?",
+    "options": ["Heart", "Liver", "Skin", "Lungs"],
+    "answer": "Skin"
+  },
+  {
+    "category": "General Science",
+    "question": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+    "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+    "answer": "Venus"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Ag", "Au", "Fe", "Cu"],
+    "answer": "Au"
+  },
+  {
+    "category": "General Science",
+    "question": "Which vitamin is known as the 'sunshine vitamin'?",
+    "options": ["Vitamin C", "Vitamin D", "Vitamin A", "Vitamin K"],
+    "answer": "Vitamin D"
+  },
+  {
+    "category": "General Science",
+    "question": "In the human body, where are the smallest bones located?",
+    "options": ["Hand", "Ear", "Foot", "Nose"],
+    "answer": "Ear"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the chemical symbol for iron?",
+    "options": ["Fe", "I", "Ir", "Au"],
+    "answer": "Fe"
+  },
+  {
+    "category": "General Science",
+    "question": "Which gas is produced by plants during photosynthesis?",
+    "options": ["Oxygen", "Carbon Dioxide", "Hydrogen", "Methane"],
+    "answer": "Oxygen"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the powerhouse of the cell?",
+    "options": ["Nucleus", "Mitochondria", "Endoplasmic Reticulum", "Golgi Apparatus"],
+    "answer": "Mitochondria"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the chemical symbol for lead?",
+    "options": ["Li", "Pb", "Be", "Si"],
+    "answer": "Pb"
+  },
+  {
+    "category": "General Science",
+    "question": "Which gas is responsible for the greenhouse effect?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Methane"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "General Science",
+    "question": "In the periodic table, which element has the symbol 'Ne'?",
+    "options": ["Neon", "Nickel", "Neptunium", "Nobelium"],
+    "answer": "Neon"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the main component of natural gas?",
+    "options": ["Methane", "Ethane", "Propane", "Butane"],
+    "answer": "Methane"
+  },
+  {
+    "category": "General Science",
+    "question": "Which bone is often called the 'funny bone'?",
+    "options": ["Femur", "Radius", "Ulna", "Humerus"],
+    "answer": "Ulna"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the chemical symbol for nitrogen?",
+    "options": ["N", "Ni", "Na", "Ne"],
+    "answer": "N"
+  },
+  {
+    "category": "General Science",
+    "question": "Which gas is used by plants in photosynthesis?",
+    "options": ["Oxygen", "Carbon Dioxide", "Hydrogen", "Nitrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "General Science",
+    "question": "In the human body, what is the function of the pancreas?",
+    "options": ["Digestion", "Blood Filtration", "Hormone Regulation", "Excretion"],
+    "answer": "Hormone Regulation"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the chemical symbol for calcium?",
+    "options": ["Ca", "C", "Cu", "Co"],
+    "answer": "Ca"
+  },
+  {
+    "category": "General Science",
+    "question": "Which planet is known as the 'Blue Planet'?",
+    "options": ["Earth", "Mars", "Neptune", "Uranus"],
+    "answer": "Earth"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the primary function of the gallbladder in the human body?",
+    "options": ["Digestion", "Blood Circulation", "Excretion", "Fat Storage"],
+    "answer": "Fat Storage"
+  },
+  {
+    "category": "General Science",
+    "question": "Which metal is liquid at room temperature?",
+    "options": ["Mercury", "Lead", "Iron", "Gold"],
+    "answer": "Mercury"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the chemical formula for table salt?",
+    "options": ["NaCl", "KCl", "HCl", "MgCl2"],
+    "answer": "NaCl"
+  },
+  {
+    "category": "General Science",
+    "question": "Which vitamin is essential for vision?",
+    "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin K"],
+    "answer": "Vitamin A"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the chemical symbol for potassium?",
+    "options": ["K", "P", "Po", "Ka"],
+    "answer": "K"
+  },
+  {
+    "category": "General Science",
+    "question": "In the human body, where are red blood cells produced?",
+    "options": ["Heart", "Liver", "Bone Marrow", "Lungs"],
+    "answer": "Bone Marrow"
+  },
+  {
+    "category": "General Science",
+    "question": "Which gas is known as 'laughing gas'?",
+    "options": ["Oxygen", "Nitrogen", "Hydrogen", "Nitrous Oxide"],
+    "answer": "Nitrous Oxide"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the chemical symbol for sodium?",
+    "options": ["Na", "Ne", "Ni", "Fe"],
+    "answer": "Na"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the chemical formula for glucose?",
+    "options": ["C6H12O6", "H2SO4", "NaCl", "CH4"],
+    "answer": "C6H12O6"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the smallest unit of life?",
+    "options": ["Atom", "Cell", "Molecule", "Organ"],
+    "answer": "Cell"
+  },
+  {
+    "category": "General Science",
+    "question": "Which gas is responsible for the smell of rotten eggs?",
+    "options": ["Oxygen", "Methane", "Hydrogen Sulfide", "Carbon Dioxide"],
+    "answer": "Hydrogen Sulfide"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the process by which plants make their own food?",
+    "options": ["Respiration", "Photosynthesis", "Digestion", "Fermentation"],
+    "answer": "Photosynthesis"
+  },
+  {
+    "category": "General Science",
+    "question": "Which element is essential for the formation of bones and teeth?",
+    "options": ["Iron", "Calcium", "Phosphorus", "Potassium"],
+    "answer": "Calcium"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the main function of the respiratory system?",
+    "options": ["Digestion", "Transportation", "Breathing", "Circulation"],
+    "answer": "Breathing"
+  },
+  {
+    "category": "General Science",
+    "question": "Which organ produces insulin in the human body?",
+    "options": ["Pancreas", "Liver", "Stomach", "Kidney"],
+    "answer": "Pancreas"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the chemical formula for water?",
+    "options": ["CO2", "H2O", "O2", "CH4"],
+    "answer": "H2O"
+  },
+  {
+    "category": "General Science",
+    "question": "Which gas is released when baking soda reacts with vinegar?",
+    "options": ["Oxygen", "Carbon Dioxide", "Hydrogen", "Nitrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the largest mammal on Earth?",
+    "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+    "answer": "Blue Whale"
+  },
+  {
+    "category": "General Science",
+    "question": "Which part of the human brain is responsible for reasoning and decision-making?",
+    "options": ["Cerebellum", "Frontal Lobe", "Occipital Lobe", "Medulla Oblongata"],
+    "answer": "Frontal Lobe"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Au", "Ag", "Fe", "Cu"],
+    "answer": "Au"
+  },
+  {
+    "category": "General Science",
+    "question": "Which gas is known as laughing gas?",
+    "options": ["Oxygen", "Nitrogen", "Helium", "Nitrous Oxide"],
+    "answer": "Nitrous Oxide"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the powerhouse of the cell?",
+    "options": ["Nucleus", "Mitochondria", "Endoplasmic Reticulum", "Golgi Apparatus"],
+    "answer": "Mitochondria"
+  },
+  {
+    "category": "General Science",
+    "question": "Which vitamin is known as the sunshine vitamin?",
+    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "answer": "Vitamin D"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the process by which plants lose water to the atmosphere?",
+    "options": ["Photosynthesis", "Transpiration", "Respiration", "Evaporation"],
+    "answer": "Transpiration"
+  },
+  {
+    "category": "General Science",
+    "question": "Which gas is most abundant in Earth's atmosphere?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Argon"],
+    "answer": "Nitrogen"
+  },
+  {
+    "category": "General Science",
+    "question": "In the periodic table, which element has the atomic number 1?",
+    "options": ["Hydrogen", "Helium", "Lithium", "Oxygen"],
+    "answer": "Hydrogen"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the largest organ in the human body?",
+    "options": ["Heart", "Liver", "Skin", "Brain"],
+    "answer": "Skin"
+  },
+  {
+    "category": "General Science",
+    "question": "Which metal is liquid at room temperature?",
+    "options": ["Iron", "Copper", "Mercury", "Aluminum"],
+    "answer": "Mercury"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the chemical symbol for water?",
+    "options": ["CO2", "H2O", "O2", "CH4"],
+    "answer": "H2O"
+  },
+  {
+    "category": "General Science",
+    "question": "Which gas is responsible for the greenhouse effect?",
+    "options": ["Oxygen", "Carbon Dioxide", "Methane", "Nitrous Oxide"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the process by which plants make their own food?",
+    "options": ["Respiration", "Photosynthesis", "Digestion", "Fermentation"],
+    "answer": "Photosynthesis"
+  },
+  {
+    "category": "General Science",
+    "question": "Which element is essential for the formation of bones and teeth?",
+    "options": ["Iron", "Calcium", "Phosphorus", "Potassium"],
+    "answer": "Calcium"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the main function of the respiratory system?",
+    "options": ["Digestion", "Transportation", "Breathing", "Circulation"],
+    "answer": "Breathing"
+  },
+  {
+    "category": "General Science",
+    "question": "Which organ produces insulin in the human body?",
+    "options": ["Pancreas", "Liver", "Stomach", "Kidney"],
+    "answer": "Pancreas"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the chemical formula for water?",
+    "options": ["CO2", "H2O", "O2", "CH4"],
+    "answer": "H2O"
+  },
+  {
+    "category": "General Science",
+    "question": "Which gas is released when baking soda reacts with vinegar?",
+    "options": ["Oxygen", "Carbon Dioxide", "Hydrogen", "Nitrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the largest mammal on Earth?",
+    "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+    "answer": "Blue Whale"
+  },
+  {
+    "category": "General Science",
+    "question": "Which part of the human brain is responsible for reasoning and decision-making?",
+    "options": ["Cerebellum", "Frontal Lobe", "Occipital Lobe", "Medulla Oblongata"],
+    "answer": "Frontal Lobe"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Au", "Ag", "Fe", "Cu"],
+    "answer": "Au"
+  },
+  {
+    "category": "General Science",
+    "question": "Which gas is known as laughing gas?",
+    "options": ["Oxygen", "Nitrogen", "Helium", "Nitrous Oxide"],
+    "answer": "Nitrous Oxide"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the powerhouse of the cell?",
+    "options": ["Nucleus", "Mitochondria", "Endoplasmic Reticulum", "Golgi Apparatus"],
+    "answer": "Mitochondria"
+  },
+  {
+    "category": "General Science",
+    "question": "Which vitamin is known as the sunshine vitamin?",
+    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "answer": "Vitamin D"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the process by which plants lose water to the atmosphere?",
+    "options": ["Photosynthesis", "Transpiration", "Respiration", "Evaporation"],
+    "answer": "Transpiration"
+  },
+  {
+    "category": "General Science",
+    "question": "Which gas is most abundant in Earth's atmosphere?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Argon"],
+    "answer": "Nitrogen"
+  },
+  {
+    "category": "General Science",
+    "question": "In the periodic table, which element has the atomic number 1?",
+    "options": ["Hydrogen", "Helium", "Lithium", "Oxygen"],
+    "answer": "Hydrogen"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the largest organ in the human body?",
+    "options": ["Heart", "Liver", "Skin", "Brain"],
+    "answer": "Skin"
+  },
+  {
+    "category": "General Science",
+    "question": "Which metal is liquid at room temperature?",
+    "options": ["Iron", "Copper", "Mercury", "Aluminum"],
+    "answer": "Mercury"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the chemical symbol for water?",
+    "options": ["CO2", "H2O", "O2", "CH4"],
+    "answer": "H2O"
+  },
+  {
+    "category": "General Science",
+    "question": "Which gas is responsible for the greenhouse effect?",
+    "options": ["Oxygen", "Carbon Dioxide", "Methane", "Nitrous Oxide"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the process by which plants make their own food?",
+    "options": ["Respiration", "Photosynthesis", "Digestion", "Fermentation"],
+    "answer": "Photosynthesis"
+  },
+  {
+    "category": "General Science",
+    "question": "Which element is essential for the formation of bones and teeth?",
+    "options": ["Iron", "Calcium", "Phosphorus", "Potassium"],
+    "answer": "Calcium"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the main function of the respiratory system?",
+    "options": ["Digestion", "Transportation", "Breathing", "Circulation"],
+    "answer": "Breathing"
+  },
+  {
+    "category": "General Science",
+    "question": "Which organ produces insulin in the human body?",
+    "options": ["Pancreas", "Liver", "Stomach", "Kidney"],
+    "answer": "Pancreas"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the chemical formula for water?",
+    "options": ["CO2", "H2O", "O2", "CH4"],
+    "answer": "H2O"
+  },
+  {
+    "category": "General Science",
+    "question": "Which gas is released when baking soda reacts with vinegar?",
+    "options": ["Oxygen", "Carbon Dioxide", "Hydrogen", "Nitrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the largest mammal on Earth?",
+    "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+    "answer": "Blue Whale"
+  },
+  {
+    "category": "General Science",
+    "question": "Which part of the human brain is responsible for reasoning and decision-making?",
+    "options": ["Cerebellum", "Frontal Lobe", "Occipital Lobe", "Medulla Oblongata"],
+    "answer": "Frontal Lobe"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the smallest bone in the human body?",
+    "options": ["Femur", "Stapes", "Tibia", "Radius"],
+    "answer": "Stapes"
+  },
+  {
+    "category": "General Science",
+    "question": "Which gas is produced by plants during photosynthesis?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Oxygen"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the chemical symbol for iron?",
+    "options": ["Ir", "Fe", "Au", "Ag"],
+    "answer": "Fe"
+  },
+  {
+    "category": "General Science",
+    "question": "Which scientist proposed the theory of relativity?",
+    "options": ["Isaac Newton", "Galileo Galilei", "Albert Einstein", "Stephen Hawking"],
+    "answer": "Albert Einstein"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the powerhouse of the cell?",
+    "options": ["Nucleus", "Mitochondria", "Endoplasmic Reticulum", "Golgi Apparatus"],
+    "answer": "Mitochondria"
+  },
+  {
+    "category": "General Science",
+    "question": "Which vitamin is responsible for blood clotting?",
+    "options": ["Vitamin A", "Vitamin K", "Vitamin C", "Vitamin D"],
+    "answer": "Vitamin K"
+  },
+  {
+    "category": "General Science",
+    "question": "In the context of electricity, what does AC stand for?",
+    "options": ["Alternative Current", "Adaptive Current", "Amplified Current", "Amperage Control"],
+    "answer": "Alternative Current"
+  },
+  {
+    "category": "General Science",
+    "question": "Which gas is known as the 'silent killer' due to its odorless and colorless properties?",
+    "options": ["Oxygen", "Carbon Dioxide", "Carbon Monoxide", "Methane"],
+    "answer": "Carbon Monoxide"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the chemical formula for table salt?",
+    "options": ["NaCl", "KCl", "CaCl2", "MgCl2"],
+    "answer": "NaCl"
+  },
+  {
+    "category": "General Science",
+    "question": "Which planet is known as the 'Red Planet'?",
+    "options": ["Mars", "Jupiter", "Venus", "Saturn"],
+    "answer": "Mars"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Au", "Ag", "Fe", "Cu"],
+    "answer": "Au"
+  },
+  {
+    "category": "General Science",
+    "question": "Which gas is known as laughing gas?",
+    "options": ["Oxygen", "Nitrogen", "Helium", "Nitrous Oxide"],
+    "answer": "Nitrous Oxide"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the powerhouse of the cell?",
+    "options": ["Nucleus", "Mitochondria", "Endoplasmic Reticulum", "Golgi Apparatus"],
+    "answer": "Mitochondria"
+  },
+  {
+    "category": "General Science",
+    "question": "Which vitamin is known as the sunshine vitamin?",
+    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "answer": "Vitamin D"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the process by which plants lose water to the atmosphere?",
+    "options": ["Photosynthesis", "Transpiration", "Respiration", "Evaporation"],
+    "answer": "Transpiration"
+  },
+  {
+    "category": "General Science",
+    "question": "Which gas is most abundant in Earth's atmosphere?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Argon"],
+    "answer": "Nitrogen"
+  },
+  {
+    "category": "General Science",
+    "question": "In the periodic table, which element has the atomic number 1?",
+    "options": ["Hydrogen", "Helium", "Lithium", "Oxygen"],
+    "answer": "Hydrogen"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the largest organ in the human body?",
+    "options": ["Heart", "Liver", "Skin", "Brain"],
+    "answer": "Skin"
+  },
+  {
+    "category": "General Science",
+    "question": "Which metal is liquid at room temperature?",
+    "options": ["Iron", "Copper", "Mercury", "Aluminum"],
+    "answer": "Mercury"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the chemical symbol for water?",
+    "options": ["CO2", "H2O", "O2", "CH4"],
+    "answer": "H2O"
+  },
+  {
+    "category": "General Science",
+    "question": "Which gas is responsible for the greenhouse effect?",
+    "options": ["Oxygen", "Carbon Dioxide", "Methane", "Nitrous Oxide"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the process by which plants make their own food?",
+    "options": ["Respiration", "Photosynthesis", "Digestion", "Fermentation"],
+    "answer": "Photosynthesis"
+  },
+  {
+    "category": "General Science",
+    "question": "Which element is essential for the formation of bones and teeth?",
+    "options": ["Iron", "Calcium", "Phosphorus", "Potassium"],
+    "answer": "Calcium"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the main function of the respiratory system?",
+    "options": ["Digestion", "Transportation", "Breathing", "Circulation"],
+    "answer": "Breathing"
+  },
+  {
+    "category": "General Science",
+    "question": "Which organ produces insulin in the human body?",
+    "options": ["Pancreas", "Liver", "Stomach", "Kidney"],
+    "answer": "Pancreas"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the chemical formula for water?",
+    "options": ["CO2", "H2O", "O2", "CH4"],
+    "answer": "H2O"
+  },
+  {
+    "category": "General Science",
+    "question": "Which gas is released when baking soda reacts with vinegar?",
+    "options": ["Oxygen", "Carbon Dioxide", "Hydrogen", "Nitrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the largest mammal on Earth?",
+    "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+    "answer": "Blue Whale"
+  },
+  {
+    "category": "General Science",
+    "question": "Which part of the human brain is responsible for reasoning and decision-making?",
+    "options": ["Cerebellum", "Frontal Lobe", "Occipital Lobe", "Medulla Oblongata"],
+    "answer": "Frontal Lobe"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the chemical symbol for potassium?",
+    "options": ["K", "Na", "Ca", "Mg"],
+    "answer": "K"
+  },
+  {
+    "category": "General Science",
+    "question": "Which gas is produced by plants during photosynthesis?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Methane"],
+    "answer": "Oxygen"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the chemical formula for water?",
+    "options": ["CO2", "H2O", "O2", "CH4"],
+    "answer": "H2O"
+  },
+  {
+    "category": "General Science",
+    "question": "Which planet is known as the 'Red Planet'?",
+    "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+    "answer": "Mars"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the process by which plants make their own food?",
+    "options": ["Respiration", "Photosynthesis", "Digestion", "Fermentation"],
+    "answer": "Photosynthesis"
+  },
+  {
+    "category": "General Science",
+    "question": "Which gas is known as laughing gas?",
+    "options": ["Oxygen", "Nitrogen", "Helium", "Nitrous Oxide"],
+    "answer": "Nitrous Oxide"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the smallest particle of an element that retains its chemical properties?",
+    "options": ["Atom", "Molecule", "Ion", "Electron"],
+    "answer": "Atom"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the powerhouse of the cell?",
+    "options": ["Nucleus", "Mitochondria", "Endoplasmic Reticulum", "Golgi Apparatus"],
+    "answer": "Mitochondria"
+  },
+  {
+    "category": "General Science",
+    "question": "Which gas is responsible for the characteristic smell of rotten eggs?",
+    "options": ["Oxygen", "Sulfur Dioxide", "Hydrogen Sulfide", "Methane"],
+    "answer": "Hydrogen Sulfide"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the unit of measurement for electric current?",
+    "options": ["Watt", "Volt", "Ohm", "Ampere"],
+    "answer": "Ampere"
+  },
+  {
+    "category": "General Science",
+    "question": "Which metal is commonly used for making batteries?",
+    "options": ["Copper", "Iron", "Zinc", "Aluminum"],
+    "answer": "Zinc"
+  },
+  {
+    "category": "General Science",
+    "question": "Which metal does not corrode?",
+    "options": ["Iron", "Copper", "Gold", "Silver"],
+    "answer": "Gold"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the chemical symbol for the element gold?",
+    "options": ["Ag", "Fe", "Au", "Cu"],
+    "answer": "Au"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the chemical symbol for nitrogen?",
+    "options": ["N2", "O2", "CO2", "H2"],
+    "answer": "N2"
+  },
+  {
+    "category": "General Science",
+    "question": "Which gas is most abundant in the Earth's atmosphere?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Argon"],
+    "answer": "Nitrogen"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the chemical formula for methane?",
+    "options": ["CH3OH", "CH4", "C2H6", "C3H8"],
+    "answer": "CH4"
+  },
+  {
+    "category": "General Science",
+    "question": "Which metal is essential for the transmission of nerve impulses in the human body?",
+    "options": ["Iron", "Zinc", "Copper", "Magnesium"],
+    "answer": "Sodium"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the process by which plants convert light into energy?",
+    "options": ["Photosynthesis", "Respiration", "Fermentation", "Transpiration"],
+    "answer": "Photosynthesis"
+  },
+  {
+    "category": "General Science",
+    "question": "Which vitamin is known as the 'Sunshine Vitamin'?",
+    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "answer": "Vitamin D"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the chemical symbol for helium?",
+    "options": ["He", "H", "Hu", "Hy"],
+    "answer": "He"
+  },
+  {
+    "category": "General Science",
+    "question": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+    "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+    "answer": "Venus"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the largest organ in the human body?",
+    "options": ["Heart", "Liver", "Skin", "Brain"],
+    "answer": "Skin"
+  },
+  {
+    "category": "General Science",
+    "question": "Which gas is produced by human respiration?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the chemical formula for glucose?",
+    "options": ["C6H12O6", "CH4", "H2O", "CO2"],
+    "answer": "C6H12O6"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the process by which plants lose water to the atmosphere?",
+    "options": ["Transpiration", "Photosynthesis", "Respiration", "Evaporation"],
+    "answer": "Transpiration"
+  },
+  {
+    "category": "General Science",
+    "question": "Which gas is responsible for the greenhouse effect on Earth?",
+    "options": ["Oxygen", "Nitrogen", "Methane", "Carbon Dioxide"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "General Science",
+    "question": "What is the largest mammal on Earth?",
+    "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+    "answer": "Blue Whale"
+  },
+  {
+    "category": "General Science",
+    "question": "Which part of the human brain is responsible for reasoning and decision-making?",
+    "options": ["Cerebellum", "Frontal Lobe", "Occipital Lobe", "Medulla Oblongata"],
+    "answer": "Frontal Lobe"
+  }
+]
+
+
+
+
+

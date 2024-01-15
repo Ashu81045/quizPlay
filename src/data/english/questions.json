@@ -1,0 +1,846 @@
+[
+  {
+    "category": "English",
+    "question": "What is the opposite of 'happy'?",
+    "options": ["Sad", "Excited", "Angry", "Joyful"],
+    "answer": "Sad"
+  },
+  {
+    "category": "English",
+    "question": "Which word rhymes with 'cat'?",
+    "options": ["Dog", "Bat", "Fish", "Hat"],
+    "answer": "Hat"
+  },
+  {
+    "category": "English",
+    "question": "What is the past tense of 'sing'?",
+    "options": ["Sang", "Sung", "Sing", "Song"],
+    "answer": "Sang"
+  },
+  {
+    "category": "English",
+    "question": "What is the plural form of 'book'?",
+    "options": ["Books", "Bookies", "Book", "Bookses"],
+    "answer": "Books"
+  },
+  {
+    "category": "English",
+    "question": "Which sentence is a question? \n A. The sky is blue. \n B. What is the time? \n C. I like pizza.",
+    "options": ["A", "B", "C", "None of the above"],
+    "answer": "B"
+  },
+  {
+    "category": "English",
+    "question": "What is the meaning of the word 'happy'?",
+    "options": ["Sad", "Excited", "Joyful", "Angry"],
+    "answer": "Joyful"
+  },
+  {
+    "category": "English",
+    "question": "Which letter comes after 'J' in the English alphabet?",
+    "options": ["K", "I", "L", "H"],
+    "answer": "K"
+  },
+  {
+    "category": "English",
+    "question": "What is the opposite of 'big'?",
+    "options": ["Small", "Large", "Huge", "Tall"],
+    "answer": "Small"
+  },
+  {
+    "category": "English",
+    "question": "What is the meaning of the word 'bright'?",
+    "options": ["Dark", "Dull", "Gloomy", "Shining"],
+    "answer": "Shining"
+  },
+  {
+    "category": "English",
+    "question": "Which sentence is a command? \n A. The cat is sleeping. \n B. Please close the door. \n C. The sun is shining.",
+    "options": ["A", "B", "C", "None of the above"],
+    "answer": "B"
+  },
+  {
+    "category": "English",
+    "question": "What is the present tense of 'eat'?",
+    "options": ["Ate", "Eaten", "Eats", "Eating"],
+    "answer": "Eats"
+  },
+  {
+    "category": "English",
+    "question": "Which word does not belong to the group? \n A. Red \n B. Green \n C. Square \n D. Blue",
+    "options": ["A", "B", "C", "D"],
+    "answer": "C"
+  },
+  {
+    "category": "English",
+    "question": "What is the opposite of 'cold'?",
+    "options": ["Hot", "Warm", "Freezing", "Chilly"],
+    "answer": "Hot"
+  },
+  {
+    "category": "English",
+    "question": "Which sentence is a statement? \n A. How are you? \n B. The sky is blue. \n C. What is your name?",
+    "options": ["A", "B", "C", "None of the above"],
+    "answer": "B"
+  },
+  {
+    "category": "English",
+    "question": "What is the plural form of 'child'?",
+    "options": ["Childs", "Childrens", "Childes", "Children"],
+    "answer": "Children"
+  },
+  {
+    "category": "English",
+    "question": "Which word has a similar meaning to 'happy'?",
+    "options": ["Sad", "Excited", "Joyful", "Angry"],
+    "answer": "Joyful"
+  },
+  {
+    "category": "English",
+    "question": "What comes between 'twenty-nine' and 'thirty-one'?",
+    "options": ["Thirty", "Twenty-Nine-and-a-Half", "Twenty-Nine-and-Three-Quarters", "Thirty-One"],
+    "answer": "Thirty"
+  },
+  {
+    "category": "English",
+    "question": "What is the past tense of 'run'?",
+    "options": ["Running", "Ran", "Runned", "Runs"],
+    "answer": "Ran"
+  },
+  {
+    "category": "English",
+    "question": "Which word does not rhyme with the others? \n A. Cat \n B. Hat \n C. Dog \n D. Mat",
+    "options": ["A", "B", "C", "D"],
+    "answer": "C"
+  },
+  {
+    "category": "English",
+    "question": "What is the meaning of the word 'quiet'?",
+    "options": ["Loud", "Noisy", "Silent", "Peaceful"],
+    "answer": "Silent"
+  },
+  {
+    "category": "English",
+    "question": "Which letter is missing in the sequence? A, B, C, _, E",
+    "options": ["D", "F", "G", "H"],
+    "answer": "D"
+  },
+  {
+    "category": "English",
+    "question": "What is the present participle of 'swim'?",
+    "options": ["Swam", "Swum", "Swimming", "Swims"],
+    "answer": "Swimming"
+  },
+  {
+    "category": "English",
+    "question": "Which word has a similar meaning to 'sad'?",
+    "options": ["Happy", "Excited", "Joyful", "Melancholy"],
+    "answer": "Melancholy"
+  },
+  {
+    "category": "English",
+    "question": "What is the opposite of 'old'?",
+    "options": ["Young", "Ancient", "Elderly", "Aged"],
+    "answer": "Young"
+  },
+  {
+    "category": "English",
+    "question": "Which sentence is an exclamation? \n A. It is raining. \n B. What a beautiful day! \n C. I have a cat.",
+    "options": ["A", "B", "C", "None of the above"],
+    "answer": "B"
+  },
+  {
+    "category": "English",
+    "question": "What is the plural form of 'fox'?",
+    "options": ["Foxes", "Foxs", "Foxies", "Fox"],
+    "answer": "Foxes"
+  },
+  {
+    "category": "English",
+    "question": "What is the meaning of the word 'brave'?",
+    "options": ["Cowardly", "Fearless", "Timid", "Scared"],
+    "answer": "Fearless"
+  },
+  {
+    "category": "English",
+    "question": "Which word does not belong to the group? \n A. Apple \n B. Banana \n C. Chair \n D. Orange",
+    "options": ["A", "B", "C", "D"],
+    "answer": "C"
+  },
+  {
+    "category": "English",
+    "question": "What is the opposite of 'fast'?",
+    "options": ["Slow", "Quick", "Speedy", "Rapid"],
+    "answer": "Slow"
+  },
+  {
+    "category": "English",
+    "question": "Which word rhymes with 'sun'?",
+    "options": ["Run", "Fun", "Son", "Bun"],
+    "answer": "Fun"
+  },
+  {
+    "category": "English",
+    "question": "What is the present tense of 'write'?",
+    "options": ["Wrote", "Writing", "Writed", "Writes"],
+    "answer": "Writes"
+  },
+  {
+    "category": "English",
+    "question": "What is the singular form of 'mice'?",
+    "options": ["Mouse", "Meese", "Mouses", "Mooses"],
+    "answer": "Mouse"
+  },
+  {
+    "category": "English",
+    "question": "Which sentence is a question? \n A. The moon is bright. \n B. What is your favorite color? \n C. I like to read books.",
+    "options": ["A", "B", "C", "None of the above"],
+    "answer": "B"
+  },
+  {
+    "category": "English",
+    "question": "What is the meaning of the word 'clever'?",
+    "options": ["Stupid", "Intelligent", "Silly", "Wise"],
+    "answer": "Intelligent"
+  },
+  {
+    "category": "English",
+    "question": "Which letter comes before 'P' in the English alphabet?",
+    "options": ["O", "N", "Q", "R"],
+    "answer": "O"
+  },
+  {
+    "category": "English",
+    "question": "What is the opposite of 'soft'?",
+    "options": ["Hard", "Smooth", "Tender", "Gentle"],
+    "answer": "Hard"
+  },
+  {
+    "category": "English",
+    "question": "What is the meaning of the word 'curious'?",
+    "options": ["Boring", "Inquisitive", "Indifferent", "Apathetic"],
+    "answer": "Inquisitive"
+  },
+  {
+    "category": "English",
+    "question": "Which sentence is a command? \n A. The cat is sleeping. \n B. Close the door, please. \n C. The sun is shining.",
+    "options": ["A", "B", "C", "None of the above"],
+    "answer": "B"
+  },
+  {
+    "category": "English",
+    "question": "What is the past tense of 'swim'?",
+    "options": ["Swum", "Swam", "Swimming", "Swims"],
+    "answer": "Swam"
+  },
+  {
+    "category": "English",
+    "question": "Which word does not belong to the group? \n A. Green \n B. Blue \n C. Circle \n D. Yellow",
+    "options": ["A", "B", "C", "D"],
+    "answer": "C"
+  },
+  {
+    "category": "English",
+    "question": "What is the opposite of 'loud'?",
+    "options": ["Quiet", "Noisy", "Soft", "Melodious"],
+    "answer": "Quiet"
+  },
+  {
+    "category": "English",
+    "question": "Which sentence is a statement? \n A. How are you? \n B. The stars are shining. \n C. What is your favorite game?",
+    "options": ["A", "B", "C", "None of the above"],
+    "answer": "B"
+  },
+  {
+    "category": "English",
+    "question": "What is the plural form of 'goose'?",
+    "options": ["Gooses", "Geese", "Goosees", "Geeses"],
+    "answer": "Geese"
+  },
+  {
+    "category": "English",
+    "question": "Which word has a similar meaning to 'excited'?",
+    "options": ["Calm", "Happy", "Thrilled", "Bored"],
+    "answer": "Thrilled"
+  },
+  {
+    "category": "English",
+    "question": "What comes after 'forty-nine'?",
+    "options": ["Fifty", "Forty-Eight", "Fifty-One", "Forty-Nine-and-a-Half"],
+    "answer": "Fifty"
+  },
+  {
+    "category": "English",
+    "question": "What is the past tense of 'read'?",
+    "options": ["Read", "Red", "Ridden", "Reading"],
+    "answer": "Read"
+  },
+  {
+    "category": "English",
+    "question": "Which word does not rhyme with the others? \n A. Pen \n B. Den \n C. Run \n D. Sun",
+    "options": ["A", "B", "C", "D"],
+    "answer": "C"
+  },
+  {
+    "category": "English",
+    "question": "What is the meaning of the word 'happy'?",
+    "options": ["Sad", "Excited", "Joyful", "Angry"],
+    "answer": "Joyful"
+  },
+  {
+    "category": "English",
+    "question": "Which letter is missing in the sequence? A, B, C, _, E",
+    "options": ["D", "F", "G", "H"],
+    "answer": "D"
+  },
+  {
+    "category": "English",
+    "question": "What is the present participle of 'eat'?",
+    "options": ["Ate", "Eaten", "Eats", "Eating"],
+    "answer": "Eating"
+  },
+  {
+    "category": "English",
+    "question": "Which word has a similar meaning to 'sad'?",
+    "options": ["Happy", "Excited", "Joyful", "Melancholy"],
+    "answer": "Melancholy"
+  },
+  {
+    "category": "English",
+    "question": "What is the opposite of 'old'?",
+    "options": ["Young", "Ancient", "Elderly", "Aged"],
+    "answer": "Young"
+  },
+  {
+    "category": "English",
+    "question": "Which sentence is an exclamation? \n A. It is raining. \n B. What a beautiful day! \n C. I have a cat.",
+    "options": ["A", "B", "C", "None of the above"],
+    "answer": "B"
+  },
+  {
+    "category": "English",
+    "question": "What is the plural form of 'fox'?",
+    "options": ["Foxes", "Foxs", "Foxies", "Fox"],
+    "answer": "Foxes"
+  },
+  {
+    "category": "English",
+    "question": "What is the meaning of the word 'brave'?",
+    "options": ["Cowardly", "Fearless", "Timid", "Scared"],
+    "answer": "Fearless"
+  },
+  {
+    "category": "English",
+    "question": "Which word does not belong to the group? \n A. Apple \n B. Banana \n C. Chair \n D. Orange",
+    "options": ["A", "B", "C", "D"],
+    "answer": "C"
+  },
+  {
+    "category": "English",
+    "question": "What is the opposite of 'empty'?",
+    "options": ["Full", "Hollow", "Vacant", "Sparse"],
+    "answer": "Full"
+  },
+  {
+    "category": "English",
+    "question": "Which word rhymes with 'tree'?",
+    "options": ["Free", "Bee", "Sea", "Key"],
+    "answer": "Free"
+  },
+  {
+    "category": "English",
+    "question": "What is the present tense of 'sleep'?",
+    "options": ["Slept", "Sleeping", "Slep", "Sleeps"],
+    "answer": "Sleeps"
+  },
+  {
+    "category": "English",
+    "question": "What is the singular form of 'geese'?",
+    "options": ["Goose", "Geesees", "Geeses", "Gooses"],
+    "answer": "Goose"
+  },
+  {
+    "category": "English",
+    "question": "Which sentence is a question? \n A. The flowers are blooming. \n B. What is your favorite color? \n C. I like to play outside.",
+    "options": ["A", "B", "C", "None of the above"],
+    "answer": "B"
+  },
+  {
+    "category": "English",
+    "question": "What is the meaning of the word 'vivid'?",
+    "options": ["Pale", "Dull", "Bright", "Muted"],
+    "answer": "Bright"
+  },
+  {
+    "category": "English",
+    "question": "Which letter comes after 'K' in the English alphabet?",
+    "options": ["L", "M", "N", "O"],
+    "answer": "L"
+  },
+  {
+    "category": "English",
+    "question": "What is the opposite of 'heavy'?",
+    "options": ["Light", "Weighed", "Massive", "Burdened"],
+    "answer": "Light"
+  },
+  {
+    "category": "English",
+    "question": "What is the meaning of the word 'fascinating'?",
+    "options": ["Boring", "Interesting", "Unimpressive", "Dull"],
+    "answer": "Interesting"
+  },
+  {
+    "category": "English",
+    "question": "Which sentence is a command? \n A. The bird is singing. \n B. Close the window, please. \n C. The river is flowing.",
+    "options": ["A", "B", "C", "None of the above"],
+    "answer": "B"
+  },
+  {
+    "category": "English",
+    "question": "What is the past tense of 'rise'?",
+    "options": ["Rose", "Risen", "Rising", "Rise"],
+    "answer": "Rose"
+  },
+  {
+    "category": "English",
+    "question": "Which word does not belong to the group? \n A. Red \n B. Blue \n C. Triangle \n D. Yellow",
+    "options": ["A", "B", "C", "D"],
+    "answer": "C"
+  },
+  {
+    "category": "English",
+    "question": "What is the opposite of 'noisy'?",
+    "options": ["Quiet", "Loud", "Chatty", "Raucous"],
+    "answer": "Quiet"
+  },
+  {
+    "category": "English",
+    "question": "Which sentence is a statement? \n A. How are you? \n B. The moon is shining. \n C. What is your favorite game?",
+    "options": ["A", "B", "C", "None of the above"],
+    "answer": "B"
+  },
+  {
+    "category": "English",
+    "question": "What is the plural form of 'mouse'?",
+    "options": ["Mouses", "Mice", "Meese", "Mooses"],
+    "answer": "Mice"
+  },
+  {
+    "category": "English",
+    "question": "Which word has a similar meaning to 'amazed'?",
+    "options": ["Bored", "Surprised", "Uninterested", "Indifferent"],
+    "answer": "Surprised"
+  },
+  {
+    "category": "English",
+    "question": "What comes after 'eighty-nine'?",
+    "options": ["Ninety", "Eighty-Eight", "Ninety-One", "Eighty-Nine-and-a-Half"],
+    "answer": "Ninety"
+  },
+  {
+    "category": "English",
+    "question": "What is the past tense of 'begin'?",
+    "options": ["Begun", "Began", "Beginning", "Begins"],
+    "answer": "Began"
+  },
+  {
+    "category": "English",
+    "question": "Which word does not rhyme with the others? \n A. Pen \n B. Den \n C. Run \n D. Sun",
+    "options": ["A", "B", "C", "D"],
+    "answer": "C"
+  },
+  {
+    "category": "English",
+    "question": "What is the meaning of the word 'joyful'?",
+    "options": ["Sad", "Happy", "Excited", "Elated"],
+    "answer": "Happy"
+  },
+  {
+    "category": "English",
+    "question": "Which letter is missing in the sequence? A, B, C, _, E",
+    "options": ["D", "F", "G", "H"],
+    "answer": "D"
+  },
+  {
+    "category": "English",
+    "question": "What is the present participle of 'jump'?",
+    "options": ["Jumped", "Jumping", "Jumps", "Jumpt"],
+    "answer": "Jumping"
+  },
+  {
+    "category": "English",
+    "question": "Which word has a similar meaning to 'happy'?",
+    "options": ["Sad", "Joyful", "Content", "Ecstatic"],
+    "answer": "Joyful"
+  },
+  {
+    "category": "English",
+    "question": "What is the opposite of 'new'?",
+    "options": ["Old", "Modern", "Fresh", "Recent"],
+    "answer": "Old"
+  },
+  {
+    "category": "English",
+    "question": "Which sentence is an exclamation? \n A. It is snowing. \n B. What a beautiful flower! \n C. I have a cat.",
+    "options": ["A", "B", "C", "None of the above"],
+    "answer": "B"
+  },
+  {
+    "category": "English",
+    "question": "What is the plural form of 'puppy'?",
+    "options": ["Puppies", "Puppys", "Pupies", "Pups"],
+    "answer": "Puppies"
+  },
+  {
+    "category": "English",
+    "question": "What is the meaning of the word 'courageous'?",
+    "options": ["Fearful", "Brave", "Timid", "Cowardly"],
+    "answer": "Brave"
+  },
+  {
+    "category": "English",
+    "question": "Which word does not belong to the group? \n A. Apple \n B. Banana \n C. Table \n D. Orange",
+    "options": ["A", "B", "C", "D"],
+    "answer": "C"
+  },
+  {
+    "category": "English",
+    "question": "What is the opposite of 'fast'?",
+    "options": ["Slow", "Quick", "Speedy", "Rapid"],
+    "answer": "Slow"
+  },
+  {
+    "category": "English",
+    "question": "Which word rhymes with 'sun'?",
+    "options": ["Run", "Fun", "Son", "Bun"],
+    "answer": "Fun"
+  },
+  {
+    "category": "English",
+    "question": "What is the present tense of 'write'?",
+    "options": ["Wrote", "Writing", "Writed", "Writes"],
+    "answer": "Writes"
+  },
+  {
+    "category": "English",
+    "question": "What is the singular form of 'mice'?",
+    "options": ["Mouse", "Meese", "Mouses", "Mooses"],
+    "answer": "Mouse"
+  },
+  {
+    "category": "English",
+    "question": "Which sentence is a question? \n A. The moon is bright. \n B. What is your favorite color? \n C. I like pizza.",
+    "options": ["A", "B", "C", "None of the above"],
+    "answer": "B"
+  },
+  {
+    "category": "English",
+    "question": "What is the meaning of the word 'clever'?",
+    "options": ["Stupid", "Intelligent", "Silly", "Wise"],
+    "answer": "Intelligent"
+  },
+  {
+    "category": "English",
+    "question": "Which letter comes after 'J' in the English alphabet?",
+    "options": ["K", "I", "L", "H"],
+    "answer": "K"
+  },
+  {
+    "category": "English",
+    "question": "What is the opposite of 'big'?",
+    "options": ["Small", "Large", "Huge", "Tall"],
+    "answer": "Small"
+  },
+  {
+    "category": "English",
+    "question": "What is the meaning of the word 'bright'?",
+    "options": ["Dark", "Dull", "Gloomy", "Shining"],
+    "answer": "Shining"
+  },
+  {
+    "category": "English",
+    "question": "Which sentence is a command? \n A. The cat is sleeping. \n B. Please close the door. \n C. The sun is shining.",
+    "options": ["A", "B", "C", "None of the above"],
+    "answer": "B"
+  },
+  {
+    "category": "English",
+    "question": "What is the present tense of 'eat'?",
+    "options": ["Ate", "Eaten", "Eats", "Eating"],
+    "answer": "Eats"
+  },
+  {
+    "category": "English",
+    "question": "Which word does not belong to the group? \n A. Red \n B. Green \n C. Square \n D. Blue",
+    "options": ["A", "B", "C", "D"],
+    "answer": "C"
+  },
+  {
+    "category": "English",
+    "question": "What is the opposite of 'cold'?",
+    "options": ["Hot", "Warm", "Freezing", "Chilly"],
+    "answer": "Hot"
+  },
+  {
+    "category": "English",
+    "question": "Which sentence is a statement? \n A. How are you? \n B. The sky is blue. \n C. What is your name?",
+    "options": ["A", "B", "C", "None of the above"],
+    "answer": "B"
+  },
+  {
+    "category": "English",
+    "question": "What is the plural form of 'child'?",
+    "options": ["Childs", "Childrens", "Childes", "Children"],
+    "answer": "Children"
+  },
+  {
+    "category": "English",
+    "question": "Which word has a similar meaning to 'happy'?",
+    "options": ["Sad", "Excited", "Joyful", "Angry"],
+    "answer": "Joyful"
+  },
+  {
+    "category": "English",
+    "question": "What comes between 'twenty-nine' and 'thirty-one'?",
+    "options": ["Thirty", "Twenty-Nine-and-a-Half", "Twenty-Nine-and-Three-Quarters", "Thirty-One"],
+    "answer": "Thirty"
+  },
+  {
+    "category": "English",
+    "question": "What is the past tense of 'run'?",
+    "options": ["Running", "Ran", "Runned", "Runs"],
+    "answer": "Ran"
+  },
+  {
+    "category": "English",
+    "question": "Which word does not rhyme with the others? \n A. Cat \n B. Hat \n C. Dog \n D. Mat",
+    "options": ["A", "B", "C", "D"],
+    "answer": "C"
+  },
+  {
+    "category": "English",
+    "question": "What is the meaning of the word 'excited'?",
+    "options": ["Bored", "Happy", "Thrilled", "Calm"],
+    "answer": "Thrilled"
+  },
+  {
+    "category": "English",
+    "question": "Which letter is missing in the sequence? A, B, C, _, E",
+    "options": ["D", "F", "G", "H"],
+    "answer": "D"
+  },
+  {
+    "category": "English",
+    "question": "What is the present participle of 'dance'?",
+    "options": ["Dance", "Danced", "Dancing", "Dances"],
+    "answer": "Dancing"
+  },
+  {
+    "category": "English",
+    "question": "Which word has a similar meaning to 'sad'?",
+    "options": ["Happy", "Excited", "Joyful", "Melancholy"],
+    "answer": "Melancholy"
+  },
+  {
+    "category": "English",
+    "question": "What is the opposite of 'old'?",
+    "options": ["Young", "Ancient", "Elderly", "Aged"],
+    "answer": "Young"
+  },
+  {
+    "category": "English",
+    "question": "Which sentence is an exclamation? \n A. It is raining. \n B. What a beautiful day! \n C. I have a book.",
+    "options": ["A", "B", "C", "None of the above"],
+    "answer": "B"
+  },
+  {
+    "category": "English",
+    "question": "What is the plural form of 'horse'?",
+    "options": ["Horses", "Horsees", "Horsies", "Horse"],
+    "answer": "Horses"
+  },
+  {
+    "category": "English",
+    "question": "What is the meaning of the word 'brave'?",
+    "options": ["Cowardly", "Fearless", "Timid", "Scared"],
+    "answer": "Fearless"
+  },
+  {
+    "category": "English",
+    "question": "Which word does not belong to the group? \n A. Apple \n B. Banana \n C. Chair \n D. Orange",
+    "options": ["A", "B", "C", "D"],
+    "answer": "C"
+  },
+  {
+    "category": "English",
+    "question": "What is the opposite of 'light'?",
+    "options": ["Heavy", "Bright", "Dark", "Glowing"],
+    "answer": "Heavy"
+  },
+  {
+    "category": "English",
+    "question": "Which word rhymes with 'door'?",
+    "options": ["Bore", "More", "Sore", "Core"],
+    "answer": "More"
+  },
+  {
+    "category": "English",
+    "question": "What is the present tense of 'sleep'?",
+    "options": ["Slept", "Sleeping", "Slep", "Sleeps"],
+    "answer": "Sleeps"
+  },
+  {
+    "category": "English",
+    "question": "What is the singular form of 'sheep'?",
+    "options": ["Sheep", "Sheeps", "Sheepes", "Sheepies"],
+    "answer": "Sheep"
+  },
+  {
+    "category": "English",
+    "question": "Which sentence is a question? \n A. The stars are shining. \n B. What is your favorite subject? \n C. I enjoy playing games.",
+    "options": ["A", "B", "C", "None of the above"],
+    "answer": "B"
+  },
+  {
+    "category": "English",
+    "question": "What is the meaning of the word 'bitter'?",
+    "options": ["Sweet", "Sour", "Harsh", "Delicious"],
+    "answer": "Harsh"
+  },
+  {
+    "category": "English",
+    "question": "Which letter comes after 'L' in the English alphabet?",
+    "options": ["M", "N", "O", "P"],
+    "answer": "M"
+  },
+  {
+    "category": "English",
+    "question": "What is the opposite of 'strong'?",
+    "options": ["Weak", "Powerful", "Sturdy", "Mighty"],
+    "answer": "Weak"
+  },
+  {
+    "category": "English",
+    "question": "What is the meaning of the word 'mysterious'?",
+    "options": ["Obvious", "Hidden", "Clear", "Plain"],
+    "answer": "Hidden"
+  },
+  {
+    "category": "English",
+    "question": "Which sentence is a command? \n A. The bird is singing. \n B. Close the door, please. \n C. The river is flowing.",
+    "options": ["A", "B", "C", "None of the above"],
+    "answer": "B"
+  },
+  {
+    "category": "English",
+    "question": "What is the past tense of 'fall'?",
+    "options": ["Fallen", "Fell", "Falling", "Falls"],
+    "answer": "Fell"
+  },
+  {
+    "category": "English",
+    "question": "Which word does not belong to the group? \n A. Yellow \n B. Green \n C. Square \n D. Blue",
+    "options": ["A", "B", "C", "D"],
+    "answer": "C"
+  },
+  {
+    "category": "English",
+    "question": "What is the opposite of 'loud'?",
+    "options": ["Quiet", "Noisy", "Soft", "Melodious"],
+    "answer": "Quiet"
+  },
+  {
+    "category": "English",
+    "question": "Which sentence is a statement? \n A. How are you? \n B. The moon is shining. \n C. What is your favorite game?",
+    "options": ["A", "B", "C", "None of the above"],
+    "answer": "B"
+  },
+  {
+    "category": "English",
+    "question": "What is the plural form of 'child'?",
+    "options": ["Childs", "Childrens", "Childes", "Children"],
+    "answer": "Children"
+  },
+  {
+    "category": "English",
+    "question": "Which word has a similar meaning to 'excited'?",
+    "options": ["Calm", "Happy", "Thrilled", "Bored"],
+    "answer": "Thrilled"
+  },
+  {
+    "category": "English",
+    "question": "What comes after 'forty-nine'?",
+    "options": ["Fifty", "Forty-Eight", "Fifty-One", "Forty-Nine-and-a-Half"],
+    "answer": "Fifty"
+  },
+  {
+    "category": "English",
+    "question": "What is the past tense of 'run'?",
+    "options": ["Running", "Ran", "Runned", "Runs"],
+    "answer": "Ran"
+  },
+  {
+    "category": "English",
+    "question": "Which word does not rhyme with the others? \n A. Cat \n B. Hat \n C. Dog \n D. Mat",
+    "options": ["A", "B", "C", "D"],
+    "answer": "C"
+  },
+  {
+    "category": "English",
+    "question": "What is the meaning of the word 'happy'?",
+    "options": ["Sad", "Joyful", "Excited", "Elated"],
+    "answer": "Joyful"
+  },
+  {
+    "category": "English",
+    "question": "Which letter is missing in the sequence? A, B, C, _, E",
+    "options": ["D", "F", "G", "H"],
+    "answer": "D"
+  },
+  {
+    "category": "English",
+    "question": "What is the present participle of 'jump'?",
+    "options": ["Jumped", "Jumping", "Jumps", "Jumpt"],
+    "answer": "Jumping"
+  },
+  {
+    "category": "English",
+    "question": "Which word has a similar meaning to 'happy'?",
+    "options": ["Sad", "Joyful", "Content", "Ecstatic"],
+    "answer": "Joyful"
+  },
+  {
+    "category": "English",
+    "question": "What is the opposite of 'new'?",
+    "options": ["Old", "Modern", "Fresh", "Recent"],
+    "answer": "Old"
+  },
+  {
+    "category": "English",
+    "question": "Which sentence is an exclamation? \n A. It is snowing. \n B. What a beautiful flower! \n C. I have a cat.",
+    "options": ["A", "B", "C", "None of the above"],
+    "answer": "B"
+  },
+  {
+    "category": "English",
+    "question": "What is the plural form of 'puppy'?",
+    "options": ["Puppies", "Puppys", "Pupies", "Pups"],
+    "answer": "Puppies"
+  },
+  {
+    "category": "English",
+    "question": "What is the meaning of the word 'courageous'?",
+    "options": ["Fearful", "Brave", "Timid", "Cowardly"],
+    "answer": "Brave"
+  },
+  {
+    "category": "English",
+    "question": "Which word does not belong to the group? \n A. Apple \n B. Banana \n C. Table \n D. Orange",
+    "options": ["A", "B", "C", "D"],
+    "answer": "C"
+  }
+]
+
+
+  
+

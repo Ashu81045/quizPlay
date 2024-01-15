@@ -1,0 +1,1226 @@
+[
+  {
+    "category": "Math",
+    "question": "What is the sum of 5 and 7?",
+    "options": [10, 11, 12, 13],
+    "answer": 12
+  },
+  {
+    "category": "Math",
+    "question": "If you have 3 apples and eat 2, how many apples do you have left?",
+    "options": [0, 1, 2, 3],
+    "answer": 1
+  },
+  {
+    "category": "Math",
+    "question": "If a box has 8 chocolates and you take away 3, how many chocolates are left?",
+    "options": [2, 3, 5, 8],
+    "answer": 5
+  },
+  {
+    "category": "Math",
+    "question": "What is the product of 4 and 6?",
+    "options": [18, 24, 30, 36],
+    "answer": 24
+  },
+  {
+    "category": "Math",
+    "question": "If a rectangle has a length of 5 units and a width of 3 units, what is its area?",
+    "options": [8, 12, 15, 18],
+    "answer": 15
+  },
+  {
+    "category": "Math",
+    "question": "How many sides does a triangle have?",
+    "options": [2, 3, 4, 5],
+    "answer": 3
+  },
+  {
+    "category": "Math",
+    "question": "If you have 10 marbles and give away 4, how many marbles do you have left?",
+    "options": [3, 4, 5, 6],
+    "answer": 6
+  },
+  {
+    "category": "Math",
+    "question": "What is the difference between 9 and 4?",
+    "options": [3, 4, 5, 6],
+    "answer": 5
+  },
+  {
+    "category": "Math",
+    "question": "If a clock shows 3:45, how many minutes are there until 4:00?",
+    "options": [10, 15, 20, 25],
+    "answer": 15
+  },
+  {
+    "category": "Math",
+    "question": "What is the value of 2 multiplied by 9?",
+    "options": [14, 16, 18, 20],
+    "answer": 18
+  },
+  {
+    "category": "Math",
+    "question": "If you have 7 balloons and give away half of them, how many do you have left?",
+    "options": [1, 2, 3, 4],
+    "answer": 3
+  },
+  {
+    "category": "Math",
+    "question": "How many sides does a square have?",
+    "options": [3, 4, 5, 6],
+    "answer": 4
+  },
+  {
+    "category": "Math",
+    "question": "If you have 20 candies and share them equally among 4 friends, how many candies does each friend get?",
+    "options": [3, 4, 5, 6],
+    "answer": 5
+  },
+  {
+    "category": "Math",
+    "question": "What is the sum of 9 and 6?",
+    "options": [12, 14, 16, 18],
+    "answer": 15
+  },
+  {
+    "category": "Math",
+    "question": "If you have 8 pencils and lose 2, how many pencils do you have left?",
+    "options": [3, 4, 6, 8],
+    "answer": 6
+  },
+  {
+    "category": "Math",
+    "question": "What is the result of 7 plus 3?",
+    "options": [9, 10, 11, 12],
+    "answer": 10
+  },
+  {
+    "category": "Math",
+    "question": "If a box contains 15 toys and you take out 5, how many toys are left?",
+    "options": [7, 8, 9, 10],
+    "answer": 10
+  },
+  {
+    "category": "Math",
+    "question": "How many fingers do you have on one hand?",
+    "options": [3, 4, 5, 6],
+    "answer": 5
+  },
+  {
+    "category": "Math",
+    "question": "If you have 12 cookies and eat one-third of them, how many cookies do you eat?",
+    "options": [2, 3, 4, 5],
+    "answer": 4
+  },
+  {
+    "category": "Math",
+    "question": "What is the double of 8?",
+    "options": [12, 14, 16, 18],
+    "answer": 16
+  },
+  {
+    "category": "Math",
+    "question": "If a rectangle has a perimeter of 20 units and one side is 5 units, what is the length of the other side?",
+    "options": [5, 7, 8, 10],
+    "answer": 5
+  },
+  {
+    "category": "Math",
+    "question": "How many quarters are there in one dollar?",
+    "options": [2, 3, 4, 5],
+    "answer": 4
+  },
+  {
+    "category": "Math",
+    "question": "If you have 9 apples and give away 3, how many apples do you have left?",
+    "options": [3, 4, 5, 6],
+    "answer": 6
+  },
+  {
+    "category": "Math",
+    "question": "What is the result of 6 multiplied by 7?",
+    "options": [36, 42, 48, 54],
+    "answer": 42
+  },
+  {
+    "category": "Math",
+    "question": "If a triangle has one angle of 90 degrees, what is it called?",
+    "options": ["Acute", "Right", "Obtuse", "Straight"],
+    "answer": "Right"
+  },
+  {
+    "category": "Math",
+    "question": "How many sides does a hexagon have?",
+    "options": [4, 5, 6, 7],
+    "answer": 6
+  },
+  {
+    "category": "Math",
+    "question": "If you have 14 candies and share them equally among 2 friends, how many candies does each friend get?",
+    "options": [5, 6, 7, 8],
+    "answer": 7
+  },
+  {
+    "category": "Math",
+    "question": "What is the result of 5 minus 2?",
+    "options": [2, 3, 4, 5],
+    "answer": 3
+  },
+  {
+    "category": "Math",
+    "question": "If a square has a side length of 4 units, what is its area?",
+    "options": [8, 12, 16, 20],
+    "answer": 16
+  },
+  {
+    "category": "Math",
+    "question": "If you have 15 balloons and give away half of them, how many balloons do you have left?",
+    "options": [5, 7, 8, 10],
+    "answer": 7
+  },
+  {
+    "category": "Math",
+    "question": "What is the sum of 8 and 9?",
+    "options": [14, 16, 17, 18],
+    "answer": 17
+  },
+  {
+    "category": "Math",
+    "question": "If a circle has a radius of 3 units, what is its circumference?",
+    "options": [6, 9, 12, 18],
+    "answer": 18.85
+  },
+  {
+    "category": "Math",
+    "question": "How many sides does an octagon have?",
+    "options": [6, 7, 8, 9],
+    "answer": 8
+  },
+  {
+    "category": "Math",
+    "question": "What is the result of 11 minus 4?",
+    "options": [5, 6, 7, 8],
+    "answer": 7
+  },
+  {
+    "category": "Math",
+    "question": "If you have 6 apples and share them equally among 3 friends, how many apples does each friend get?",
+    "options": [1, 2, 3, 4],
+    "answer": 2
+  },
+  {
+    "category": "Math",
+    "question": "What is the product of 5 and 8?",
+    "options": [32, 36, 40, 45],
+    "answer": 40
+  },
+  {
+    "category": "Math",
+    "question": "If a box contains 24 candies and you take out one-third of them, how many candies do you have?",
+    "options": [12, 16, 18, 20],
+    "answer": 16
+  },
+  {
+    "category": "Math",
+    "question": "What is the double of 12?",
+    "options": [20, 22, 24, 26],
+    "answer": 24
+  },
+  {
+    "category": "Math",
+    "question": "If you have 9 pencils and gain 5 more, how many pencils do you have in total?",
+    "options": [11, 13, 14, 15],
+    "answer": 14
+  },
+  {
+    "category": "Math",
+    "question": "How many days are there in a week?",
+    "options": [5, 6, 7, 8],
+    "answer": 7
+  },
+  {
+    "category": "Math",
+    "question": "If a square has a perimeter of 16 units, what is the length of each side?",
+    "options": [2, 3, 4, 5],
+    "answer": 4
+  },
+  {
+    "category": "Math",
+    "question": "What is the result of 9 plus 5?",
+    "options": [13, 14, 15, 16],
+    "answer": 14
+  },
+  {
+    "category": "Math",
+    "question": "If a triangle has all three sides equal, what type of triangle is it?",
+    "options": ["Scalene", "Isosceles", "Equilateral", "Right"],
+    "answer": "Equilateral"
+  },
+  {
+    "category": "Math",
+    "question": "How many cents are there in a quarter?",
+    "options": [5, 10, 15, 25],
+    "answer": 25
+  },
+  {
+    "category": "Math",
+    "question": "If you have 18 cookies and share them equally among 6 friends, how many cookies does each friend get?",
+    "options": [2, 3, 4, 5],
+    "answer": 3
+  },
+  {
+    "category": "Math",
+    "question": "What is the difference between 15 and 8?",
+    "options": [5, 6, 7, 8],
+    "answer": 7
+  },
+  {
+    "category": "Math",
+    "question": "If a rectangle has a length of 7 units and a width of 4 units, what is its area?",
+    "options": [20, 24, 28, 30],
+    "answer": 28
+  },
+  {
+    "category": "Math",
+    "question": "What is the result of 6 multiplied by 9?",
+    "options": [48, 52, 54, 56],
+    "answer": 54
+  },
+  {
+    "category": "Math",
+    "question": "If a clock shows 2:30, how many minutes are there until 3:00?",
+    "options": [15, 20, 25, 30],
+    "answer": 30
+  },
+  {
+    "category": "Math",
+    "question": "How many sides does a pentagon have?",
+    "options": [3, 4, 5, 6],
+    "answer": 5
+  },
+  {
+    "category": "Math",
+    "question": "If you have 20 candies and eat half of them, how many candies do you have left?",
+    "options": [5, 8, 10, 12],
+    "answer": 10
+  },
+  {
+    "category": "Math",
+    "question": "What is the sum of 13 and 6?",
+    "options": [18, 19, 20, 21],
+    "answer": 19
+  },
+  {
+    "category": "Math",
+    "question": "If a triangle has one angle less than 90 degrees, what is it called?",
+    "options": ["Acute", "Right", "Obtuse", "Straight"],
+    "answer": "Acute"
+  },
+  {
+    "category": "Math",
+    "question": "How many nickels are there in one dollar?",
+    "options": [10, 15, 20, 25],
+    "answer": 20
+  },
+  {
+    "category": "Math",
+    "question": "If you have 11 marbles and lose 3, how many marbles do you have left?",
+    "options": [5, 7, 8, 9],
+    "answer": 8
+  },
+  {
+    "category": "Math",
+    "question": "What is the result of 7 plus 8?",
+    "options": [13, 14, 15, 16],
+    "answer": 15
+  },
+  {
+    "category": "Math",
+    "question": "If a box contains 30 chocolates and you take out one-fourth of them, how many chocolates do you have?",
+    "options": [20, 22, 25, 28],
+    "answer": 22
+  },
+  {
+    "category": "Math",
+    "question": "What is the triple of 5?",
+    "options": [12, 15, 18, 21],
+    "answer": 15
+  },
+  {
+    "category": "Math",
+    "question": "If you have 16 candies and share them equally among 4 friends, how many candies does each friend get?",
+    "options": [2, 4, 6, 8],
+    "answer": 4
+  },
+  {
+    "category": "Math",
+    "question": "What is the result of 10 minus 3?",
+    "options": [5, 6, 7, 8],
+    "answer": 7
+  },
+  {
+    "category": "Math",
+    "question": "If a rectangle has a length of 6 units and a width of 2 units, what is its area?",
+    "options": [8, 10, 12, 14],
+    "answer": 12
+  },
+  {
+    "category": "Math",
+    "question": "How many sides does a decagon have?",
+    "options": [8, 10, 12, 15],
+    "answer": 10
+  },
+  {
+    "category": "Math",
+    "question": "What is the double of 15?",
+    "options": [26, 28, 30, 32],
+    "answer": 30
+  },
+  {
+    "category": "Math",
+    "question": "If a clock shows 4:15, how many minutes are there until 4:30?",
+    "options": [10, 12, 15, 18],
+    "answer": 15
+  },
+  {
+    "category": "Math",
+    "question": "What is the product of 7 and 5?",
+    "options": [30, 35, 40, 45],
+    "answer": 35
+  },
+  {
+    "category": "Math",
+    "question": "If you have 12 pencils and lose half of them, how many pencils do you have left?",
+    "options": [3, 4, 5, 6],
+    "answer": 6
+  },
+  {
+    "category": "Math",
+    "question": "What is the sum of 11 and 8?",
+    "options": [17, 18, 19, 20],
+    "answer": 19
+  },
+  {
+    "category": "Math",
+    "question": "If a triangle has one angle more than 90 degrees, what is it called?",
+    "options": ["Acute", "Right", "Obtuse", "Straight"],
+    "answer": "Obtuse"
+  },
+  {
+    "category": "Math",
+    "question": "How many quarters are there in three dollars?",
+    "options": [9, 12, 15, 18],
+    "answer": 12
+  },
+  {
+    "category": "Math",
+    "question": "If you have 25 marbles and give away one-fifth of them, how many marbles do you have left?",
+    "options": [15, 18, 20, 22],
+    "answer": 20
+  },
+  {
+    "category": "Math",
+    "question": "What is the result of 8 plus 6?",
+    "options": [12, 14, 16, 18],
+    "answer": 14
+  },
+  {
+    "category": "Math",
+    "question": "If a square has a side length of 3 units, what is its area?",
+    "options": [6, 9, 12, 15],
+    "answer": 9
+  },
+  {
+    "category": "Math",
+    "question": "How many sides does a heptagon have?",
+    "options": [6, 7, 8, 9],
+    "answer": 7
+  },
+  {
+    "category": "Math",
+    "question": "If you have 14 candies and eat one-fourth of them, how many candies do you eat?",
+    "options": [2, 3, 4, 5],
+    "answer": 3
+  },
+  {
+    "category": "Math",
+    "question": "What is the difference between 20 and 9?",
+    "options": [9, 10, 11, 12],
+    "answer": 11
+  },
+  {
+    "category": "Math",
+    "question": "If a box contains 36 chocolates and you take out one-sixth of them, how many chocolates do you have?",
+    "options": [25, 28, 30, 32],
+    "answer": 30
+  },
+  {
+    "category": "Math",
+    "question": "What is the triple of 4?",
+    "options": [10, 12, 15, 18],
+    "answer": 12
+  },
+  {
+    "category": "Math",
+    "question": "If you have 7 apples and give away 2, how many apples do you have left?",
+    "options": [3, 4, 5, 6],
+    "answer": 5
+  },
+  {
+    "category": "Math",
+    "question": "What is the sum of 16 and 5?",
+    "options": [20, 21, 22, 23],
+    "answer": 21
+  },
+  {
+    "category": "Math",
+    "question": "If a rectangle has a perimeter of 18 units and one side is 5 units, what is the length of the other side?",
+    "options": [5, 6, 7, 8],
+    "answer": 4
+  },
+  {
+    "category": "Math",
+    "question": "How many nickels are there in two dollars?",
+    "options": [8, 10, 12, 14],
+    "answer": 40
+  },
+  {
+    "category": "Math",
+    "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+    "options": [1, 2, 3, 4],
+    "answer": 2
+  },
+  {
+    "category": "Math",
+    "question": "What is the result of 9 multiplied by 7?",
+    "options": [56, 63, 70, 77],
+    "answer": 63
+  },
+  {
+    "category": "Math",
+    "question": "If a clock shows 7:45, how many minutes are there until 8:00?",
+    "options": [5, 10, 15, 20],
+    "answer": 15
+  },
+  {
+    "category": "Math",
+    "question": "How many sides does a rhombus have?",
+    "options": [3, 4, 5, 6],
+    "answer": 4
+  },
+  {
+    "category": "Math",
+    "question": "If you have 22 candies and give away one-eighth of them, how many candies do you have left?",
+    "options": [18, 19, 20, 21],
+    "answer": 20
+  },
+  {
+    "category": "Math",
+    "question": "What is the result of 12 plus 7?",
+    "options": [18, 19, 20, 21],
+    "answer": 19
+  },
+  {
+    "category": "Math",
+    "question": "If you have 24 candies and share them equally among 6 friends, how many candies does each friend get?",
+    "options": [3, 4, 5, 6],
+    "answer": 4
+  },
+  {
+    "category": "Math",
+    "question": "What is the result of 15 minus 9?",
+    "options": [4, 5, 6, 7],
+    "answer": 6
+  },
+  {
+    "category": "Math",
+    "question": "If a rectangle has a length of 8 units and a width of 3 units, what is its area?",
+    "options": [18, 21, 24, 27],
+    "answer": 24
+  },
+  {
+    "category": "Math",
+    "question": "How many sides does a nonagon have?",
+    "options": [7, 8, 9, 10],
+    "answer": 9
+  },
+  {
+    "category": "Math",
+    "question": "What is the double of 18?",
+    "options": [32, 36, 40, 44],
+    "answer": 36
+  },
+  {
+    "category": "Math",
+    "question": "If a clock shows 6:20, how many minutes are there until 6:45?",
+    "options": [15, 20, 25, 30],
+    "answer": 25
+  },
+  {
+    "category": "Math",
+    "question": "What is the product of 9 and 4?",
+    "options": [32, 36, 40, 45],
+    "answer": 36
+  },
+  {
+    "category": "Math",
+    "question": "If you have 15 pencils and gain 8 more, how many pencils do you have in total?",
+    "options": [21, 23, 25, 27],
+    "answer": 23
+  },
+  {
+    "category": "Math",
+    "question": "What is the sum of 13 and 12?",
+    "options": [24, 25, 26, 27],
+    "answer": 25
+  },
+  {
+    "category": "Math",
+    "question": "If a triangle has one angle equal to 90 degrees, what is it called?",
+    "options": ["Acute", "Right", "Obtuse", "Straight"],
+    "answer": "Right"
+  },
+  {
+    "category": "Math",
+    "question": "How many dimes are there in one dollar?",
+    "options": [8, 10, 12, 14],
+    "answer": 10
+  },
+  {
+    "category": "Math",
+    "question": "If you have 30 marbles and give away one-tenth of them, how many marbles do you have left?",
+    "options": [24, 25, 26, 27],
+    "answer": 27
+  },
+  {
+    "category": "Math",
+    "question": "What is the result of 11 plus 9?",
+    "options": [18, 19, 20, 21],
+    "answer": 20
+  },
+  {
+    "category": "Math",
+    "question": "If a square has a side length of 5 units, what is its area?",
+    "options": [20, 25, 30, 35],
+    "answer": 25
+  },
+  {
+    "category": "Math",
+    "question": "How many sides does an octagon have?",
+    "options": [6, 7, 8, 9],
+    "answer": 8
+  },
+  {
+    "category": "Math",
+    "question": "If you have 18 candies and eat one-sixth of them, how many candies do you eat?",
+    "options": [2, 3, 4, 5],
+    "answer": 3
+  },
+  {
+    "category": "Math",
+    "question": "What is the difference between 25 and 11?",
+    "options": [12, 13, 14, 15],
+    "answer": 14
+  },
+  {
+    "category": "Math",
+    "question": "If a box contains 42 chocolates and you take out one-fourth of them, how many chocolates do you have?",
+    "options": [30, 32, 34, 36],
+    "answer": 32
+  },
+  {
+    "category": "Math",
+    "question": "What is the triple of 6?",
+    "options": [15, 18, 21, 24],
+    "answer": 18
+  },
+  {
+    "category": "Math",
+    "question": "If you have 8 apples and give away 3, how many apples do you have left?",
+    "options": [3, 4, 5, 6],
+    "answer": 5
+  },
+  {
+    "category": "Math",
+    "question": "What is the sum of 19 and 8?",
+    "options": [26, 27, 28, 29],
+    "answer": 27
+  },
+  {
+    "category": "Math",
+    "question": "If a rectangle has a perimeter of 24 units and one side is 6 units, what is the length of the other side?",
+    "options": [5, 6, 7, 8],
+    "answer": 6
+  },
+  {
+    "category": "Math",
+    "question": "How many nickels are there in five dollars?",
+    "options": [40, 45, 50, 55],
+    "answer": 100
+  },
+  {
+    "category": "Math",
+    "question": "If you have 16 cookies and share them equally among 8 friends, how many cookies does each friend get?",
+    "options": [1, 2, 3, 4],
+    "answer": 2
+  },
+  {
+    "category": "Math",
+    "question": "What is the result of 10 multiplied by 6?",
+    "options": [54, 56, 60, 64],
+    "answer": 60
+  },
+  {
+    "category": "Math",
+    "question": "If a clock shows 9:30, how many minutes are there until 10:00?",
+    "options": [15, 20, 25, 30],
+    "answer": 30
+  },
+  {
+    "category": "Math",
+    "question": "How many sides does a parallelogram have?",
+    "options": [3, 4, 5, 6],
+    "answer": 4
+  },
+  {
+    "category": "Math",
+    "question": "If you have 28 candies and give away one-fifth of them, how many candies do you have left?",
+    "options": [22, 23, 24, 25],
+    "answer": 22
+  },
+  {
+    "category": "Math",
+    "question": "What is the result of 13 plus 6?",
+    "options": [18, 19, 20, 21],
+    "answer": 19
+  },
+  {
+    "category": "Math",
+    "question": "If you have 36 candies and share them equally among 9 friends, how many candies does each friend get?",
+    "options": [2, 3, 4, 5],
+    "answer": 4
+  },
+  {
+    "category": "Math",
+    "question": "What is the result of 20 minus 11?",
+    "options": [7, 8, 9, 10],
+    "answer": 9
+  },
+  {
+    "category": "Math",
+    "question": "If a rectangle has a length of 10 units and a width of 4 units, what is its area?",
+    "options": [32, 36, 40, 44],
+    "answer": 40
+  },
+  {
+    "category": "Math",
+    "question": "How many sides does a dodecagon have?",
+    "options": [10, 11, 12, 13],
+    "answer": 12
+  },
+  {
+    "category": "Math",
+    "question": "What is the double of 24?",
+    "options": [42, 46, 48, 52],
+    "answer": 48
+  },
+  {
+    "category": "Math",
+    "question": "If a clock shows 8:40, how many minutes are there until 9:00?",
+    "options": [15, 20, 25, 30],
+    "answer": 20
+  },
+  {
+    "category": "Math",
+    "question": "What is the product of 11 and 5?",
+    "options": [45, 50, 55, 60],
+    "answer": 55
+  },
+  {
+    "category": "Math",
+    "question": "If you have 20 pencils and gain 12 more, how many pencils do you have in total?",
+    "options": [28, 30, 32, 34],
+    "answer": 32
+  },
+  {
+    "category": "Math",
+    "question": "What is the sum of 18 and 14?",
+    "options": [30, 32, 34, 36],
+    "answer": 32
+  },
+  {
+    "category": "Math",
+    "question": "If a triangle has all sides equal, what type of triangle is it?",
+    "options": ["Scalene", "Isosceles", "Equilateral", "Right"],
+    "answer": "Equilateral"
+  },
+  {
+    "category": "Math",
+    "question": "How many quarters are there in four dollars?",
+    "options": [14, 16, 18, 20],
+    "answer": 16
+  },
+  {
+    "category": "Math",
+    "question": "If you have 40 marbles and give away one-eighth of them, how many marbles do you have left?",
+    "options": [32, 34, 36, 38],
+    "answer": 35
+  },
+  {
+    "category": "Math",
+    "question": "What is the result of 13 plus 8?",
+    "options": [20, 21, 22, 23],
+    "answer": 21
+  },
+  {
+    "category": "Math",
+    "question": "If a square has a side length of 6 units, what is its area?",
+    "options": [30, 36, 42, 48],
+    "answer": 36
+  },
+  {
+    "category": "Math",
+    "question": "How many sides does a hexadecagon have?",
+    "options": [12, 14, 16, 18],
+    "answer": 16
+  },
+  {
+    "category": "Math",
+    "question": "If you have 24 candies and eat one-eighth of them, how many candies do you eat?",
+    "options": [2, 3, 4, 5],
+    "answer": 3
+  },
+  {
+    "category": "Math",
+    "question": "What is the difference between 30 and 15?",
+    "options": [10, 12, 15, 18],
+    "answer": 15
+  },
+  {
+    "category": "Math",
+    "question": "If a box contains 48 chocolates and you take out one-fifth of them, how many chocolates do you have?",
+    "options": [34, 36, 38, 40],
+    "answer": 38
+  },
+  {
+    "category": "Math",
+    "question": "What is the triple of 8?",
+    "options": [20, 24, 27, 32],
+    "answer": 24
+  },
+  {
+    "category": "Math",
+    "question": "If you have 9 apples and give away 4, how many apples do you have left?",
+    "options": [3, 4, 5, 6],
+    "answer": 5
+  },
+  {
+    "category": "Math",
+    "question": "What is the sum of 26 and 9?",
+    "options": [35, 36, 37, 38],
+    "answer": 35
+  },
+  {
+    "category": "Math",
+    "question": "If a rectangle has a perimeter of 30 units and one side is 7 units, what is the length of the other side?",
+    "options": [5, 6, 8, 10],
+    "answer": 8
+  },
+  {
+    "category": "Math",
+    "question": "How many nickels are there in three dollars?",
+    "options": [30, 35, 40, 45],
+    "answer": 60
+  },
+  {
+    "category": "Math",
+    "question": "If you have 20 cookies and share them equally among 10 friends, how many cookies does each friend get?",
+    "options": [1, 2, 3, 4],
+    "answer": 2
+  },
+  {
+    "category": "Math",
+    "question": "What is the result of 11 multiplied by 7?",
+    "options": [68, 75, 77, 82],
+    "answer": 77
+  },
+  {
+    "category": "Math",
+    "question": "If a clock shows 10:45, how many minutes are there until 11:00?",
+    "options": [10, 12, 15, 20],
+    "answer": 15
+  },
+  {
+    "category": "Math",
+    "question": "How many sides does a trapezoid have?",
+    "options": [3, 4, 5, 6],
+    "answer": 4
+  },
+  {
+    "category": "Math",
+    "question": "If you have 32 candies and give away one-sixth of them, how many candies do you have left?",
+    "options": [26, 28, 30, 32],
+    "answer": 27
+  },
+  {
+    "category": "Math",
+    "question": "What is the result of 15 plus 7?",
+    "options": [20, 22, 23, 24],
+    "answer": 22
+  },
+  {
+    "category": "Math",
+    "question": "If you have 45 candies and share them equally among 5 friends, how many candies does each friend get?",
+    "options": [7, 8, 9, 10],
+    "answer": 9
+  },
+  {
+    "category": "Math",
+    "question": "What is the result of 25 minus 14?",
+    "options": [8, 9, 10, 11],
+    "answer": 11
+  },
+  {
+    "category": "Math",
+    "question": "If a rectangle has a length of 12 units and a width of 3 units, what is its area?",
+    "options": [30, 36, 40, 44],
+    "answer": 36
+  },
+  {
+    "category": "Math",
+    "question": "How many sides does a hendecagon have?",
+    "options": [10, 11, 12, 13],
+    "answer": 11
+  },
+  {
+    "category": "Math",
+    "question": "What is the double of 30?",
+    "options": [54, 58, 60, 64],
+    "answer": 60
+  },
+  {
+    "category": "Math",
+    "question": "If a clock shows 5:15, how many minutes are there until 5:30?",
+    "options": [10, 12, 15, 18],
+    "answer": 15
+  },
+  {
+    "category": "Math",
+    "question": "What is the product of 12 and 6?",
+    "options": [68, 72, 76, 80],
+    "answer": 72
+  },
+  {
+    "category": "Math",
+    "question": "If you have 25 pencils and gain 15 more, how many pencils do you have in total?",
+    "options": [38, 40, 42, 44],
+    "answer": 40
+  },
+  {
+    "category": "Math",
+    "question": "What is the sum of 21 and 18?",
+    "options": [36, 39, 40, 41],
+    "answer": 39
+  },
+  {
+    "category": "Math",
+    "question": "If a triangle has one angle equal to 90 degrees, what is it called?",
+    "options": ["Acute", "Right", "Obtuse", "Straight"],
+    "answer": "Right"
+  },
+  {
+    "category": "Math",
+    "question": "How many dimes are there in five dollars?",
+    "options": [40, 45, 50, 55],
+    "answer": 50
+  },
+  {
+    "category": "Math",
+    "question": "If you have 50 marbles and give away one-tenth of them, how many marbles do you have left?",
+    "options": [44, 45, 46, 47],
+    "answer": 45
+  },
+  {
+    "category": "Math",
+    "question": "What is the result of 16 plus 11?",
+    "options": [25, 26, 27, 28],
+    "answer": 27
+  },
+  {
+    "category": "Math",
+    "question": "If a square has a side length of 7 units, what is its area?",
+    "options": [35, 42, 49, 56],
+    "answer": 49
+  },
+  {
+    "category": "Math",
+    "question": "How many sides does a nonagon have?",
+    "options": [7, 8, 9, 10],
+    "answer": 9
+  },
+  {
+    "category": "Math",
+    "question": "If you have 36 candies and eat one-fifth of them, how many candies do you eat?",
+    "options": [5, 6, 7, 8],
+    "answer": 7
+  },
+  {
+    "category": "Math",
+    "question": "What is the difference between 40 and 18?",
+    "options": [18, 20, 22, 24],
+    "answer": 22
+  },
+  {
+    "category": "Math",
+    "question": "If a box contains 54 chocolates and you take out one-fourth of them, how many chocolates do you have?",
+    "options": [38, 40, 42, 44],
+    "answer": 40
+  },
+  {
+    "category": "Math",
+    "question": "What is the triple of 10?",
+    "options": [20, 30, 40, 50],
+    "answer": 30
+  },
+  {
+    "category": "Math",
+    "question": "If you have 11 apples and give away 6, how many apples do you have left?",
+    "options": [3, 4, 5, 6],
+    "answer": 5
+  },
+  {
+    "category": "Math",
+    "question": "What is the sum of 32 and 17?",
+    "options": [48, 49, 50, 51],
+    "answer": 49
+  },
+  {
+    "category": "Math",
+    "question": "If a rectangle has a perimeter of 36 units and one side is 8 units, what is the length of the other side?",
+    "options": [5, 6, 7, 9],
+    "answer": 10
+  },
+  {
+    "category": "Math",
+    "question": "How many nickels are there in four dollars?",
+    "options": [40, 45, 50, 55],
+    "answer": 80
+  },
+  {
+    "category": "Math",
+    "question": "If you have 22 cookies and share them equally among 11 friends, how many cookies does each friend get?",
+    "options": [1, 2, 3, 4],
+    "answer": 2
+  },
+  {
+    "category": "Math",
+    "question": "What is the result of 13 multiplied by 8?",
+    "options": [94, 104, 112, 120],
+    "answer": 104
+  },
+  {
+    "category": "Math",
+    "question": "If a clock shows 12:15, how many minutes are there until 12:30?",
+    "options": [10, 12, 15, 18],
+    "answer": 15
+  },
+  {
+    "category": "Math",
+    "question": "How many sides does a pentagon have?",
+    "options": [3, 4, 5, 6],
+    "answer": 5
+  },
+  {
+    "category": "Math",
+    "question": "If you have 64 candies and give away one-sixth of them, how many candies do you have left?",
+    "options": [52, 54, 56, 58],
+    "answer": 54
+  },
+  {
+    "category": "Math",
+    "question": "What is the result of 18 plus 9?",
+    "options": [25, 27, 28, 29],
+    "answer": 27
+  },
+  {
+    "category": "Math",
+    "question": "If you have 72 candies and share them equally among 8 friends, how many candies does each friend get?",
+    "options": [7, 8, 9, 10],
+    "answer": 9
+  },
+  {
+    "category": "Math",
+    "question": "What is the result of 35 minus 18?",
+    "options": [15, 17, 19, 21],
+    "answer": 17
+  },
+  {
+    "category": "Math",
+    "question": "If a rectangle has a length of 15 units and a width of 5 units, what is its area?",
+    "options": [60, 70, 75, 80],
+    "answer": 75
+  },
+  {
+    "category": "Math",
+    "question": "How many sides does a tetradecagon have?",
+    "options": [10, 12, 14, 16],
+    "answer": 14
+  },
+  {
+    "category": "Math",
+    "question": "What is the double of 40?",
+    "options": [78, 80, 82, 84],
+    "answer": 80
+  },
+  {
+    "category": "Math",
+    "question": "If a clock shows 7:50, how many minutes are there until 8:00?",
+    "options": [5, 7, 10, 15],
+    "answer": 10
+  },
+  {
+    "category": "Math",
+    "question": "What is the product of 13 and 7?",
+    "options": [85, 90, 91, 95],
+    "answer": 91
+  },
+  {
+    "category": "Math",
+    "question": "If you have 30 pencils and gain 20 more, how many pencils do you have in total?",
+    "options": [45, 50, 55, 60],
+    "answer": 50
+  },
+  {
+    "category": "Math",
+    "question": "What is the sum of 28 and 22?",
+    "options": [45, 48, 50, 52],
+    "answer": 50
+  },
+  {
+    "category": "Math",
+    "question": "If a triangle has all sides equal, what type of triangle is it?",
+    "options": ["Scalene", "Isosceles", "Equilateral", "Right"],
+    "answer": "Equilateral"
+  },
+  {
+    "category": "Math",
+    "question": "How many quarters are there in six dollars?",
+    "options": [20, 24, 28, 30],
+    "answer": 24
+  },
+  {
+    "category": "Math",
+    "question": "If you have 60 marbles and give away one-tenth of them, how many marbles do you have left?",
+    "options": [48, 50, 52, 54],
+    "answer": 54
+  },
+  {
+    "category": "Math",
+    "question": "What is the result of 21 plus 16?",
+    "options": [35, 37, 39, 41],
+    "answer": 37
+  },
+  {
+    "category": "Math",
+    "question": "If a square has a side length of 8 units, what is its area?",
+    "options": [56, 60, 64, 72],
+    "answer": 64
+  },
+  {
+    "category": "Math",
+    "question": "How many sides does a heptadecagon have?",
+    "options": [14, 15, 16, 17],
+    "answer": 17
+  },
+  {
+    "category": "Math",
+    "question": "If you have 48 candies and eat one-fourth of them, how many candies do you eat?",
+    "options": [8, 10, 12, 15],
+    "answer": 12
+  },
+  {
+    "category": "Math",
+    "question": "What is the difference between 50 and 28?",
+    "options": [18, 20, 22, 24],
+    "answer": 22
+  },
+  {
+    "category": "Math",
+    "question": "If a box contains 64 chocolates and you take out one-fifth of them, how many chocolates do you have?",
+    "options": [46, 48, 50, 52],
+    "answer": 50
+  },
+  {
+    "category": "Math",
+    "question": "What is the triple of 12?",
+    "options": [32, 36, 38, 40],
+    "answer": 36
+  },
+  {
+    "category": "Math",
+    "question": "If you have 14 apples and give away 8, how many apples do you have left?",
+    "options": [3, 4, 5, 6],
+    "answer": 6
+  },
+  {
+    "category": "Math",
+    "question": "What is the sum of 42 and 19?",
+    "options": [58, 60, 61, 62],
+    "answer": 61
+  },
+  {
+    "category": "Math",
+    "question": "If a rectangle has a perimeter of 42 units and one side is 9 units, what is the length of the other side?",
+    "options": [9, 12, 15, 18],
+    "answer": 15
+  },
+  {
+    "category": "Math",
+    "question": "How many nickels are there in seven dollars?",
+    "options": [70, 75, 80, 85],
+    "answer": 140
+  },
+  {
+    "category": "Math",
+    "question": "If you have 26 cookies and share them equally among 13 friends, how many cookies does each friend get?",
+    "options": [1, 2, 3, 4],
+    "answer": 2
+  },
+  {
+    "category": "Math",
+    "question": "What is the result of 14 multiplied by 9?",
+    "options": [120, 126, 132, 140],
+    "answer": 126
+  },
+  {
+    "category": "Math",
+    "question": "If a clock shows 3:45, how many minutes are there until 4:00?",
+    "options": [10, 12, 15, 20],
+    "answer": 15
+  },
+  {
+    "category": "Math",
+    "question": "How many sides does a hexagon have?",
+    "options": [4, 5, 6, 7],
+    "answer": 6
+  },
+  {
+    "category": "Math",
+    "question": "If you have 84 candies and give away one-sixth of them, how many candies do you have left?",
+    "options": [70, 72, 74, 76],
+    "answer": 70
+  },
+  {
+    "category": "Math",
+    "question": "What is the result of 20 plus 12?",
+    "options": [30, 32, 34, 36],
+    "answer": 32
+  }
+]
+
+
+
+
+
+

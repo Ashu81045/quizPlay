@@ -1,0 +1,1004 @@
+[
+  {
+    "category": "Chemistry",
+    "question": "What is the smallest unit of matter?",
+    "options": ["Atom", "Molecule", "Cell", "Element"],
+    "answer": "Atom"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which gas do plants absorb from the air during photosynthesis?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for water?",
+    "options": ["O2", "CO2", "H2O", "NaCl"],
+    "answer": "H2O"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which metal is a liquid at room temperature?",
+    "options": ["Gold", "Mercury", "Iron", "Copper"],
+    "answer": "Mercury"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the main gas in the air we breathe?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Helium"],
+    "answer": "Nitrogen"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Au", "Ag", "Fe", "Cu"],
+    "answer": "Au"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which element is essential for burning?",
+    "options": ["Oxygen", "Carbon", "Hydrogen", "Nitrogen"],
+    "answer": "Oxygen"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What do you call a substance that cannot be broken down into simpler substances?",
+    "options": ["Compound", "Mixture", "Element", "Solution"],
+    "answer": "Element"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which gas is responsible for the sensation of smell?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Olfactory"],
+    "answer": "Olfactory"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for carbon?",
+    "options": ["C", "O", "Ca", "Cu"],
+    "answer": "C"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the process of turning a liquid into a gas?",
+    "options": ["Condensation", "Evaporation", "Melting", "Freezing"],
+    "answer": "Evaporation"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which gas do humans exhale during respiration?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Methane"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for oxygen?",
+    "options": ["O2", "CO2", "H2O", "O"],
+    "answer": "O2"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which metal is the best conductor of electricity?",
+    "options": ["Gold", "Silver", "Copper", "Aluminum"],
+    "answer": "Silver"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the process of plants taking in water through their roots?",
+    "options": ["Photosynthesis", "Transpiration", "Respiration", "Absorption"],
+    "answer": "Absorption"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which gas is used by plants during photosynthesis to make food?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for helium?",
+    "options": ["H", "He", "Ho", "Hm"],
+    "answer": "He"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the process of a solid turning into a liquid?",
+    "options": ["Condensation", "Evaporation", "Melting", "Freezing"],
+    "answer": "Melting"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which element is essential for all living organisms?",
+    "options": ["Oxygen", "Carbon", "Hydrogen", "Nitrogen"],
+    "answer": "Carbon"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for sodium?",
+    "options": ["Na", "Ni", "Nu", "No"],
+    "answer": "Na"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which gas is known as laughing gas?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrous Oxide", "Hydrogen"],
+    "answer": "Nitrous Oxide"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the process of a gas turning into a liquid?",
+    "options": ["Condensation", "Evaporation", "Melting", "Sublimation"],
+    "answer": "Condensation"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for iron?",
+    "options": ["Fe", "I", "In", "Ir"],
+    "answer": "Fe"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which gas is used in balloons to make them float?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Helium"],
+    "answer": "Helium"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the process of a liquid turning into a gas?",
+    "options": ["Condensation", "Evaporation", "Melting", "Freezing"],
+    "answer": "Evaporation"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which element is essential for fire to burn?",
+    "options": ["Oxygen", "Carbon", "Hydrogen", "Nitrogen"],
+    "answer": "Oxygen"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for silver?",
+    "options": ["Ag", "Au", "Si", "Sr"],
+    "answer": "Ag"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which gas is used in fizzy drinks to make them bubbly?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which gas do plants release during the process of photosynthesis?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Oxygen"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for hydrogen?",
+    "options": ["H", "He", "Ho", "Hm"],
+    "answer": "H"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which substance gives lemons their sour taste?",
+    "options": ["Sugar", "Salt", "Citric Acid", "Vinegar"],
+    "answer": "Citric Acid"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the process of a gas turning directly into a solid without passing through the liquid state?",
+    "options": ["Condensation", "Evaporation", "Sublimation", "Melting"],
+    "answer": "Sublimation"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which gas is commonly used in balloons for flying purposes?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Helium"],
+    "answer": "Helium"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for carbon monoxide?",
+    "options": ["CO", "CO2", "C", "H2O"],
+    "answer": "CO"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which element is found in abundance in the Earth's crust?",
+    "options": ["Iron", "Aluminum", "Silicon", "Gold"],
+    "answer": "Silicon"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the process of a liquid turning into a solid?",
+    "options": ["Condensation", "Evaporation", "Melting", "Freezing"],
+    "answer": "Freezing"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which gas is responsible for the fizz in soda?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for nitrogen?",
+    "options": ["N", "Ni", "Na", "Ng"],
+    "answer": "N"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which metal is used to make batteries?",
+    "options": ["Gold", "Silver", "Copper", "Zinc"],
+    "answer": "Zinc"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the process of a solid turning directly into a gas without passing through the liquid state?",
+    "options": ["Condensation", "Evaporation", "Sublimation", "Melting"],
+    "answer": "Sublimation"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which substance is commonly used to preserve food?",
+    "options": ["Salt", "Sugar", "Vinegar", "Oil"],
+    "answer": "Salt"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for potassium?",
+    "options": ["P", "K", "Po", "Pt"],
+    "answer": "K"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which gas is produced when baking soda reacts with vinegar?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the process of a gas turning into a liquid?",
+    "options": ["Condensation", "Evaporation", "Melting", "Freezing"],
+    "answer": "Condensation"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which element is a non-metal gas with a distinct smell?",
+    "options": ["Oxygen", "Hydrogen", "Nitrogen", "Chlorine"],
+    "answer": "Chlorine"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for lead?",
+    "options": ["L", "Pb", "Le", "Pl"],
+    "answer": "Pb"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which gas is essential for burning?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Oxygen"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the process of a liquid turning directly into a gas without reaching its boiling point?",
+    "options": ["Condensation", "Evaporation", "Boiling", "Freezing"],
+    "answer": "Evaporation"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which metal is known for its use in making coins?",
+    "options": ["Gold", "Silver", "Copper", "Aluminum"],
+    "answer": "Copper"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for magnesium?",
+    "options": ["Mg", "Ma", "Me", "Mo"],
+    "answer": "Mg"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which substance is used to test for the presence of starch?",
+    "options": ["Sugar", "Salt", "Iodine", "Vinegar"],
+    "answer": "Iodine"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the process of a solid turning into a liquid?",
+    "options": ["Condensation", "Evaporation", "Melting", "Freezing"],
+    "answer": "Melting"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which gas is responsible for the greenhouse effect?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Methane"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for neon?",
+    "options": ["Ne", "No", "Na", "Ni"],
+    "answer": "Ne"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which element is essential for the formation of bones?",
+    "options": ["Oxygen", "Calcium", "Phosphorus", "Sodium"],
+    "answer": "Calcium"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the process of a liquid turning into a solid?",
+    "options": ["Condensation", "Evaporation", "Melting", "Freezing"],
+    "answer": "Freezing"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What gas do we breathe out during respiration?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which metal is commonly used in making electrical wires?",
+    "options": ["Gold", "Silver", "Copper", "Aluminum"],
+    "answer": "Copper"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for sulfur?",
+    "options": ["S", "Su", "Se", "Si"],
+    "answer": "S"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which gas is produced when a candle burns?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Methane"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the process of a gas turning into a solid without passing through the liquid state?",
+    "options": ["Condensation", "Evaporation", "Sublimation", "Melting"],
+    "answer": "Sublimation"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which element is essential for the formation of DNA?",
+    "options": ["Oxygen", "Carbon", "Hydrogen", "Phosphorus"],
+    "answer": "Phosphorus"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for chlorine?",
+    "options": ["Cl", "Ch", "Cn", "Ce"],
+    "answer": "Cl"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which substance is used to neutralize acids?",
+    "options": ["Sugar", "Salt", "Baking Soda", "Vinegar"],
+    "answer": "Baking Soda"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the process of a liquid turning into a gas below its boiling point?",
+    "options": ["Condensation", "Evaporation", "Melting", "Boiling"],
+    "answer": "Evaporation"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which gas is produced when metals react with acids?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Hydrogen"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for iodine?",
+    "options": ["I", "Io", "In", "Id"],
+    "answer": "I"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which element is essential for the process of cellular respiration?",
+    "options": ["Oxygen", "Carbon", "Hydrogen", "Nitrogen"],
+    "answer": "Oxygen"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the process of a liquid turning into a gas at its boiling point?",
+    "options": ["Condensation", "Evaporation", "Melting", "Boiling"],
+    "answer": "Boiling"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for mercury?",
+    "options": ["Mg", "Me", "Hg", "Mo"],
+    "answer": "Hg"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which gas is used in light bulbs to prevent the filament from burning?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+    "answer": "Argon"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the process of a solid turning directly into a gas without passing through the liquid state?",
+    "options": ["Condensation", "Evaporation", "Sublimation", "Melting"],
+    "answer": "Sublimation"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which element is commonly used in making glass?",
+    "options": ["Oxygen", "Silicon", "Carbon", "Sodium"],
+    "answer": "Silicon"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for zinc?",
+    "options": ["Zn", "Zi", "Zo", "Ze"],
+    "answer": "Zn"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which substance is used to test for the presence of carbon dioxide?",
+    "options": ["Lime Water", "Vinegar", "Bleach", "Ammonia"],
+    "answer": "Lime Water"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the process of a gas turning into a liquid?",
+    "options": ["Condensation", "Evaporation", "Melting", "Freezing"],
+    "answer": "Condensation"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which gas is used in fizzy drinks to create bubbles?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for potassium?",
+    "options": ["P", "K", "Po", "Pt"],
+    "answer": "K"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which element is essential for the structure of bones and teeth?",
+    "options": ["Oxygen", "Calcium", "Phosphorus", "Sodium"],
+    "answer": "Calcium"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the process of a liquid turning directly into a gas without reaching its boiling point?",
+    "options": ["Condensation", "Evaporation", "Boiling", "Freezing"],
+    "answer": "Evaporation"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which metal is known as quicksilver?",
+    "options": ["Gold", "Silver", "Copper", "Mercury"],
+    "answer": "Mercury"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for titanium?",
+    "options": ["T", "Ti", "To", "Te"],
+    "answer": "Ti"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which substance is commonly used in car batteries?",
+    "options": ["Salt", "Sulfuric Acid", "Vinegar", "Baking Soda"],
+    "answer": "Sulfuric Acid"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the process of a solid turning into a liquid?",
+    "options": ["Condensation", "Evaporation", "Melting", "Freezing"],
+    "answer": "Melting"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which gas is responsible for the color and smell of rotten eggs?",
+    "options": ["Oxygen", "Hydrogen Sulfide", "Nitrogen", "Methane"],
+    "answer": "Hydrogen Sulfide"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for iron oxide, commonly known as rust?",
+    "options": ["FeO", "Fe2O3", "Fe3O4", "Fe(OH)3"],
+    "answer": "Fe2O3"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which gas is used in the airbags of cars for rapid inflation in case of an accident?",
+    "options": ["Oxygen", "Nitrogen", "Helium", "Argon"],
+    "answer": "Nitrogen"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the process of a substance changing directly from a gas to a solid without passing through the liquid phase?",
+    "options": ["Condensation", "Evaporation", "Sublimation", "Deposition"],
+    "answer": "Deposition"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which element is commonly used in fluorescent light bulbs?",
+    "options": ["Neon", "Argon", "Mercury", "Krypton"],
+    "answer": "Mercury"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for sodium chloride, commonly known as table salt?",
+    "options": ["NaCl", "KCl", "HCl", "MgCl2"],
+    "answer": "NaCl"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which gas is produced when acids react with metal carbonates?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the process of separating a mixture based on the different boiling points of its components?",
+    "options": ["Distillation", "Filtration", "Evaporation", "Sublimation"],
+    "answer": "Distillation"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which gas is responsible for the buoyancy of hot air balloons?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Helium"],
+    "answer": "Helium"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for carbon tetrachloride?",
+    "options": ["CCl4", "CHCl3", "Cl2", "CO2"],
+    "answer": "CCl4"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which metal is known as quicksilver?",
+    "options": ["Gold", "Silver", "Copper", "Mercury"],
+    "answer": "Mercury"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for phosphoric acid?",
+    "options": ["H3PO4", "H2SO4", "HNO3", "HCl"],
+    "answer": "H3PO4"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which element is essential for the process of photosynthesis?",
+    "options": ["Oxygen", "Carbon", "Hydrogen", "Chlorine"],
+    "answer": "Carbon"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the process of converting a liquid into a gas below its boiling point?",
+    "options": ["Condensation", "Evaporation", "Melting", "Boiling"],
+    "answer": "Evaporation"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which gas is responsible for the unique smell of rotten fruits?",
+    "options": ["Oxygen", "Carbon Dioxide", "Ethylene", "Methane"],
+    "answer": "Ethylene"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for hydrochloric acid?",
+    "options": ["HCl", "H2SO4", "HNO3", "H3PO4"],
+    "answer": "HCl"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which substance is commonly used in hand warmers to generate heat through exothermic reactions?",
+    "options": ["Salt", "Activated Carbon", "Calcium Chloride", "Baking Soda"],
+    "answer": "Activated Carbon"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the process of a gas turning directly into a solid without passing through the liquid state?",
+    "options": ["Condensation", "Evaporation", "Sublimation", "Deposition"],
+    "answer": "Deposition"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which element is commonly used in the production of fireworks to create bright colors?",
+    "options": ["Aluminum", "Strontium", "Copper", "Barium"],
+    "answer": "Strontium"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for acetic acid?",
+    "options": ["HCl", "H2SO4", "CH3COOH", "HNO3"],
+    "answer": "CH3COOH"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which gas is responsible for the greenhouse effect?",
+    "options": ["Oxygen", "Carbon Dioxide", "Methane", "Nitrous Oxide"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the process of a liquid turning directly into a gas without reaching its boiling point?",
+    "options": ["Condensation", "Evaporation", "Boiling", "Sublimation"],
+    "answer": "Evaporation"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which gas is commonly used in the food industry to prevent food spoilage?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Sulfur Dioxide"],
+    "answer": "Nitrogen"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for methane?",
+    "options": ["CH4", "C2H6", "C3H8", "C4H10"],
+    "answer": "CH4"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which substance is commonly used in swimming pools to disinfect water?",
+    "options": ["Salt", "Chlorine", "Bromine", "Iodine"],
+    "answer": "Chlorine"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the process of a solid turning directly into a gas without passing through the liquid state?",
+    "options": ["Condensation", "Evaporation", "Sublimation", "Deposition"],
+    "answer": "Sublimation"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which gas is responsible for the sour taste in carbonated drinks?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for water vapor?",
+    "options": ["H2O", "CO2", "O2", "N2"],
+    "answer": "H2O"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which element is the primary component of organic compounds?",
+    "options": ["Carbon", "Hydrogen", "Oxygen", "Nitrogen"],
+    "answer": "Carbon"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the process of a gas turning directly into a solid without passing through the liquid state?",
+    "options": ["Condensation", "Evaporation", "Sublimation", "Deposition"],
+    "answer": "Deposition"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which metal is used in thermometers to measure temperature?",
+    "options": ["Gold", "Silver", "Mercury", "Aluminum"],
+    "answer": "Mercury"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for nitrogen dioxide?",
+    "options": ["NO", "NO2", "N2O", "N2"],
+    "answer": "NO2"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which gas is produced when baking powder reacts with water?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the process of a liquid turning into a gas below its boiling point?",
+    "options": ["Condensation", "Evaporation", "Melting", "Boiling"],
+    "answer": "Evaporation"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which gas is commonly used in lighters for combustion?",
+    "options": ["Oxygen", "Carbon Dioxide", "Butane", "Methane"],
+    "answer": "Butane"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for silver chloride?",
+    "options": ["AgCl", "Ag2Cl2", "AgCl2", "Ag3Cl"],
+    "answer": "AgCl"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which element is essential for the formation of acids?",
+    "options": ["Oxygen", "Hydrogen", "Carbon", "Sulfur"],
+    "answer": "Hydrogen"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the process of separating a mixture of liquids based on their different boiling points?",
+    "options": ["Distillation", "Filtration", "Evaporation", "Sublimation"],
+    "answer": "Distillation"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which gas is responsible for the distinct smell of natural gas?",
+    "options": ["Oxygen", "Methane", "Propane", "Butane"],
+    "answer": "Methane"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for potassium nitrate?",
+    "options": ["KNO3", "KNO2", "KN2O", "K2O"],
+    "answer": "KNO3"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which substance is commonly used to absorb moisture and keep things dry?",
+    "options": ["Salt", "Silica Gel", "Baking Soda", "Activated Carbon"],
+    "answer": "Silica Gel"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the process of a gas turning directly into a solid without passing through the liquid state?",
+    "options": ["Condensation", "Evaporation", "Sublimation", "Deposition"],
+    "answer": "Sublimation"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which element is a metal that is liquid at room temperature?",
+    "options": ["Mercury", "Bromine", "Gallium", "Francium"],
+    "answer": "Mercury"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for hydrofluoric acid?",
+    "options": ["HF", "HCl", "HBr", "HI"],
+    "answer": "HF"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which gas is used in fire extinguishers to suppress flames?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Halon"],
+    "answer": "Halon"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the process of a solid turning directly into a gas without passing through the liquid state?",
+    "options": ["Condensation", "Evaporation", "Sublimation", "Deposition"],
+    "answer": "Sublimation"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which metal is commonly used as a catalyst in converters to reduce vehicle emissions?",
+    "options": ["Gold", "Silver", "Platinum", "Palladium"],
+    "answer": "Platinum"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for ammonia?",
+    "options": ["NH3", "NH4", "N2H4", "NO2"],
+    "answer": "NH3"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which substance is commonly used in the preservation of fruits and vegetables?",
+    "options": ["Salt", "Sugar", "Vinegar", "Citric Acid"],
+    "answer": "Citric Acid"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the process of a liquid turning directly into a gas without reaching its boiling point?",
+    "options": ["Condensation", "Evaporation", "Boiling", "Sublimation"],
+    "answer": "Evaporation"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which gas is used in the production of soft drinks to create carbonation?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Helium"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for tungsten?",
+    "options": ["T", "Tu", "Tw", "W"],
+    "answer": "W"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which element is commonly used in the production of fireworks to produce a white color?",
+    "options": ["Strontium", "Copper", "Barium", "Sodium"],
+    "answer": "Barium"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for hydroiodic acid?",
+    "options": ["H3I", "H2I2", "HI", "H4I"],
+    "answer": "HI"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which gas is responsible for the fizzy bubbles in sparkling water?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for table sugar?",
+    "options": ["H2O", "NaCl", "C6H12O6", "CO2"],
+    "answer": "C6H12O6"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which element is commonly used in the production of batteries?",
+    "options": ["Lithium", "Sodium", "Potassium", "Rubidium"],
+    "answer": "Lithium"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the process of a gas turning directly into a solid without passing through the liquid state?",
+    "options": ["Condensation", "Evaporation", "Sublimation", "Deposition"],
+    "answer": "Deposition"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which gas is used in balloons to make them float in the air?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Helium"],
+    "answer": "Helium"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for calcium carbonate, commonly found in chalk and limestone?",
+    "options": ["CaO", "CaCO3", "Ca(OH)2", "CaCl2"],
+    "answer": "CaCO3"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which gas is produced when metal reacts with acid?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Hydrogen"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the process of a liquid turning into a gas below its boiling point?",
+    "options": ["Condensation", "Evaporation", "Melting", "Boiling"],
+    "answer": "Evaporation"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which substance is commonly used to disinfect wounds?",
+    "options": ["Salt", "Alcohol", "Iodine", "Hydrogen Peroxide"],
+    "answer": "Iodine"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for nitrogen trifluoride?",
+    "options": ["NF3", "N2F3", "N3F2", "N2F"],
+    "answer": "NF3"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which metal is known as the heaviest metal?",
+    "options": ["Gold", "Platinum", "Lead", "Uranium"],
+    "answer": "Uranium"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for sulfuric acid?",
+    "options": ["H2SO4", "HCl", "HNO3", "H3PO4"],
+    "answer": "H2SO4"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which element is commonly used in the production of matches?",
+    "options": ["Phosphorus", "Sulfur", "Chlorine", "Bromine"],
+    "answer": "Phosphorus"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the process of a gas turning directly into a solid without passing through the liquid state?",
+    "options": ["Condensation", "Evaporation", "Sublimation", "Deposition"],
+    "answer": "Deposition"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which gas is commonly used in the production of fizzy drinks?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Soda Vapor"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for barium sulfate?",
+    "options": ["BaSO4", "Ba2SO4", "BaSO3", "Ba2SO3"],
+    "answer": "BaSO4"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which substance is commonly used in preserving fruits by slowing down the ripening process?",
+    "options": ["Sugar", "Salt", "Citric Acid", "Ascorbic Acid"],
+    "answer": "Ascorbic Acid"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the process of a solid turning directly into a gas without passing through the liquid state?",
+    "options": ["Condensation", "Evaporation", "Sublimation", "Deposition"],
+    "answer": "Sublimation"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which element is commonly used in the production of rubber?",
+    "options": ["Oxygen", "Carbon", "Hydrogen", "Sulfur"],
+    "answer": "Sulfur"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for sodium bicarbonate?",
+    "options": ["NaHCO3", "Na2CO3", "NaOH", "NaCl"],
+    "answer": "NaHCO3"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which gas is used in the atmosphere to protect us from harmful solar radiation?",
+    "options": ["Oxygen", "Carbon Dioxide", "Ozone", "Nitrogen"],
+    "answer": "Ozone"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for hydrogen peroxide?",
+    "options": ["H2O2", "HOH", "H2SO4", "HCl"],
+    "answer": "H2O2"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which substance is commonly used in fire extinguishers to remove oxygen and suppress fire?",
+    "options": ["Water", "Carbon Dioxide", "Nitrogen", "Foam"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the process of a liquid turning directly into a gas without reaching its boiling point?",
+    "options": ["Condensation", "Evaporation", "Boiling", "Sublimation"],
+    "answer": "Evaporation"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which gas is commonly used in the food industry to prevent oxidation and spoilage of packaged foods?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Sulfur Dioxide"],
+    "answer": "Nitrogen"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for phosphorous trichloride?",
+    "options": ["PCl3", "PCl5", "P2Cl3", "P3Cl2"],
+    "answer": "PCl3"
+  },
+  {
+    "category": "Chemistry",
+    "question": "Which element is commonly used in the production of jewelry due to its luster and resistance to tarnish?",
+    "options": ["Gold", "Silver", "Platinum", "Copper"],
+    "answer": "Gold"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for acetylsalicylic acid, commonly known as aspirin?",
+    "options": ["ASA", "ASC", "ASB", "ACD"],
+    "answer": "ASA"
+  }
+]
+
+
+
+
+
+

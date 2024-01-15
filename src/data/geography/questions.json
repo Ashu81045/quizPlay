@@ -1,0 +1,870 @@
+[
+  {
+    "category": "Geography",
+    "question": "Which river is often called the 'Father of Waters'?",
+    "options": ["Nile", "Amazon", "Mississippi", "Yangtze"],
+    "answer": "Mississippi"
+  },
+  {
+    "category": "Geography",
+    "question": "In which country would you find the Serengeti National Park, famous for its wildlife?",
+    "options": ["Kenya", "South Africa", "Tanzania", "Uganda"],
+    "answer": "Tanzania"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of Mexico?",
+    "options": ["Buenos Aires", "Lima", "Mexico City", "Bogota"],
+    "answer": "Mexico City"
+  },
+  {
+    "category": "Geography",
+    "question": "Which ocean is the smallest and shallowest among the world's oceans?",
+    "options": ["Atlantic", "Indian", "Arctic", "Southern"],
+    "answer": "Arctic"
+  },
+  {
+    "category": "Geography",
+    "question": "In which country would you find the Great Victoria Desert, the largest desert in Australia?",
+    "options": ["Australia", "South Africa", "Argentina", "Saudi Arabia"],
+    "answer": "Australia"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of South Korea?",
+    "options": ["Seoul", "Busan", "Incheon", "Pyongyang"],
+    "answer": "Seoul"
+  },
+  {
+    "category": "Geography",
+    "question": "Which mountain range forms a natural border between Europe and Asia?",
+    "options": ["Andes", "Himalayas", "Ural Mountains", "Rocky Mountains"],
+    "answer": "Ural Mountains"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the smallest country in the world?",
+    "options": ["Vatican City", "Monaco", "San Marino", "Nauru"],
+    "answer": "Vatican City"
+  },
+  {
+    "category": "Geography",
+    "question": "In which country would you find the famous ancient city of Petra?",
+    "options": ["Greece", "Italy", "Jordan", "Turkey"],
+    "answer": "Jordan"
+  },
+  {
+    "category": "Geography",
+    "question": "Which continent is known as the 'Land Down Under'?",
+    "options": ["Africa", "South America", "Australia", "Antarctica"],
+    "answer": "Australia"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of Russia?",
+    "options": ["St. Petersburg", "Moscow", "Kiev", "Minsk"],
+    "answer": "Moscow"
+  },
+  {
+    "category": "Geography",
+    "question": "Which river is the longest in China and the third-longest in the world?",
+    "options": ["Yangtze", "Yellow River", "Mekong", "Indus"],
+    "answer": "Yangtze"
+  },
+  {
+    "category": "Geography",
+    "question": "In which country would you find the Mauna Kea volcano, the tallest mountain when measured from its base?",
+    "options": ["USA", "Japan", "Chile", "Indonesia"],
+    "answer": "USA"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the largest lake in North America?",
+    "options": ["Great Bear Lake", "Lake Superior", "Lake Baikal", "Great Slave Lake"],
+    "answer": "Lake Superior"
+  },
+  {
+    "category": "Geography",
+    "question": "Which country is known as the 'Land of Fire and Ice'?",
+    "options": ["Iceland", "Greenland", "Norway", "Canada"],
+    "answer": "Iceland"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of Argentina?",
+    "options": ["Buenos Aires", "Rio de Janeiro", "Lima", "Santiago"],
+    "answer": "Buenos Aires"
+  },
+  {
+    "category": "Geography",
+    "question": "Which sea is located between Europe and Africa?",
+    "options": ["Black Sea", "Red Sea", "Mediterranean Sea", "Caspian Sea"],
+    "answer": "Mediterranean Sea"
+  },
+  {
+    "category": "Geography",
+    "question": "In which country would you find the Amazon Rainforest?",
+    "options": ["Brazil", "Peru", "Colombia", "Venezuela"],
+    "answer": "Brazil"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of South Africa?",
+    "options": ["Cape Town", "Pretoria", "Johannesburg", "Durban"],
+    "answer": "Pretoria"
+  },
+  {
+    "category": "Geography",
+    "question": "Which strait separates Asia and North America?",
+    "options": ["Strait of Gibraltar", "Bering Strait", "Strait of Malacca", "English Channel"],
+    "answer": "Bering Strait"
+  },
+  {
+    "category": "Geography",
+    "question": "In which country would you find the Atacama Desert, one of the driest deserts in the world?",
+    "options": ["Chile", "Argentina", "Peru", "Bolivia"],
+    "answer": "Chile"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of Egypt?",
+    "options": ["Cairo", "Alexandria", "Luxor", "Aswan"],
+    "answer": "Cairo"
+  },
+  {
+    "category": "Geography",
+    "question": "Which island country is known as the 'Pearl of the Indian Ocean'?",
+    "options": ["Maldives", "Mauritius", "Seychelles", "Sri Lanka"],
+    "answer": "Sri Lanka"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of Peru?",
+    "options": ["Bogota", "Lima", "Quito", "Caracas"],
+    "answer": "Lima"
+  },
+  {
+    "category": "Geography",
+    "question": "Which river is known as the 'Cradle of Chinese Civilization'?",
+    "options": ["Yellow River", "Yangtze", "Indus", "Mekong"],
+    "answer": "Yellow River"
+  },
+  {
+    "category": "Geography",
+    "question": "In which country would you find the famous city of Istanbul, straddling two continents?",
+    "options": ["Greece", "Turkey", "Bulgaria", "Romania"],
+    "answer": "Turkey"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of Saudi Arabia?",
+    "options": ["Riyadh", "Jeddah", "Mecca", "Medina"],
+    "answer": "Riyadh"
+  },
+  {
+    "category": "Geography",
+    "question": "Which lake is the largest by surface area in Africa?",
+    "options": ["Lake Victoria", "Lake Tanganyika", "Lake Malawi", "Lake Albert"],
+    "answer": "Lake Victoria"
+  },
+  {
+    "category": "Geography",
+    "question": "Which country is known as the 'Land of the Rising Sun'?",
+    "options": ["Japan", "China", "South Korea", "India"],
+    "answer": "Japan"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the largest desert in the world?",
+    "options": ["Sahara", "Gobi", "Antarctica", "Arabian"],
+    "answer": "Antarctica"
+  },
+  {
+    "category": "Geography",
+    "question": "In which continent is the Sahara Desert located?",
+    "options": ["Africa", "Asia", "South America", "Australia"],
+    "answer": "Africa"
+  },
+  {
+    "category": "Geography",
+    "question": "Which river is considered the 'Cradle of Civilization'?",
+    "options": ["Nile", "Indus", "Tigris", "Yangtze"],
+    "answer": "Tigris"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of New Zealand?",
+    "options": ["Sydney", "Wellington", "Auckland", "Canberra"],
+    "answer": "Wellington"
+  },
+  {
+    "category": "Geography",
+    "question": "Which ocean is the smallest and shallowest among the world's oceans?",
+    "options": ["Atlantic", "Indian", "Arctic", "Southern"],
+    "answer": "Arctic"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of Thailand?",
+    "options": ["Bangkok", "Hanoi", "Phnom Penh", "Jakarta"],
+    "answer": "Bangkok"
+  },
+  {
+    "category": "Geography",
+    "question": "Which mountain range is known as the 'Roof of the World'?",
+    "options": ["Andes", "Himalayas", "Alps", "Rocky Mountains"],
+    "answer": "Himalayas"
+  },
+  {
+    "category": "Geography",
+    "question": "In which country is Mount Fuji located?",
+    "options": ["China", "Japan", "South Korea", "Indonesia"],
+    "answer": "Japan"
+  },
+  {
+    "category": "Geography",
+    "question": "Which African country is known as the 'Pearl of Africa'?",
+    "options": ["Kenya", "Nigeria", "Uganda", "South Africa"],
+    "answer": "Uganda"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of Argentina?",
+    "options": ["Buenos Aires", "Rio de Janeiro", "Lima", "Santiago"],
+    "answer": "Buenos Aires"
+  },
+  {
+    "category": "Geography",
+    "question": "In which country would you find the Great Wall?",
+    "options": ["India", "China", "Russia", "Mongolia"],
+    "answer": "China"
+  },
+  {
+    "category": "Geography",
+    "question": "Which sea is bordered by Italy, Croatia, and Greece?",
+    "options": ["Mediterranean Sea", "Black Sea", "Red Sea", "Adriatic Sea"],
+    "answer": "Adriatic Sea"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of South Africa?",
+    "options": ["Cape Town", "Johannesburg", "Pretoria", "Durban"],
+    "answer": "Pretoria"
+  },
+  {
+    "category": "Geography",
+    "question": "In which continent is the Amazon Rainforest located?",
+    "options": ["South America", "Africa", "Asia", "North America"],
+    "answer": "South America"
+  },
+  {
+    "category": "Geography",
+    "question": "Which country is known as the 'Land of a Thousand Lakes'?",
+    "options": ["Canada", "Finland", "Sweden", "Russia"],
+    "answer": "Finland"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the longest river in South America?",
+    "options": ["Amazon", "Orinoco", "Parana", "Magdalena"],
+    "answer": "Amazon"
+  },
+  {
+    "category": "Geography",
+    "question": "In which country is the famous city of Marrakech located?",
+    "options": ["Morocco", "Algeria", "Tunisia", "Libya"],
+    "answer": "Morocco"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of Malaysia?",
+    "options": ["Bangkok", "Kuala Lumpur", "Jakarta", "Manila"],
+    "answer": "Kuala Lumpur"
+  },
+  {
+    "category": "Geography",
+    "question": "Which river is known as the 'Blue Nile' and originates from Lake Tana?",
+    "options": ["Nile", "Congo", "Tigris", "Blue Nile"],
+    "answer": "Blue Nile"
+  },
+  {
+    "category": "Geography",
+    "question": "In which country would you find the ancient city of Machu Picchu?",
+    "options": ["Peru", "Bolivia", "Chile", "Ecuador"],
+    "answer": "Peru"
+  },
+  {
+    "category": "Geography",
+    "question": "Which desert is often called the 'Stony Desert'?",
+    "options": ["Gobi", "Atacama", "Sahara", "Karakum"],
+    "answer": "Gobi"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of Saudi Arabia?",
+    "options": ["Riyadh", "Jeddah", "Mecca", "Medina"],
+    "answer": "Riyadh"
+  },
+  {
+    "category": "Geography",
+    "question": "In which country would you find Lake Baikal, the deepest freshwater lake in the world?",
+    "options": ["Russia", "Canada", "Mongolia", "China"],
+    "answer": "Russia"
+  },
+  {
+    "category": "Geography",
+    "question": "Which country is known as the 'Land of the Pharaohs'?",
+    "options": ["Greece", "Italy", "Egypt", "Turkey"],
+    "answer": "Egypt"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the highest mountain in North America?",
+    "options": ["Denali", "Mount Logan", "Mount St. Elias", "Mount Foraker"],
+    "answer": "Denali"
+  },
+  {
+    "category": "Geography",
+    "question": "In which ocean is the Great Barrier Reef located?",
+    "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+    "answer": "Pacific"
+  },
+  {
+    "category": "Geography",
+    "question": "Which river is the longest in Europe?",
+    "options": ["Danube", "Volga", "Rhine", "Thames"],
+    "answer": "Volga"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of Turkey?",
+    "options": ["Istanbul", "Ankara", "Izmir", "Antalya"],
+    "answer": "Ankara"
+  },
+  {
+    "category": "Geography",
+    "question": "In which country would you find the ancient city of Petra, famous for its rock-cut architecture?",
+    "options": ["Greece", "Italy", "Jordan", "Turkey"],
+    "answer": "Jordan"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of Canada?",
+    "options": ["Toronto", "Vancouver", "Montreal", "Ottawa"],
+    "answer": "Ottawa"
+  },
+  {
+    "category": "Geography",
+    "question": "Which sea is located to the east of the Korean Peninsula?",
+    "options": ["East China Sea", "Sea of Japan", "Yellow Sea", "South China Sea"],
+    "answer": "Sea of Japan"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the highest mountain in South America?",
+    "options": ["Aconcagua", "Huascaran", "Cotopaxi", "Fitz Roy"],
+    "answer": "Aconcagua"
+  },
+  {
+    "category": "Geography",
+    "question": "In which African country would you find the Atlas Mountains?",
+    "options": ["Morocco", "Algeria", "Tunisia", "Libya"],
+    "answer": "Morocco"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of South Sudan?",
+    "options": ["Juba", "Khartoum", "Nairobi", "Addis Ababa"],
+    "answer": "Juba"
+  },
+  {
+    "category": "Geography",
+    "question": "Which ocean is the smallest and shallowest among the world's oceans?",
+    "options": ["Atlantic", "Indian", "Arctic", "Southern"],
+    "answer": "Arctic"
+  },
+  {
+    "category": "Geography",
+    "question": "In which country would you find Lake Titicaca, the highest navigable lake in the world?",
+    "options": ["Peru", "Bolivia", "Ecuador", "Chile"],
+    "answer": "Peru"
+  },
+  {
+    "category": "Geography",
+    "question": "Which country is known as the 'Land of a Thousand Lakes'?",
+    "options": ["Canada", "Finland", "Sweden", "Russia"],
+    "answer": "Finland"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of Nigeria?",
+    "options": ["Accra", "Lagos", "Abuja", "Kano"],
+    "answer": "Abuja"
+  },
+  {
+    "category": "Geography",
+    "question": "In which continent is the Great Dividing Range located?",
+    "options": ["North America", "South America", "Australia", "Africa"],
+    "answer": "Australia"
+  },
+  {
+    "category": "Geography",
+    "question": "Which river is known as the 'Blue Danube'?",
+    "options": ["Thames", "Rhine", "Danube", "Seine"],
+    "answer": "Danube"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of Indonesia?",
+    "options": ["Manila", "Bangkok", "Jakarta", "Kuala Lumpur"],
+    "answer": "Jakarta"
+  },
+  {
+    "category": "Geography",
+    "question": "In which country would you find the city of Marrakech?",
+    "options": ["Morocco", "Algeria", "Tunisia", "Libya"],
+    "answer": "Morocco"
+  },
+  {
+    "category": "Geography",
+    "question": "Which desert is often called the 'Land of Little Rain'?",
+    "options": ["Atacama", "Gobi", "Sonoran", "Karakum"],
+    "answer": "Sonoran"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+    "answer": "Canberra"
+  },
+  {
+    "category": "Geography",
+    "question": "In which country would you find Mount Elbrus, the highest mountain in Europe?",
+    "options": ["Switzerland", "Russia", "Georgia", "Austria"],
+    "answer": "Russia"
+  },
+  {
+    "category": "Geography",
+    "question": "Which river is the longest in Africa?",
+    "options": ["Congo", "Nile", "Zambezi", "Niger"],
+    "answer": "Nile"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of Bangladesh?",
+    "options": ["Dhaka", "Kathmandu", "Colombo", "Islamabad"],
+    "answer": "Dhaka"
+  },
+  {
+    "category": "Geography",
+    "question": "Which country is known as the 'Land of the Rising Sun'?",
+    "options": ["Japan", "China", "South Korea", "India"],
+    "answer": "Japan"
+  },
+  {
+    "category": "Geography",
+    "question": "In which ocean is the Bermuda Triangle located?",
+    "options": ["Atlantic", "Indian", "Pacific", "Southern"],
+    "answer": "Atlantic"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of Switzerland?",
+    "options": ["Vienna", "Zurich", "Geneva", "Bern"],
+    "answer": "Bern"
+  },
+  {
+    "category": "Geography",
+    "question": "Which country is known as the 'Land of the Midnight Sun'?",
+    "options": ["Norway", "Finland", "Sweden", "Denmark"],
+    "answer": "Norway"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the smallest country in Africa?",
+    "options": ["Seychelles", "Lesotho", "Swaziland", "Comoros"],
+    "answer": "Seychelles"
+  },
+  {
+    "category": "Geography",
+    "question": "In which country would you find the city of Istanbul, straddling two continents?",
+    "options": ["Greece", "Turkey", "Bulgaria", "Romania"],
+    "answer": "Turkey"
+  },
+  {
+    "category": "Geography",
+    "question": "Which ocean is located to the west of Africa?",
+    "options": ["Atlantic", "Indian", "Pacific", "Southern"],
+    "answer": "Atlantic"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of Peru?",
+    "options": ["Bogota", "Lima", "Quito", "Caracas"],
+    "answer": "Lima"
+  },
+  {
+    "category": "Geography",
+    "question": "In which country would you find the famous city of Casablanca?",
+    "options": ["Morocco", "Tunisia", "Algeria", "Libya"],
+    "answer": "Morocco"
+  },
+  {
+    "category": "Geography",
+    "question": "Which strait separates Asia and North America?",
+    "options": ["Strait of Gibraltar", "Bering Strait", "Strait of Hormuz", "Malacca Strait"],
+    "answer": "Bering Strait"
+  },
+  {
+    "category": "Geography",
+    "question": "In which country would you find the city of Cusco, the historic capital of the Inca Empire?",
+    "options": ["Peru", "Mexico", "Colombia", "Ecuador"],
+    "answer": "Peru"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of South Korea?",
+    "options": ["Seoul", "Busan", "Incheon", "Pyongyang"],
+    "answer": "Seoul"
+  },
+  {
+    "category": "Geography",
+    "question": "Which river is known as the 'Yellow River' and is considered the cradle of Chinese civilization?",
+    "options": ["Yangtze", "Huang He", "Mekong", "Indus"],
+    "answer": "Huang He"
+  },
+  {
+    "category": "Geography",
+    "question": "In which country would you find the city of Marrakech?",
+    "options": ["Morocco", "Algeria", "Tunisia", "Libya"],
+    "answer": "Morocco"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of Argentina?",
+    "options": ["Buenos Aires", "Rio de Janeiro", "Lima", "Santiago"],
+    "answer": "Buenos Aires"
+  },
+  {
+    "category": "Geography",
+    "question": "Which strait separates the island of Sumatra from the Malay Peninsula?",
+    "options": ["Strait of Malacca", "Strait of Hormuz", "Bering Strait", "Gibraltar Strait"],
+    "answer": "Strait of Malacca"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the largest lake in Africa?",
+    "options": ["Lake Victoria", "Lake Tanganyika", "Lake Malawi", "Lake Chad"],
+    "answer": "Lake Victoria"
+  },
+  {
+    "category": "Geography",
+    "question": "In which ocean is the Great Barrier Reef located?",
+    "options": ["Pacific", "Indian", "Atlantic", "Southern"],
+    "answer": "Pacific"
+  },
+  {
+    "category": "Geography",
+    "question": "Which mountain range is known as the 'Spine of Italy'?",
+    "options": ["Dolomites", "Apennines", "Alps", "Carpathians"],
+    "answer": "Apennines"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of Saudi Arabia?",
+    "options": ["Riyadh", "Jeddah", "Mecca", "Medina"],
+    "answer": "Riyadh"
+  },
+  {
+    "category": "Geography",
+    "question": "Which river is the longest in Europe?",
+    "options": ["Danube", "Volga", "Rhine", "Thames"],
+    "answer": "Volga"
+  },
+  {
+    "category": "Geography",
+    "question": "In which country would you find the ancient city of Athens?",
+    "options": ["Greece", "Italy", "Spain", "Turkey"],
+    "answer": "Greece"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the highest mountain in North America?",
+    "options": ["Denali", "Mount Logan", "Mount St. Elias", "Mount Foraker"],
+    "answer": "Denali"
+  },
+  {
+    "category": "Geography",
+    "question": "Which river is the longest in South America?",
+    "options": ["Amazon", "Orinoco", "Parana", "Magdalena"],
+    "answer": "Amazon"
+  },
+  {
+    "category": "Geography",
+    "question": "In which continent is the Great Dividing Range located?",
+    "options": ["Australia", "North America", "South America", "Europe"],
+    "answer": "Australia"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of Norway?",
+    "options": ["Stockholm", "Helsinki", "Oslo", "Copenhagen"],
+    "answer": "Oslo"
+  },
+  {
+    "category": "Geography",
+    "question": "Which sea is located to the east of the Italian Peninsula?",
+    "options": ["Mediterranean Sea", "Ionian Sea", "Adriatic Sea", "Tyrrhenian Sea"],
+    "answer": "Adriatic Sea"
+  },
+  {
+    "category": "Geography",
+    "question": "In which country would you find the city of Santiago, nestled in the Andes Mountains?",
+    "options": ["Argentina", "Chile", "Peru", "Bolivia"],
+    "answer": "Chile"
+  },
+  {
+    "category": "Geography",
+    "question": "Which country is known as the 'Land of the Long White Cloud'?",
+    "options": ["Australia", "New Zealand", "Ireland", "Canada"],
+    "answer": "New Zealand"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of Egypt?",
+    "options": ["Cairo", "Alexandria", "Luxor", "Aswan"],
+    "answer": "Cairo"
+  },
+  {
+    "category": "Geography",
+    "question": "Which river is known as the 'Cradle of Chinese Civilization'?",
+    "options": ["Yellow River", "Yangtze", "Indus", "Mekong"],
+    "answer": "Yellow River"
+  },
+  {
+    "category": "Geography",
+    "question": "In which country would you find the city of Vienna, famous for its classical music heritage?",
+    "options": ["Austria", "Germany", "Switzerland", "Hungary"],
+    "answer": "Austria"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of Malaysia?",
+    "options": ["Bangkok", "Kuala Lumpur", "Jakarta", "Manila"],
+    "answer": "Kuala Lumpur"
+  },
+  {
+    "category": "Geography",
+    "question": "Which lake is the largest by surface area in North America?",
+    "options": ["Lake Superior", "Lake Michigan", "Lake Huron", "Great Bear Lake"],
+    "answer": "Lake Superior"
+  },
+  {
+    "category": "Geography",
+    "question": "In which country would you find the city of Casablanca?",
+    "options": ["Morocco", "Tunisia", "Algeria", "Libya"],
+    "answer": "Morocco"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of South Africa?",
+    "options": ["Cape Town", "Johannesburg", "Pretoria", "Durban"],
+    "answer": "Pretoria"
+  },
+  {
+    "category": "Geography",
+    "question": "Which river is known as the 'Cradle of Egypt'?",
+    "options": ["Nile", "Tigris", "Euphrates", "Jordan"],
+    "answer": "Nile"
+  },
+  {
+    "category": "Geography",
+    "question": "In which country would you find the city of Istanbul, straddling two continents?",
+    "options": ["Greece", "Turkey", "Bulgaria", "Romania"],
+    "answer": "Turkey"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of Brazil?",
+    "options": ["Rio de Janeiro", "Sao Paulo", "Brasilia", "Salvador"],
+    "answer": "Brasilia"
+  },
+  {
+    "category": "Geography",
+    "question": "In which country would you find the ancient city of Petra, famous for its rock-cut architecture?",
+    "options": ["Greece", "Italy", "Jordan", "Turkey"],
+    "answer": "Jordan"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of Canada?",
+    "options": ["Toronto", "Vancouver", "Montreal", "Ottawa"],
+    "answer": "Ottawa"
+  },
+  {
+    "category": "Geography",
+    "question": "Which sea is located to the east of the Korean Peninsula?",
+    "options": ["East China Sea", "Sea of Japan", "Yellow Sea", "South China Sea"],
+    "answer": "Sea of Japan"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the highest mountain in South America?",
+    "options": ["Aconcagua", "Huascaran", "Cotopaxi", "Fitz Roy"],
+    "answer": "Aconcagua"
+  },
+  {
+    "category": "Geography",
+    "question": "In which African country would you find the Atlas Mountains?",
+    "options": ["Morocco", "Algeria", "Tunisia", "Libya"],
+    "answer": "Morocco"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of South Sudan?",
+    "options": ["Juba", "Khartoum", "Nairobi", "Addis Ababa"],
+    "answer": "Juba"
+  },
+  {
+    "category": "Geography",
+    "question": "Which ocean is the smallest and shallowest among the world's oceans?",
+    "options": ["Atlantic", "Indian", "Arctic", "Southern"],
+    "answer": "Arctic"
+  },
+  {
+    "category": "Geography",
+    "question": "In which country would you find Lake Titicaca, the highest navigable lake in the world?",
+    "options": ["Peru", "Bolivia", "Ecuador", "Chile"],
+    "answer": "Peru"
+  },
+  {
+    "category": "Geography",
+    "question": "Which country is known as the 'Land of a Thousand Lakes'?",
+    "options": ["Canada", "Finland", "Sweden", "Russia"],
+    "answer": "Finland"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of Nigeria?",
+    "options": ["Accra", "Lagos", "Abuja", "Kano"],
+    "answer": "Abuja"
+  },
+  {
+    "category": "Geography",
+    "question": "In which continent is the Great Dividing Range located?",
+    "options": ["North America", "South America", "Australia", "Africa"],
+    "answer": "Australia"
+  },
+  {
+    "category": "Geography",
+    "question": "Which river is known as the 'Blue Danube'?",
+    "options": ["Thames", "Rhine", "Danube", "Seine"],
+    "answer": "Danube"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of Indonesia?",
+    "options": ["Manila", "Bangkok", "Jakarta", "Kuala Lumpur"],
+    "answer": "Jakarta"
+  },
+  {
+    "category": "Geography",
+    "question": "In which country would you find the city of Marrakech?",
+    "options": ["Morocco", "Algeria", "Tunisia", "Libya"],
+    "answer": "Morocco"
+  },
+  {
+    "category": "Geography",
+    "question": "Which desert is often called the 'Land of Little Rain'?",
+    "options": ["Atacama", "Gobi", "Sonoran", "Karakum"],
+    "answer": "Sonoran"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+    "answer": "Canberra"
+  },
+  {
+    "category": "Geography",
+    "question": "In which country would you find Mount Elbrus, the highest mountain in Europe?",
+    "options": ["Switzerland", "Russia", "Georgia", "Austria"],
+    "answer": "Russia"
+  },
+  {
+    "category": "Geography",
+    "question": "Which river is the longest in Africa?",
+    "options": ["Congo", "Nile", "Zambezi", "Niger"],
+    "answer": "Nile"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of Bangladesh?",
+    "options": ["Dhaka", "Kathmandu", "Colombo", "Islamabad"],
+    "answer": "Dhaka"
+  },
+  {
+    "category": "Geography",
+    "question": "Which country is known as the 'Land of the Rising Sun'?",
+    "options": ["Japan", "China", "South Korea", "India"],
+    "answer": "Japan"
+  },
+  {
+    "category": "Geography",
+    "question": "In which ocean is the Bermuda Triangle located?",
+    "options": ["Atlantic", "Indian", "Pacific", "Southern"],
+    "answer": "Atlantic"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of Switzerland?",
+    "options": ["Vienna", "Zurich", "Geneva", "Bern"],
+    "answer": "Bern"
+  },
+  {
+    "category": "Geography",
+    "question": "Which country is known as the 'Land of the Midnight Sun'?",
+    "options": ["Norway", "Finland", "Sweden", "Denmark"],
+    "answer": "Norway"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the smallest country in Africa?",
+    "options": ["Seychelles", "Lesotho", "Swaziland", "Comoros"],
+    "answer": "Seychelles"
+  },
+  {
+    "category": "Geography",
+    "question": "In which country would you find the city of Istanbul, straddling two continents?",
+    "options": ["Greece", "Turkey", "Bulgaria", "Romania"],
+    "answer": "Turkey"
+  },
+  {
+    "category": "Geography",
+    "question": "Which ocean is located to the west of Africa?",
+    "options": ["Atlantic", "Indian", "Pacific", "Southern"],
+    "answer": "Atlantic"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of Peru?",
+    "options": ["Bogota", "Lima", "Quito", "Caracas"],
+    "answer": "Lima"
+  },
+  {
+    "category": "Geography",
+    "question": "In which country would you find the famous city of Casablanca?",
+    "options": ["Morocco", "Tunisia", "Algeria", "Libya"],
+    "answer": "Morocco"
+  },
+  {
+    "category": "Geography",
+    "question": "Which strait separates Asia and North America?",
+    "options": ["Strait of Gibraltar", "Bering Strait", "Strait of Hormuz", "Malacca Strait"],
+    "answer": "Bering Strait"
+  }
+]
+
+
+
+
