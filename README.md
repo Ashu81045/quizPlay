@@ -24,16 +24,16 @@ To get started with QuizPlay, follow these steps:
 
 ## Screenshots
 
-![Screenshot 1](./screenshots/screenshots1.png)
+![Screenshot 1](./screenshots/screenshots1.jpg)
 *Registration Page*
 
-![Screenshot 2](./screenshots/screenshots2.png)
+![Screenshot 2](./screenshots/screenshots2.jpg)
 *Home Page*
 
-![Screenshot 3](./screenshots/screenshots3.png)
+![Screenshot 3](./screenshots/screenshots3.jpg)
 *Quiz Play Ground*
 
-![Screenshot 4](./screenshots/screenshots4.png)
+![Screenshot 4](./screenshots/screenshots4.jpg)
 *Performance Analysis*
 
 ## Contributing
