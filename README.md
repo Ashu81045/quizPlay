@@ -1,11 +1,45 @@
-# Sample Snack app
+# QuizPlay: Fun Learning for Kids
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Welcome to QuizPlay, the ultimate learning companion for primary kids! Our app is designed to make learning engaging and enjoyable through interactive quizzes. With a vast collection of over 1000 questions, kids can explore various categories and boost their knowledge while having fun.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## Key Features
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+- **Educational Quizzes:** Covering a range of subjects from General Knowledge to Science, our quizzes are crafted for primary school kids.
+- **Kid-Friendly Interface:** Simple and intuitive UI to ensure a seamless learning experience for young minds.
+- **Visual Learning:** Engaging visuals and easy-to-understand questions make learning a delightful experience.
+- **Continuous Updates:** We are constantly working on improvements, including adding new categories and fetching questions from reliable sources to keep the content fresh.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+## Technologies Used
+- React native with ExpoGO
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+
+## Getting Started
+
+To get started with QuizPlay, follow these steps:
+
+0. Download the APK and start interacting, alternative you can pull the repo and start playing. Built on Expo go
+1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+2. Install dependencies: `npm install`
+3. Run the app: `npm start`
+
+## Screenshots
+
+![Screenshot 1](./screenshots/screenshots1.png)
+*Registration Page*
+
+![Screenshot 2](./screenshots/screenshots2.png)
+*Home Page*
+
+![Screenshot 3](./screenshots/screenshots3.png)
+*Quiz Play Ground*
+
+![Screenshot 4](./screenshots/screenshots4.png)
+*Performance Analysis*
+
+## Contributing
+
+We welcome contributions! If you'd like to contribute to QuizPlay, please follow our [contribution guidelines](CONTRIBUTING.md).
+
+Download QuizPlay now and let the learning adventure begin!
+
+*Stay tuned for exciting updates as we enhance the app to provide an even better learning experience for your little ones.*
